@@ -1,0 +1,91 @@
+---
+title: "Medical Education Resources"
+---
+
+# About
+
+Welcome! This website is basically my reference guide for medical education.
+It grew out of a series of Google files I created and shared over the course of
+medical school.
+I realized very quickly that some of my tables, like the one for medical
+abbreviations, would be really useful if they were accessible to more than 
+just my friends.
+As you rotate through the hospital, you'll find that each specialty
+(and subspecialty, and subsubspecialty) has its own set of acronyms.
+Plus, in the hospital setting, people tend to talk in brand names (the horror!).
+If you made it here, I hope you find it useful.
+
+
+# Physical Exam Skills
+
+- [Clinical Examination of the Hip | NEJM](https://doi.org/10.1056/NEJMvcm2000815)
+
+- [Examination of the Hand and Wrist | NEJM](https://doi.org/10.1056/NEJMvcm1407111)
+
+- [Clinical Examination of the Shoulder | NEJM](https://doi.org/10.1056/NEJMvcm1212941)
+
+- [Clinical Evaluation of the Knee | NEJM](https://doi.org/10.1056/NEJMvcm0803821)
+
+- [Pelvic Examination | NEJM](https://doi.org/10.1056/NEJMvcm061320)
+
+- [Male GU Exam | AUA](https://www.auanet.org/meetings-and-education/for-medical-students/gu-exams/male-gu-exam) (overview page, links to specific Vimeo videos)
+
+- [The Exam for Ankle & Foot Pain | Stanford](https://www.youtube.com/watch?v=sZ7HXCoTzbo)
+
+- [Abdominal Examination of the Newborn | Stanford](https://www.youtube.com/watch?v=KvNbtoxO6t4)
+
+- [Physical Examination of a Premature Infant | Stanford](https://www.youtube.com/watch?v=6HV1lFlkgoI)
+
+# Technical Skills
+
+- [Positive-Pressure Ventilation with Flow-Inflating Bag | AAP](https://players.brightcove.net/6056665225001/default_default/index.html?videoId=6303724810001)
+
+- [Log Roll | Advanced Critical Care Nursing](https://www.youtube.com/watch?v=-_OkMf_umyE)
+
+- [Cardiac Ultrasound | POCUS 101](https://www.pocus101.com/cardiac-ultrasound-echocardiography-made-easy-step-by-step-guide/)
+
+- [Intro to Focused Cardiac Ultrasound | Renal Fellow](https://www.renalfellow.org/2019/06/07/introduction-to-focused-cardiac-ultrasound-the-parasternal-long-axis-view/)
+
+- [American Institute of Ultrasound in Medicine (AIUM) on YouTube](https://www.youtube.com/@AIUMultrasound)
+
+- [How to... perform a paediatric lumbar puncture | Don't Forget the Bubbles](https://www.youtube.com/watch?v=l09U1OYmphQ)
+
+- [How I insert a trauma chest tube in a child - chest drain rule of 4s | Don't Forget the Bubbles](https://www.youtube.com/watch?v=sMy1_pVhxvY)
+
+- [How to reduce a pulled elbow (nursemaid's elbow reduction)? | Don't Forget the Bubbles](https://www.youtube.com/watch?v=JUr4xazNdFM&feature=youtu.be)
+
+- [How to remove a foreign body from the ear | Don't Forget the Bubbles](https://www.youtube.com/watch?v=Vd3F3RAzjpg)
+
+- [How to Change a G Tube | CHOP](https://www.youtube.com/watch?v=sXXABWTvB_I)
+
+- [Practical Guide to Clinical Medicine | UCSD](https://meded.ucsd.edu/clinicalmed/introduction.html) (written instructions for PE techniques and photos of common findings)
+
+- [Removal of Foreign Bodies from the Ear and Nose | NEJM](https://doi.org/10.1056/NEJMvcm1207469)
+
+- [Surgical Chest Tube Insertion | NEJM](https://doi.org/10.1056/NEJMvcm071974)
+
+- [Needle Aspiration of Primary Spontaneous Pneumothorax | NEJM](https://doi.org/10.1056/NEJMvcm1207469)
+
+- [Technique for Temporary Pelvic Stabilization after Trauma | NEJM](https://doi.org/10.1056/NEJMvcm1200383)
+
+- [Basics of Point-of-Care Lung Ultrasonography | NEJM](https://doi.org/10.1056/NEJMvcm2108203)
+
+- [Use of eFAST in Patients with Injury to the Thorax or Abdomen | NEJM](https://doi.org/10.1056/NEJMvcm2107283)
+
+- [Procedural Sedation and Analgesia in Children | NEJM](https://doi.org/10.1056/NEJMvcm1108559)
+
+- [Basic Splinting Techniques | NEJM](https://doi.org/10.1056/NEJMvcm0801942)
+
+- [Basic Laceration Repair | NEJM](https://doi.org/10.1056/NEJMvcm064238)
+
+- [Abscess Incision and Drainage | NEJM](https://doi.org/10.1056/NEJMvcm071319)
+
+- [Lumbar Puncture | NEJM](https://doi.org/10.1056/NEJMvcm054952)
+
+- [Nasogastric Intubation | NEJM](https://doi.org/10.1056/NEJMvcm050183)
+
+- [Intraosseous Catheter Placement in Children | NEJM](https://doi.org/10.1056/NEJMvcm0900916)
+
+- [Pigtail Insertion for Pneumothorax | EM Crit](https://www.youtube.com/watch?v=FDxZyR9abAs)
+
+- [How to Professional Fit a CAM Boot](https://www.youtube.com/watch?v=bjl5F-8nlTA)

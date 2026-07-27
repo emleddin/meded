@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Brand/Generic Table</title>
+
+<script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/htmltools-fill-0.5.8.1/fill.css" rel="stylesheet" />
+<script src="site_libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
+<link href="site_libs/datatables-css-0.0.0/datatables-crosstalk.css" rel="stylesheet" />
+<script src="site_libs/datatables-binding-0.33/datatables.js"></script>
+<link href="site_libs/dt-core-1.13.6/css/jquery.dataTables.min.css" rel="stylesheet" />
+<link href="site_libs/dt-core-1.13.6/css/jquery.dataTables.extra.css" rel="stylesheet" />
+<script src="site_libs/dt-core-1.13.6/js/jquery.dataTables.min.js"></script>
+<link href="site_libs/dt-ext-responsive-1.13.6/css/responsive.dataTables.min.css" rel="stylesheet" />
+<script src="site_libs/dt-ext-responsive-1.13.6/js/dataTables.responsive.min.js"></script>
+<script src="site_libs/jszip-1.13.6/jszip.min.js"></script>
+<script src="site_libs/pdfmake-1.13.6/pdfmake.js"></script>
+<script src="site_libs/pdfmake-1.13.6/vfs_fonts.js"></script>
+<link href="site_libs/dt-ext-buttons-1.13.6/css/buttons.dataTables.min.css" rel="stylesheet" />
+<script src="site_libs/dt-ext-buttons-1.13.6/js/dataTables.buttons.min.js"></script>
+<script src="site_libs/dt-ext-buttons-1.13.6/js/buttons.html5.min.js"></script>
+<script src="site_libs/dt-ext-buttons-1.13.6/js/buttons.colVis.min.js"></script>
+<script src="site_libs/dt-ext-buttons-1.13.6/js/buttons.print.min.js"></script>
+<link href="site_libs/crosstalk-1.2.1/css/crosstalk.min.css" rel="stylesheet" />
+<script src="site_libs/crosstalk-1.2.1/js/crosstalk.min.js"></script>
+<html lang="en">
+<link href="https://fonts.googleapis.com/css?family=Reem+Kufi|Roboto:300" rel="stylesheet">
+<link href="https://use.fontawesome.com/releases/v5.12.0/css/all.css" rel="stylesheet">
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">MedEd</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Tables
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="brand-generic.html">Brands and Generics</a>
+    </li>
+    <li>
+      <a href="clinical-abbreviations.html">Clinical Abbreviations and Acronyms</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Pediatrics
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="pediatrics.html">Pediatric Educational Resources</a>
+    </li>
+    <li>
+      <a href="pediatrics-smart-text.html">Pediatrics Smart Text</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="languages.html">Languages</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    PDF Templates
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="PDF-Templates/ICU-Rounding-Template.pdf">ICU Rounding</a>
+    </li>
+    <li>
+      <a href="PDF-Templates/NICU-Rounding-Template.pdf">NICU Rounding</a>
+    </li>
+    <li>
+      <a href="PDF-Templates/OB-Mag-Checks.pdf">OB Magnesium Checks</a>
+    </li>
+    <li>
+      <a href="PDF-Templates/OB-Postpartum.pdf">OB Postpartum</a>
+    </li>
+    <li>
+      <a href="PDF-Templates/ROS-Quick-Sheet.pdf">Review of Systems</a>
+    </li>
+    <li>
+      <a href="PDF-Templates/Undiagnosed-Encounter-Template-Form.pdf">Undiagnosed Template (H&amp;P)</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Spanish PDF Templates
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="PDF-Templates/RDS-Spanish.pdf">Revisión de los sistemas (Review of Systems)</a>
+    </li>
+    <li>
+      <a href="PDF-Templates/Undiagnosed-Template-Spanish.pdf">Undiagnosed Template (H&amp;P)</a>
+    </li>
+  </ul>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Brand/Generic Table</h1>
+
+</div>
+
+
+<div class="datatables html-widget html-fill-item" id="htmlwidget-9539f9b72bd5542724f1" style="width:100%;height:auto;"></div>
+<script type="application/json" data-for="htmlwidget-9539f9b72bd5542724f1">{"x":{"filter":"none","vertical":false,"extensions":["Responsive","Buttons"],"data":[["Abilify","Adderall","Aldactone","Aloxi","Alvesco","Amicar","Ancef","Aristada","Atarax","Ativan","Augmentin","Bactrim","Bactroban","Banzel","Benadryl","Betadine","Beyfortus","BiDil","Brilinta","Bumex","BuSpar","Cardizem","Carnitor","Catapres","Celexa","CellCept","Cogentin","Compazine","Concerta","Coreg","Coumadin","Cozaar","Creon","Crestor","Culturelle","Curosurf","Cuvposa","Cymbalta","Cytotec","Decadron","Depakote","Desitin","Diamox","Diastat","Differin","Dilantin","Dilaudid","Diprivan","Ditropan","Diuril","DuoNeb","Dupixent","Effer-K","Effexor","Effient","Emend","Engerix-B","Entresto","Epidiolex","Farxiga","Flagyl","Flovent","Focalin","Garamycin","Haldol","Humalog","Imdur","Intuniv","Invega","Invega Sustenna","Januvia","Jardiance","Keflex","Kefzol","Kenalog","Keppra","Klonopin","Lamictal","Lantus","Lasix","Latuda","Levaquin","Levsin","Lexapro","Librium","Lipitor","Lopressor","Lybalvi","Lyrica","Macrobid","MiraLAX","Motrin","Mucomyst","Nayzilam","Neffy","Norco","Norcuron","Norvasc","Novolog","Ofirmev","Omnipen","Onfi","Orap","Paxil","Pentacel","Peridex","Phytonadione","Pitocin","Pittsburgh Paste","Plaquenil","Plavix","Precedex","Prevacid","Pristiq","Procardia","Protonix","Prozac","Pulmicort","Pulmozyme","Qelbree","Questran","Quillichew","Quillivant","Reglan","Remeron","Rhythmol","Ritalin","Rituxin","Rocephin","Romazicon","Roxicodone","Seroquel","Singulair","Solu-Medrol","Spravato","Sublimaze","Suboxone","Subutex","Symbicort","Synthroid","Tenex","Tigan","Toprol","Toradol","Toujeo","Trelegy Ellipta","Trikafta","Trileptal","Trintellix","Tylenol","Unasyn","Uzedy","Valium","Valtoco","Valtrex","Vaxelis","Vaxneuvance","Versed","Vesicare","Vimpat","Vistaril","Vivitrol","Vraylar","Vyvanse","Wellbutrin","Wellcovorin","Xanax","Xarelto","Xopenex","Zithromax","Zofran","Zoloft","Zometa","Zonegran","Zosyn","Zyprexa","Zyrtec"],["Aripiprazole","Amphetamine/Dextroamphetamine","Spironolactone","Palonosetron","Ciclesonide","Aminocaproic acid","Cefazolin","Aripiprazole (injection)","Hydroxyzine","Lorazepam","Amoxicillin and clavulanate potassium","Sulfamethoxazole/Trimethoprim","Mupirocin","Rufinamide","Diphenhydramine","Povidone-iodine","Nirsevimab (RSV immunization)","Hydralazine/Isosorbide dinitrate","Ticagrelor","Bumetanide","Buspirone","Diltiazem","Levocarnitine","Clonidine","Citalopram","Mycophenolate mofetil","Benztropine","Prochlorperazine","Methylphenidate","Carvedilol","Warfarin","Losartan","Pancrelipase","Rosuvastatin","Lactobacillus rhamnosus GG","Poractant alfa systemic (pulmonary surfactant)","Glycopyrrolate","Duloxetine","Misoprostol","Dexamethasone","Divalproex sodium","Zinc oxide-cod liver oil","Acetazolamide","Diazepam rectal gel","Adapalene","Phenytoin","Hydromorphone","Propofol (“Prop” pronounced like row with p’s on both ends)","Oxybutynin","Chlorothiazide","Albuterol/Ipratropium","Dupilumab","Potassium bicarbonate","Venlafaxine","Prasugrel","Aprepitant","Hepatitis B vaccine","Sacubitril/Valsartan","Cannabidiol (CBD)","Dapagliflozin","Metronidazole","Fluticasone propionate","Dexmethylphenidate","Gentamicin","Haloperidol","Insulin lispro","Isosorbide mononitrate","Guanfacine","Paliperidone","Paliperidone","Sitagliptin","Empagliflozin","Cephalexin","Cefazolin","Triamcinolone","Levetiracetam","Clonazepam","Lamotrigine","Insulin glargine","Furosemide","Lurasidone","Levofloxacin","Hyoscyamine","Escitalopram","Chlordiazepoxide","Atorvastatin","Metoprolol","Olanzapine/samidorphan","Pregabalin","Nitrofurantoin","Polyethylene glycol 3350","Ibuprofen","Acetylcysteine","Intranasal Midazolam","Intranasal epinephrine","Hydrocodone/Acetaminophen","Vecuronium (“Vec”)","Amlodipine","Insulin aspart","Acetaminophen (injectable/IV)","Ampicillin","Clobazam","Pimozide","Paroxetine","DTaP, Polio, Haemophilus influenzae type b vaccine","Chlorhexidine (mouthwash)","Vitamin K1","Oxytocin  (“Pit”)","mineral oil, Aquaphor, and cholestyramine powder","Hydroxychloroquine","Clopidogrel","Dexmedetomidine (“Dexmed”)","Lansoprazole","Desvenlafaxine","Nifedipine","Pantoprazole","Fluoxetine","Budesonide","Dornase alfa","Viloxazine","Cholestyramine","Methylphenidate","Methylphenidate","Metoclopramide","Mirtazapine","Propafenone","Methylphenidate","Rituximab","Ceftriaxone","Flumazenil","Oxycodone","Quetiapine","Montelukast sodium","Methylprednisolone","Esketamine","Fentanyl","Buprenorphine/Naloxone","Buprenorphine","Budesonide/Formoterol","Levothyroxine","Guanfacine","Trimethobenzamide","Metoprolol","Ketorolac","Insulin glargine","Fluticasone/Umeclidinium/Vilanterol","Elexacaftor/tezacaftor/ivacaftor and ivacaftor","Oxcarbazepine","Vortioxetine","Acetaminophen","Ampicillin/sulbactam","Risperidone","Diazepam","Intranasal Diazepam","Valacyclovir (also spelled valaciclovir)","DTaP, Polio, Haemophilus influenzae type b, Hepatitis B vaccine","PCV15 pneumococcal vaccine","Midazolam","Solifenacin","Lacosamide","Hydroxyzine","Naltrexone","Cariprazine","Lisdexamfetamine","Bupropion","Leucovorin","Alprazolam","Rivaroxaban","Levalbuterol","Azithromycin","Ondansetron","Sertraline","Zoledronic acid","Zonisamide","Piperacillin/Tazobactam","Olanzapine","Cetirizine"]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th>Brand<\/th>\n      <th>Generic<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"dom":"QBfrtip","pageLength":20,"class":"stripe","buttons":["copy","csv","excel",{"extend":"pdf","orientation":"landscape","exportoptions":{"pageSize":"LEGAL"}},"print"],"columnDefs":[{"name":"Brand","targets":0},{"name":"Generic","targets":1}],"order":[],"autoWidth":false,"orderClasses":false,"responsive":true,"lengthMenu":[10,20,25,50,100]}},"evals":[],"jsHooks":[]}</script>
+
+<footer>
+<br>
+<center>
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
+
+<br>
+<a target="_blank" href="https://github.com/emleddin" aria-label="GitHub"><i class="fab fa-github" aria-hidden="true"></i></a>
+<a target="_blank" href="https://gist.github.com/emleddin" aria-label="GitHub Gist"><i class="fas fa-code" aria-hidden="true"></i></a>
+<a target="_blank" href="https://orcid.org/0000-0003-1610-0092" aria-label="ORCID"><i class="fab fa-orcid" aria-hidden="true"></i></a>
+
+</center>
+</footer>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

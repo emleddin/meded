@@ -1,0 +1,148 @@
+---
+title: "Language Resources"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# Translation Services
+
+Make sure whatever you're using is HIPAA compliant and works with your local policies.
+
+# Spanish
+
+- [Medical Spanish: Español Sin Limites](https://www.medicalspanish.org/)
+  - Has a [Pediatrics](https://www.medicalspanish.org/pediatrics) specific tag, including HEEADSSS assessment phrases
+
+- [Medical Spanish for Healthcare Providers](https://practicingspanish.com/index.html)
+
+- [Spanish for Medical Professionals | 123 Teach Me](https://www.123teachme.com/learn_spanish/medical-spanish)
+
+- [Medine Lingua](http://medinelingua.info/spanish/es_abbr.php) (abbreviations)
+
+- [Medical History & ROS Translated | UFL](https://mcc.med.ufl.edu/files/2012/06/Medical-History-Spanish.pdf)
+
+## Online Courses
+
+- [Spanish for Successful Communication in Healthcare Settings | Rice University, Coursea](https://www.coursera.org/learn/spanish-in-healthcare-settings#instructors)
+
+- [Foundations of Medical Spanish | EdX](https://www.edx.org/course/foundations-of-medical-spanish)
+
+- [Spanish for Medical Professionals | Ed2Go](https://www.ed2go.com/uga/online-courses/learn-spanish-for-medical-professionals/) (not free)
+
+## Books
+
+- [Spanish for Pediatric Medicine | AAP](https://publications.aap.org/aapbooks/book/651/Spanish-for-Pediatric-Medicine)
+
+- [Complete Medical Spanish | Archive](https://archive.org/details/completemedicals0000rosj)
+
+- [Medical Spanish Made Incredibly Easy | Archive](https://archive.org/details/medicalspanishma0000unse_d5w7)
+
+- [Problem-Based Medical Spanish | Archive](https://archive.org/details/problembasedmedi0000unse_t0v0)
+
+## Anki Decks
+
+- [Paired with McGraw-Hill Complete Medical Spanish with Audio](https://www.reddit.com/r/medicalschoolanki/comments/ct7pjc/medical_spanish_anki_w_embedded_audio/)
+
+- [USF MCOM Canopy Medical Spanish All Levels](https://ankiweb.net/shared/info/105309202)
+
+## Podcasts
+
+- Spanish Language Coach
+
+  - [Spanish for False Beginners - Español para falsos principiantes](https://www.spanishlanguagecoach.com/beginnerspanishpodcast)
+    - [Apple Podcasts](https://podcasts.apple.com/us/podcast/spanish-for-false-beginners-espa%C3%B1ol-para-falsos-principiantes/id1620249469)
+    - [Spotify](https://open.spotify.com/show/44FK2QYAOVMqrjza0YxBe3?si=837314364e4f4ead&nd=1)
+
+  - [Intermediate Spanish Podcast - Español Intermedio](https://www.spanishlanguagecoach.com/podcast)
+    - [Apple Podcasts](https://podcasts.apple.com/gb/podcast/intermediate-spanish-podcast/id1479285354)
+    - [Spotify](https://open.spotify.com/show/1UlqKYtmhUkLBQdOCH5JeR?si=b7a11969c7034ce9)
+
+  - [Advanced Spanish Podcast - Español Avanzado](https://www.spanishlanguagecoach.com/advanced-spanish-podcast)
+    - [Apple Podcasts](https://podcasts.apple.com/us/podcast/id1632291264)
+    - [Spotify](https://open.spotify.com/show/5tdtAh2pNQyUJdBzlwl2mc?si=f0fa922e40c2438e)
+
+- Medical Spanish by Dr. Molly Martin
+  - [Apple Podcasts](https://podcasts.apple.com/us/podcast/medical-spanish-podcast/id263417520)
+  - [Spotify](https://open.spotify.com/show/57SMVc7GB0cIi6iSWCixyP?si=e1bb2e57b8ea4fb1)
+  - Full downloadable series on [Doc Molly](https://docmolly.com/) site (Not free) 
+
+- Learn Medical Spanish by Ben Tanner
+  - [Apple Podcasts](https://podcasts.apple.com/us/podcast/learn-medical-spanish/id1594136779)
+  - [Spotify](https://open.spotify.com/show/5YztcKPErZCbg5cGBjLRgp)
+  - [YouTube](https://www.youtube.com/c/LearnMedicalSpanish/featured)
+
+## YouTube
+
+### Medical Spanish
+
+- [MrLearnSpanish](https://www.youtube.com/watch?v=hQwEqDIy7Rs&list=PLomyeP8aQIKS3DNue1MGRgb6j9tGWJN7N)
+
+- [Learn Medical Spanish](https://www.youtube.com/playlist?list=PLBqoPLEOohQO9fHs0JBCxoR_5SDFrgQS8)
+
+- [MedicalSpanishWithMichael](https://www.youtube.com/c/MedicalSpanishwithMichael/featured)
+
+- [RxLinguistics - Spanish for Nurses](https://www.youtube.com/channel/UCGy7NJmAuCU9GAB6bVhIL8g/featured)
+
+### General Spanish
+
+- [Butterfly Spanish](https://www.youtube.com/c/ButterflySpanish)
+
+- [SpanishPod101](https://www.youtube.com/c/spanishpod101/playlists)
+
+### Patient Education
+
+- [MedlinePlus in Spanish](https://medlineplus.gov/spanish/)
+
+- [CDC Spanish site](https://www.cdc.gov/spanish/index.html)
+
+- [Smoke Free Español](https://espanol.smokefree.gov/)
+
+- [Kids Health](https://kidshealth.org/es/kids.html)
+
+- [My Plate](https://www.myplate.gov/resources/en-espanol)
+
+- [National Cancer Institute](https://www.cancer.gov/espanol)
+
+- [World Health Organization](https://www.who.int/es/home)
+
+- [Respuestas del Corazón (Fact Sheets) | AHA](https://www.heart.org/en/health-topics/consumer-healthcare/answers-by-heart-fact-sheets/respuestas-del-corazon)
+
+- [Blood Pressure Measurement | AMA](https://map.ama-assn.org/resources/how-measure-blood-pressure-home)
+
+# ASL
+
+- [A Guide to Basic Medical ASL | Ability Together](https://abilitytogether.org/wp-content/uploads/2025/09/ASL-handout-2025.pdf)
+
+- [ASL Bloom](https://www.aslbloom.com/collections/asl-medical)
+
+- [Basic Medical Sign Language](https://www.ellismedlibrary.org/uploads/9/1/9/0/91901496/asl.pdf)
+
+- [Medical Signing | Life Print](https://www.lifeprint.com/asl101/pages-signs/medical/medical-signing-01.htm#gsc.tab=0)
+
+- [ASL-LEX](https://asl-lex.org/about.html)
+
+## Books
+
+- [Medi-Sign — A Complete Medical Sign Language Course in ASL](https://drjosephgarcia.com/products/medi-sign-a-complete-asl-medical-sign-course)
+
+# Additional Languages
+
+- [Point to Talk Books | Mass General](https://www.massgeneral.org/interpreters/resources)
+
+- [CDC Resources in Languages Other than English](https://wwwn.cdc.gov/pubs/other-languages?Sort=Lang%3A%3Aasc)
+
+- [PHQ and GAD-7 in Other Languages](https://www.phqscreeners.com/select-screener)
+
+- [Patient-Provider Communication Language Tools (pictograms)](https://www.patientprovidercommunication.org/covid-19-tools/free-bilingual-tools/?language=spanish)
+
+# Apps
+
+- [Duolingo](https://www.duolingo.com/)
+
+- [CanopySpeak](https://info.withcanopy.com/canopy-speak)
+
+- Rogers Dictionary, [iOS](https://apps.apple.com/app/apple-store/id1574202729) and [Android](https://play.google.com/store/apps/details?id=com.rogers_dictionary)
+
+

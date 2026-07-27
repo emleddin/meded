@@ -1,0 +1,128 @@
+---
+title: "Pediatrics Smart Text"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# Well Child Visits/Well Child Checks
+
+Note: These are built using Epic built-ins (like `@NAME@`) and wildcards (`***`).
+
+## Newborn (3 to 5 days)
+
+### HPI
+
+```
+@NAME@ is a ***-day-old born to a G***P*** person by ***.
+
+- GBS: 
+- Serologies: 
+- Complications:
+- NICU: 
+- Bili Lights:
+- Hearing screen:
+- CHD screen: 
+- Hep B:
+- Vitamin K:
+- Erythromycin: 
+- DAT:
+
+
+- Feeding
+  - Type: [Breast/Bottle/Both]
+  - Amount:
+  - Frequency: 
+  - Supplementation with Vitamin D if breastfeeding
+- Sleeping
+  - Location: Bassinet
+- Elimination
+  - Transitioned stools
+  - *** wet diapers per day
+```
+
+### Anticipatory Guidance
+
+```
+Umbilical cord
+
+
+Safe Sleep
+- 
+
+Environment
+- Make sure there are working smoke alarms and carbon monoxide alarms in the home
+
+Feeding
+- No honey or cow's milk until 1 year
+- If using formula, mix one leveled-off scoop of formula to every 2 oz of water
+- For babies only recieving breast milk, supplement with Poly-Vi-Sol daily
+
+Smoking
+- Smoking around babies and young children can lead to more frequent illnesses, asthma, and sudden infant death syndrome (SIDS)
+- Avoid smoking in the home. Any smoking outside the home should change their clothes and wash their hands before interacting with the baby.
+```
+
+## 1 Month
+
+```
+@NAME@ is a @AGE@ presenting today for 1 month well-child visit.
+
+- Feeding
+  - Type: [Breast/Bottle/Both]
+  - Amount:
+  - Frequency: 
+- Sleeping
+- Elimination
+
+
+```
+
+### HPI
+
+### Anticipatory Guidance
+
+## 2 Months
+
+## 4 Months
+
+### Anticipatory Guidance
+
+```
+Feeding
+- No honey or cow's milk until 1 year
+- Supplement with Poly-Vi-Sol with iron daily
+```
+
+## 6 Months
+
+## 9 Months
+
+## 12 Months (1 Year)
+
+## 15 Months
+
+## 18 Months (1.5 Years)
+
+## 24 Months (2 Years)
+
+## 30 Months (2.5 Years)
+
+## 3 Years
+
+## 4 Years
+
+## 5 Years
+
+## 6 Years
+
+## 7 Years
+
+## 8 Years
+
+## 9 Years
+
+## 10 Years
+
+[Annually until 21]

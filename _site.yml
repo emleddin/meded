@@ -1,0 +1,49 @@
+name: "Website Name"
+output_dir: "docs"
+#navbar: _navbar.html
+navbar:
+  title: "MedEd"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Tables"
+      menu:
+      - text: "Brands and Generics"
+        href: brand-generic.html
+      - text: "Clinical Abbreviations and Acronyms"
+        href: clinical-abbreviations.html
+    - text: "Pediatrics"
+      menu:
+      - text: "Pediatric Educational Resources"
+        href: pediatrics.html
+      - text: "Pediatrics Smart Text"
+        href: pediatrics-smart-text.html
+    - text: "Languages"
+      href: languages.html
+    - text: "PDF Templates"
+      menu:
+      - text: "ICU Rounding"
+        href: PDF-Templates/ICU-Rounding-Template.pdf
+      - text: "NICU Rounding"
+        href: PDF-Templates/NICU-Rounding-Template.pdf
+      - text: "OB Magnesium Checks"
+        href: PDF-Templates/OB-Mag-Checks.pdf
+      - text: "OB Postpartum"
+        href: PDF-Templates/OB-Postpartum.pdf
+      - text: "Review of Systems"
+        href: PDF-Templates/ROS-Quick-Sheet.pdf
+      - text: "Undiagnosed Template (H&P)"
+        href: PDF-Templates/Undiagnosed-Encounter-Template-Form.pdf
+    - text: "Spanish PDF Templates"
+      menu:
+      - text: "Revisión de los sistemas (Review of Systems)"
+        href: PDF-Templates/RDS-Spanish.pdf
+      - text: "Undiagnosed Template (H&P)"
+        href: PDF-Templates/Undiagnosed-Template-Spanish.pdf
+output:
+  html_document:
+    theme: cosmo
+    css: 'style.css'
+    include:
+      in_header: header.html
+      after_body: footer.html

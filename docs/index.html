@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Medical Education Resources</title>
+
+<script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<html lang="en">
+<link href="https://fonts.googleapis.com/css?family=Reem+Kufi|Roboto:300" rel="stylesheet">
+<link href="https://use.fontawesome.com/releases/v5.12.0/css/all.css" rel="stylesheet">
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">MedEd</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Tables
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="brand-generic.html">Brands and Generics</a>
+    </li>
+    <li>
+      <a href="clinical-abbreviations.html">Clinical Abbreviations and Acronyms</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Pediatrics
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="pediatrics.html">Pediatric Educational Resources</a>
+    </li>
+    <li>
+      <a href="pediatrics-smart-text.html">Pediatrics Smart Text</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="languages.html">Languages</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    PDF Templates
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="PDF-Templates/ICU-Rounding-Template.pdf">ICU Rounding</a>
+    </li>
+    <li>
+      <a href="PDF-Templates/NICU-Rounding-Template.pdf">NICU Rounding</a>
+    </li>
+    <li>
+      <a href="PDF-Templates/OB-Mag-Checks.pdf">OB Magnesium Checks</a>
+    </li>
+    <li>
+      <a href="PDF-Templates/OB-Postpartum.pdf">OB Postpartum</a>
+    </li>
+    <li>
+      <a href="PDF-Templates/ROS-Quick-Sheet.pdf">Review of Systems</a>
+    </li>
+    <li>
+      <a href="PDF-Templates/Undiagnosed-Encounter-Template-Form.pdf">Undiagnosed Template (H&amp;P)</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Spanish PDF Templates
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="PDF-Templates/RDS-Spanish.pdf">Revisión de los sistemas (Review of Systems)</a>
+    </li>
+    <li>
+      <a href="PDF-Templates/Undiagnosed-Template-Spanish.pdf">Undiagnosed Template (H&amp;P)</a>
+    </li>
+  </ul>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Medical Education Resources</h1>
+
+</div>
+
+
+<div id="about" class="section level1">
+<h1>About</h1>
+<p>Welcome! This website is basically my reference guide for medical
+education. It grew out of a series of Google files I created and shared
+over the course of medical school. I realized very quickly that some of
+my tables, like the one for medical abbreviations, would be really
+useful if they were accessible to more than just my friends. As you
+rotate through the hospital, you’ll find that each specialty (and
+subspecialty, and subsubspecialty) has its own set of acronyms. Plus, in
+the hospital setting, people tend to talk in brand names (the horror!).
+If you made it here, I hope you find it useful.</p>
+</div>
+<div id="physical-exam-skills" class="section level1">
+<h1>Physical Exam Skills</h1>
+<ul>
+<li><p><a href="https://doi.org/10.1056/NEJMvcm2000815">Clinical
+Examination of the Hip | NEJM</a></p></li>
+<li><p><a href="https://doi.org/10.1056/NEJMvcm1407111">Examination of
+the Hand and Wrist | NEJM</a></p></li>
+<li><p><a href="https://doi.org/10.1056/NEJMvcm1212941">Clinical
+Examination of the Shoulder | NEJM</a></p></li>
+<li><p><a href="https://doi.org/10.1056/NEJMvcm0803821">Clinical
+Evaluation of the Knee | NEJM</a></p></li>
+<li><p><a href="https://doi.org/10.1056/NEJMvcm061320">Pelvic
+Examination | NEJM</a></p></li>
+<li><p><a
+href="https://www.auanet.org/meetings-and-education/for-medical-students/gu-exams/male-gu-exam">Male
+GU Exam | AUA</a> (overview page, links to specific Vimeo
+videos)</p></li>
+<li><p><a href="https://www.youtube.com/watch?v=sZ7HXCoTzbo">The Exam
+for Ankle &amp; Foot Pain | Stanford</a></p></li>
+<li><p><a href="https://www.youtube.com/watch?v=KvNbtoxO6t4">Abdominal
+Examination of the Newborn | Stanford</a></p></li>
+<li><p><a href="https://www.youtube.com/watch?v=6HV1lFlkgoI">Physical
+Examination of a Premature Infant | Stanford</a></p></li>
+</ul>
+</div>
+<div id="technical-skills" class="section level1">
+<h1>Technical Skills</h1>
+<ul>
+<li><p><a
+href="https://players.brightcove.net/6056665225001/default_default/index.html?videoId=6303724810001">Positive-Pressure
+Ventilation with Flow-Inflating Bag | AAP</a></p></li>
+<li><p><a href="https://www.youtube.com/watch?v=-_OkMf_umyE">Log Roll |
+Advanced Critical Care Nursing</a></p></li>
+<li><p><a
+href="https://www.pocus101.com/cardiac-ultrasound-echocardiography-made-easy-step-by-step-guide/">Cardiac
+Ultrasound | POCUS 101</a></p></li>
+<li><p><a
+href="https://www.renalfellow.org/2019/06/07/introduction-to-focused-cardiac-ultrasound-the-parasternal-long-axis-view/">Intro
+to Focused Cardiac Ultrasound | Renal Fellow</a></p></li>
+<li><p><a href="https://www.youtube.com/@AIUMultrasound">American
+Institute of Ultrasound in Medicine (AIUM) on YouTube</a></p></li>
+<li><p><a href="https://www.youtube.com/watch?v=l09U1OYmphQ">How to…
+perform a paediatric lumbar puncture | Don’t Forget the
+Bubbles</a></p></li>
+<li><p><a href="https://www.youtube.com/watch?v=sMy1_pVhxvY">How I
+insert a trauma chest tube in a child - chest drain rule of 4s | Don’t
+Forget the Bubbles</a></p></li>
+<li><p><a
+href="https://www.youtube.com/watch?v=JUr4xazNdFM&amp;feature=youtu.be">How
+to reduce a pulled elbow (nursemaid’s elbow reduction)? | Don’t Forget
+the Bubbles</a></p></li>
+<li><p><a href="https://www.youtube.com/watch?v=Vd3F3RAzjpg">How to
+remove a foreign body from the ear | Don’t Forget the
+Bubbles</a></p></li>
+<li><p><a href="https://www.youtube.com/watch?v=sXXABWTvB_I">How to
+Change a G Tube | CHOP</a></p></li>
+<li><p><a
+href="https://meded.ucsd.edu/clinicalmed/introduction.html">Practical
+Guide to Clinical Medicine | UCSD</a> (written instructions for PE
+techniques and photos of common findings)</p></li>
+<li><p><a href="https://doi.org/10.1056/NEJMvcm1207469">Removal of
+Foreign Bodies from the Ear and Nose | NEJM</a></p></li>
+<li><p><a href="https://doi.org/10.1056/NEJMvcm071974">Surgical Chest
+Tube Insertion | NEJM</a></p></li>
+<li><p><a href="https://doi.org/10.1056/NEJMvcm1207469">Needle
+Aspiration of Primary Spontaneous Pneumothorax | NEJM</a></p></li>
+<li><p><a href="https://doi.org/10.1056/NEJMvcm1200383">Technique for
+Temporary Pelvic Stabilization after Trauma | NEJM</a></p></li>
+<li><p><a href="https://doi.org/10.1056/NEJMvcm2108203">Basics of
+Point-of-Care Lung Ultrasonography | NEJM</a></p></li>
+<li><p><a href="https://doi.org/10.1056/NEJMvcm2107283">Use of eFAST in
+Patients with Injury to the Thorax or Abdomen | NEJM</a></p></li>
+<li><p><a href="https://doi.org/10.1056/NEJMvcm1108559">Procedural
+Sedation and Analgesia in Children | NEJM</a></p></li>
+<li><p><a href="https://doi.org/10.1056/NEJMvcm0801942">Basic Splinting
+Techniques | NEJM</a></p></li>
+<li><p><a href="https://doi.org/10.1056/NEJMvcm064238">Basic Laceration
+Repair | NEJM</a></p></li>
+<li><p><a href="https://doi.org/10.1056/NEJMvcm071319">Abscess Incision
+and Drainage | NEJM</a></p></li>
+<li><p><a href="https://doi.org/10.1056/NEJMvcm054952">Lumbar Puncture |
+NEJM</a></p></li>
+<li><p><a href="https://doi.org/10.1056/NEJMvcm050183">Nasogastric
+Intubation | NEJM</a></p></li>
+<li><p><a href="https://doi.org/10.1056/NEJMvcm0900916">Intraosseous
+Catheter Placement in Children | NEJM</a></p></li>
+<li><p><a href="https://www.youtube.com/watch?v=FDxZyR9abAs">Pigtail
+Insertion for Pneumothorax | EM Crit</a></p></li>
+<li><p><a href="https://www.youtube.com/watch?v=bjl5F-8nlTA">How to
+Professional Fit a CAM Boot</a></p></li>
+</ul>
+</div>
+
+<footer>
+<br>
+<center>
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
+
+<br>
+<a target="_blank" href="https://github.com/emleddin" aria-label="GitHub"><i class="fab fa-github" aria-hidden="true"></i></a>
+<a target="_blank" href="https://gist.github.com/emleddin" aria-label="GitHub Gist"><i class="fas fa-code" aria-hidden="true"></i></a>
+<a target="_blank" href="https://orcid.org/0000-0003-1610-0092" aria-label="ORCID"><i class="fab fa-orcid" aria-hidden="true"></i></a>
+
+</center>
+</footer>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

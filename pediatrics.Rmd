@@ -1,0 +1,230 @@
+---
+title: "Pediatrics Resources"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# Preventative Care
+
+- [Recommended Child and Adolescent Immunization Schedule | AAP](https://downloads.aap.org/AAP/PDF/AAP-Immunization-Schedule.pdf)
+
+- [Periodicity Schedule | AAP](https://downloads.aap.org/AAP/PDF/periodicity_schedule.pdf) (Recommendations for Preventative Pediatric Health Care)
+
+- [Bright Futures Pocket Guide 4e | AAP](https://downloads.aap.org/AAP/PDF/Bright%20Futures/BF4_POCKETGUIDE.pdf)
+
+- [Bright Futures Medical Screening Reference Tables | AAP](https://www.aap.org/en/practice-management/bright-futures/bright-futures-materials-and-tools/bright-futures-tool-and-resource-kit/bright-futures-medical-screening-reference-tables/)
+
+- [Bright Futures Tool and Resource Kit | AAP](https://publications.aap.org/toolkits/pages/Bright-Futures-toolkit)
+
+- [Bright Futures Toolkit: Links to Commonly Used Screening Instruments and Tools](https://publications.aap.org/toolkits/resources/15625/Bright-Futures-Toolkit-Links-to-Commonly-Used)
+
+- [HEEADSSS Assessments](https://www.contemporarypediatrics.com/view/heeadsss-30-psychosocial-interview-adolescents-updated-new-century-fueled-media)
+
+# Pediatric Vital Signs
+
+- [Blood Pressure Z-Scores | Baylor](https://www.bcm.edu/bodycomplab/BPappZjs/BPvAgeAPPz.html)
+- [Pediatric Vital Signs](https://www.pedscases.com/pediatric-vital-signs-reference-chart)
+
+# Pathways
+
+- [Children’s Hospital of Philadelphia (CHOP) Clinical Pathways Library](https://www.chop.edu/pathways-library)
+
+- [Children's Minnesota Clinical guidelines and decision support](https://www.childrensmn.org/for-health-professionals/clinical-guidelines-decision-support/)
+
+- [Johns Hopkins All Children's Hospital Pediatric Clinical Pathways](https://www.hopkinsmedicine.org/all-childrens-hospital/health-professionals/clinical-pathways)
+
+- [Stanford Clinical Pathway Program](https://clinicalpathways.stanfordchildrens.org/)
+
+- [Pathways4Kids](https://pathways4kids.org/home/pediatric-clinical-pathway-websites/)
+
+# Education
+
+## Anesthesia and Critical Care
+
+- [2025 AHA Algorithms](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/algorithms)
+
+- [Learn PICU](https://www.learnpicu.com/)
+
+- [Pediatric Critical Care Reference Guide: PICU Handbook | U Iowa](https://uihc.org/childrens/educational-resources/pediatric-critical-care-reference-guide-picu-charts-picu-handbook)
+
+- [Pediatric Anesthesia Pocket Card | Johns Hopkins](https://pedsanesthesia.net/wiki/images/f/fc/Hopkins_Pedi_Anes_Pocket_Card.pdf)
+
+- [Pocket Guides in Anesthesia and Intensive Care](https://anesthguide.com/pocket-guides/#pocket-guides-anesthesiaintensive-care)
+
+- [Capnography](https://www.capnography.com/)
+
+- [ICU One Pager](https://onepagericu.com/)
+
+- [Trauma ICU](https://traumaicu.org/)
+
+- [Pediatric Acute Pain Management | Children's Minnesota](https://cmn.education.childrensmn.org/sites/default/files/media/2023-12/Pain%20management%20reference%20flyer.pdf)
+
+- [VentSim](https://ventsim.cc/) (requires a Google account; interactive ventilator graphs)
+
+- [Internet Book of Critical Care | EMCrit Project](https://emcrit.org/ibcc/toc/) (great for [toxicology](https://emcrit.org/ibcc/toc/#toxicology_&_addiction_medicine))
+  - [Refeeding Syndrome](https://emcrit.org/ibcc/refeeding/#top)
+
+## Antibiotics
+
+- [BugDrugDX](https://bugdrugdx.com/)
+
+- [Introductory Guide to Antibiotics | Northwestern](https://adsp.nm.org/uploads/1/4/3/0/143064172/nu-introductory-guide-to-antibiotics.pdf)
+
+- [Antibiotic Susceptibilities in Intensive Care](https://drug.wellingtonicu.com/PDF/App5-Antibiotics.pdf)
+
+- [Antimicrobial Spectrum | Wikipedia](https://en.wikipedia.org/wiki/Antimicrobial_spectrum#)
+
+- [Beta-Lactam Cross-Reactivity Side-Chain Chart | Northwestern](https://adsp.nm.org/uploads/1/4/3/0/143064172/cross_rxn__graded_challenge__final_update_10.19.19_.pdf)
+
+- [Beta-Lactam Antibiotic Cross-Allergy Chart](https://aspires.vch.ca/Documents/Penicillin%20Allergy/Beta-Lactam%20Antibiotic%20Cross-Allergy%20Chart.pdf)
+
+- [Microbe Invader game](https://microbeinvader.com/)
+
+## Imaging
+
+### Ultrasound
+
+- [Highland Ultrasound](https://highlandultrasound.com/) (ultrasound resource, with info on nerve blocks)
+
+- [POCUS 101](https://www.pocus101.com/category/ultrasound-tutorials/)
+
+- [POCUS Atlas Jr](https://www.thepocusatlas.com/atlas-jr)
+
+- [Pediatric POCUS Pocket Cards | ACEP](https://drive.google.com/drive/folders/148Q5w9UJiD4fCeq4K1MzIvKFKVtXmVU5?usp=sharing)
+
+- [Sonoguide | ACEP](https://www.acep.org/sonoguide)
+
+- [IMAIOS e-Anatomy](https://www.imaios.com/en/pricing/e-anatomy) (paid service)
+
+- [Ultrasoundpaedia](https://ultrasoundpaedia.com/) (mix of free and paid content, specific links here are free)
+
+  - [Neonatal Head Normal](https://ultrasoundpaedia.com/neonatal-head-normal/)
+
+  - [Paediatric Renal Normal](https://ultrasoundpaedia.com/paediatric-renal-normal/)
+
+  - [Intussusception](https://ultrasoundpaedia.com/intussusception/)
+
+  - [Hip Normal](https://ultrasoundpaedia.com/hip-groin-normal/)
+
+- [Neonatal Head Ultrasound Protocol | UW Medicine](https://depts.washington.edu/usrad/wordpress/wp-content/uploads/2023/03/Neonatal-Head-Protocol-3.2023-1.pdf) (includes labeled examples)
+
+### X-Rays
+
+- [Normal Pediatric Bone X-Rays](https://bonexray.com/)
+
+- [Normal Pediatric Imaging Examples | Radiopedia](https://radiopaedia.org/articles/normal-paediatric-imaging-examples)
+
+- [Pediatric Normal Imaging Studies by Age | CaseStacks](https://www.casestacks.com/peds/peds-normals-by-age/) (X-rays free, CT and MRI require a subscription)
+
+- [Pediatric Imaging](https://pediatricimaging.org/) (Online textbook)
+
+- [Peds Cases](https://pedscases.com/)
+
+  - [Approach to Pediatric Abdominal X-Rays](https://www.pedscases.com/approach-pediatric-abdominal-x-rays)
+  - [Approach to Pediatric Chest X-Rays](https://www.pedscases.com/approach-pediatric-chest-x-rays/)
+  - [Musculoskeletal Radiology in Children - Part 1](https://www.pedscases.com/musculoskeletal-radiology-children-part-1)
+  - [MSK Radiology series - Part 2](https://www.pedscases.com/msk-radiology-series-part-2)
+  - [MSK Radiology series - Part 3 + 4](https://www.pedscases.com/msk-radiology-series-part-3-4)
+  - [MSK Radiology series - Part 5 and 6](https://www.pedscases.com/msk-radiology-series-part-5-and-6)
+  - [MSK Radiology series - Part 7](https://www.pedscases.com/msk-radiology-series-part-7-0)
+  - [Pediatric Elbow Radiographs](https://www.pedscases.com/pediatric-elbow-radiographs)
+
+- [Normal for Age | UCSD Musculoskeletal Radiology](http://www.bonepit.com/Normal%20for%20age/Normal%20for%20age%20index.htm)
+
+- [Pediatrics Index | Radiology Assistant](https://radiologyassistant.nl/pediatrics)
+
+### EKGs
+
+- [ECG Simulator](https://www.skillstat.com/tools/ecg-simulator-classic)
+
+- [ECG Monitoring Quiz (interactive)](https://www.practicalclinicalskills.com/ekg-monitoring-quiz)
+
+- [ECGpedia](https://en.ecgpedia.org/index.php?title=Main_Page)
+
+- [Arrhythmia Recognition | GE Healthcare](https://www.gehealthcare.com/-/jssmedia/6acabc8138554a2b90c308aed7c0fc8e.pdf)
+
+## Laws
+
+- [Minor Consent and Confidentiality: A Compendium of State and Federal Laws | National Center for Youth Law](https://www.teenhealthlaw.org/state-federal-compendium)
+- [Seizure Driving Laws | Epilepsy Foundation](https://www.epilepsy.com/lifestyle/driving-and-transportation/laws)
+
+## Medications
+
+- [Asthma and COPD Medicines Chart | American Lung Association](https://www.lung.org/getmedia/e6be8c67-a793-44a8-bd7c-96629e57c20d/respiratory-medication-chart)
+- [Comparison of Insulins (United States) | Pharmacist's Letter](https://pharmacist.therapeuticresearch.com/api/sitecore/FileGuard/GetFile?id=e6563cb7-3d0a-4e7f-9501-1d607255c6e5)
+- [MC3 Psychopharmacology Reference Cards](https://mc3michigan.org/pharma-cards/)
+
+## Medical Technology
+
+- [PANTHER Program for Diabetes Technology](https://www.pantherprogram.org/)
+
+## Nutrition
+
+- [Clinical Nutrition Handbook | Children's Wisconsin](https://childrenswi.org/medical-professionals/clinical-nutrition/cnh)
+
+- [Estimating Calorie and Protein Needs | Children's Wisconsin](https://childrenswi.org/-/media/chwlibrary/files/medical-care/clinical-nutrition/nutritionhandbook/estimating_calorie_and_protein_needs.pdf)
+
+- [ASPEN Infant Formulas](https://www.nutritioncare.org/Guidelines_and_Clinical_Resources/EN_Formula_Guide/EN_Infant_Formulas/)
+
+  - [Abbott Pediatric Products](https://www.pediatricproconnect.com/products.html)
+
+## Videos
+
+- [Videos in Clinical Medicine | NEJM](https://www.nejm.org/browse/nejm-media-type/videos-in-clinical-medicine)
+
+- [Basic Vent Modes | ICU Advantage](https://www.youtube.com/watch?v=E5uLM41URmE)
+
+- [Advanced Vent Modes | ICU Advantage](https://www.youtube.com/watch?v=yHg_ivGjch4)
+
+- [Arterial Line Waveform | ICU Advantage](https://www.youtube.com/watch?v=UbwdbK2inZY)
+
+- [High-Yield Guide To Ventilators In The ICU | Conan Liu, M.D.](https://www.youtube.com/watch?v=fXyakhSmcTE)
+
+- [Ventilator Waveforms & Troubleshooting Made Easy | Conan Liu, M.D.](https://www.youtube.com/watch?v=fXyakhSmcTE)
+
+# Patient Education Resources
+
+- [MC3 Pediatric Resource Library](https://mc3michigan.org/pediatric-resource-library/) (behavioral and mental health)
+
+# Tools and Calculators
+
+- [Newborn Weight Tool | Newt](https://newbornweight.org/)
+
+- [Premie BiliRecs | Stanford](https://pbr.stanfordchildrens.org/)
+
+- [BiliTool](https://bilitool.org/)
+
+- [Neonatal Adjusted Age Calculator](https://neonatal.rti.org/index.cfm?fuseaction=AdjustedAgeCalculator.main)
+
+## MDCalc
+
+- [Maintenance Fluids Calculations](https://www.mdcalc.com/calc/72/maintenance-fluids-calculations)
+
+- [Oxygenation Index](https://www.mdcalc.com/calc/80/oxygenation-index)
+
+- [Sodium Correction Rate in Hyponatremia and Hypernatremia](https://www.mdcalc.com/calc/480/sodium-correction-rate-hyponatremia-hypernatremia)
+
+- [Sodium Deficit in Hyponatremia](https://www.mdcalc.com/calc/95/sodium-deficit-hyponatremia)
+
+- [Free Water Deficit in Hypernatremia](https://www.mdcalc.com/calc/113/free-water-deficit-hypernatremia)
+
+- [Sodium Correction for Hyperglycemia](https://www.mdcalc.com/calc/50/sodium-correction-hyperglycemia)
+
+- [Morphine Milligram Equivalents (MME) Calculator](https://www.mdcalc.com/calc/10170/morphine-milligram-equivalents-mme-calculator)
+
+- [Opiate Conversion Calculator](https://www.mdcalc.com/calc/3947/opiate-conversion-calculator)
+
+- [Steroid Conversion Calculator](https://www.mdcalc.com/calc/2040/steroid-conversion-calculator)
+
+- [Cornell Assessment of Pediatric Delirium (CAPD)](https://www.mdcalc.com/calc/10172/cornell-assessment-pediatric-delirium-capd)
+
+- [Richmond Agitation-Sedation Scale (RASS)](https://www.mdcalc.com/calc/1872/richmond-agitation-sedation-scale-rass)
+
+- [Withdrawal Assessment Tool (WAT-1) for Pediatric Withdrawal](https://www.mdcalc.com/calc/10168/withdrawal-assessment-tool-wat-1-pediatric-withdrawal)
+
+# Apps
+
+- [Pedi STAT](https://www.pedi-stat.com/), [iOS](https://apps.apple.com/us/app/pedi-stat/id327963391) and [Android](https://play.google.com/store/apps/details?gl=US&hl=en_US&id=com.qxmd.pedistat)
+  - Not free, but calculates dosages for common medications (and code meds)

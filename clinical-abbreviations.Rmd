@@ -1,0 +1,43 @@
+---
+title: "Clinical Abbreviations and Acronyms"
+---
+
+```{r, include=FALSE}
+library(tidyverse)
+library(DT)
+
+#print("HI!")
+```
+
+```{r, echo=FALSE, message=FALSE}
+## Load CSV
+## Note: If you encounter issues with characters, try resaving the
+## CSV as a UTF-8 CSV. Excel... does not like interpreting as UTF-8
+## Find the bad UTF-8 lines
+# library("xfun")
+# read_utf8("clinical-abbreviations.csv")
+data <- read_csv("clinical-abbreviations.csv", comment = "#")
+
+## Need to keep 1st column when doing buttons so the CSV renders properly
+datatable(data,
+    rownames=FALSE,
+    escape = FALSE,
+## Search builder is helpful with 3+ columns
+#    extensions = c('Responsive', 'Buttons', 'SearchBuilder'), 
+   extensions = c('Responsive', 'Buttons'), 
+    options = list(
+    dom = 'QBfrtip',
+    pageLength = 20,
+    class = 'stripe',
+##    buttons = c('copy', 'csv', 'excel', 'pdf', 'print')),
+    buttons = list(
+      'copy', 'csv', 'excel',
+      list(extend = 'pdf', 
+           orientation = 'landscape',
+           exportoptions=list(pageSize='LEGAL'#,
+#           customize = JS("function(doc){doc.styles.tableHeader.color='purple';}")
+                )),
+      'print')
+))
+
+```
