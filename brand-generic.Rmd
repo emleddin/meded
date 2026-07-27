@@ -2,6 +2,12 @@
 title: "Brand/Generic Table"
 ---
 
+- [ADHD Medication Chart](https://www.adhdmedicationguide.com/)
+
+- [Asthma and COPD Medication Chart](https://www.lung.org/getmedia/e6be8c67-a793-44a8-bd7c-96629e57c20d/respiratory-medication-chart) (and unaffiliated [interactive chart](https://www.wheezypuff.com/))
+
+- [HIV Medication Chart](https://aidsetc.org/sites/default/files/media/document/2022-11/HIV%20Medication%20Chart_August%202022.pdf)
+
 ```{r, include=FALSE}
 library(tidyverse)
 library(DT)

@@ -12,6 +12,7 @@ ABD,"Apnea, Bradycardia, Desaturations"
 ABG,Arterial Blood Gas
 ABPM,Ambulatory Blood Pressure Monitoring
 ABR,Autditory Brainstem Response
+ACA,Affordable Care Act
 ACEI,Angiotensin-Converting Enzyme Inhibitor
 ACEs,Adverse Childhood Experiences
 ACh,Acetylcholine
@@ -89,6 +90,7 @@ BBB,Blood-Brain Barrier
 BCC,Basal Cell Carcinoma
 BCx,Blood Culture
 BDNF,Brain-Derived Neurotrophic Factor
+BED,Binge Eating Disorder
 BEP,Brief Eclectic Psychotherapy
 BESD,"Behavioral, Emotional, and Social Difficulties"
 BIBA,Brought In By Ambulance
@@ -158,6 +160,7 @@ CIC,Clean Intermittent Catheterization
 CIS,Culture If Spikes (get a blood culture for fevers)
 CIT,Crisis Intervention Team
 CIWA,Clinical Instrument Withdrawal Assessment
+CJD,Creutzfeldt-Jakob Disease
 CKD,Chronic Kidney Disease
 CKD-MBD,Chronic Kidney Disease with Mineral and Bone Disorder
 CLIA,Clinical Laboratory Improvement Amendments
@@ -184,6 +187,7 @@ CRH,Corticotropin Releasing Hormone
 CRMO,Chronic Recurrent Multifocal Osteomyelitis (aka CNO)
 CRP,C-Reactive Protein
 CRPP,Closed Reduction Percutaneous Pinning
+CRPS,Complex Regional Pain Syndrome
 CRRT,Continuous Renal Replacement Therapy
 CSF,Cerebrospinal Fluid
 CSF,Colony-Stimulating Factor
@@ -252,6 +256,7 @@ DNA,Deoxyribonucleic Acid
 DNAR,Do Not Attempt Resuscitation
 DNES,Diffuse Neuroendocrine System
 DNR,Do Not Resuscitate
+DOA,Dead On Arrival
 DOAC,Direct Oral Anticoagulant
 DOE,Disease Oriented Evidence/outcome
 DOE,Dyspnea On Exertion
@@ -263,6 +268,7 @@ DPOA,Durable Power of Attorney
 DPP,Dipeptidyl Peptidase
 DPR,Direct Peritoneal Resuscitation
 DQ,Developmental Quotient
+DR,Delayed Release
 DRE,Digital Rectal Exam
 DRG,Dorsal Root Ganglion (aka PRG)
 DSD,Disorders of Sex Development
@@ -292,6 +298,7 @@ EDPVR,End Diastolic Pressure-Volume Relationship
 EDRF,Endothelial-Derived Relaxing Factor
 EDS,Ehlers-Danlos Syndrome
 EDV,End Diastolic Volume
+EEG,Electroencephalogram
 EER,Experimental Event Rate
 EF,Ejection Fraction
 eFAST,Extended Focused Assessment with Sonography for Trauma
@@ -305,6 +312,7 @@ EMDR,Eye-Movement Desensitization and Reprocessing
 EMG,Electromyography
 EMR,Electronic Medical Record
 EMT,Epithelial-to-Mesenchymal Transition
+EMTALA,Emergency Medical Treatment and Labor Act
 ENS,Enteric Nervous System
 EOS,Early-Onset Sepsis
 EOT,End of Therapy
@@ -373,6 +381,7 @@ GBS,Group B Streptococcus
 GC,Gonococcal
 GDM,Gestational Diabetes Mellitus
 GDP,Guanosine Diphosphate
+GERD,GastroEsophageal Reflux Disease
 GFAP,Glial Fibrillary Acidic Protein
 GFP,Green Fluorescent Protein
 GFR,Glomerular Filtration Rate
@@ -482,19 +491,24 @@ IGT,Impaired Glucose Tolerance
 IHC,Immunohistochemistry
 IHD,Ischemic Heart Disease
 IIH,Idiopathic Intracranial Hypertension
+IM,IntraMuscular
 IMA,Inferior Mesenteric Artery
 IMA,Intrinsic Sympathomimetic Activity
 IMV,Inferior Mesenteric Vein
-IN,Intranasal
+IN,IntraNasal
 INH,Isonicotinic Acid Hydrazide (Isoniazid)
 INO,Internuclear Opthalmoplegia
 INR,International Normalized Ratio
+IOB,Insulin On Board
 IOL,Interosseous Ligament
+IOP,IntraOcular Pressure
 IP3,Inositol Triphosphate
 IPASS,"Illness severity, Patient summary, Action list, Situation awareness and contingency planning, Synthesis by reciever"
 IPF,Idiopathic Pulmonary Fibrosis
 IPLOC,InPatient Level of Care
 IPSP,Inhibitory Postsynaptic Potential
+IR,Immediate Release
+IR,Interventional Radiology
 IRIS,Immune Reconstitution Inflammatory Syndrome
 IRV,Inspiratory Reserve Volume
 ISF,Interstitial Fluid
@@ -504,6 +518,7 @@ IUD,Intrauterine Device
 IUFD,IntraUterine Fetal Demise
 IUGR,Intrauterine Growth Restriction
 IUS,Internal Urethral Sphincter
+IV,IntraVenous
 IV,Intervertebral discs
 IVC,Inferior Vena Cava
 IVIg,Intravenous Immunoglobulin
@@ -525,6 +540,7 @@ LBW,Lean Body Weight
 LCA,Left Coronary Artery
 LDH,Lactate Dehydrogenase
 LDL,Low-Density Lipoprotein
+LES,Lower Esophageal Sphincter
 LET,"Lidocaine, Epinephrine, and Tetracaine"
 LFB,Luxol Fast Blue
 LGA,Large for Gestational Age
@@ -548,6 +564,7 @@ LTG,Long-Term Goal
 LTP,Long-Term Potentiation
 LTR,LaryngoTracheal Reconstruction
 LV,Left Ventricle
+LVAD,Left Ventricular Assist Device
 LVH,Left Ventricular Hypertrophy
 M,Myelin sheath
 M-CHAT,Modified Checklist for Autism in Toddlers
@@ -591,6 +608,7 @@ MLF,Medial Longitudinal Fasciculus
 MME,Morphine Milligram Equivalent
 MMM,Moist Mucus Membranes
 MMP,Matrix Metalloproteinase
+MMSE,Mini-Mental Status Exam
 MNT,Medical Nutrition Therapy
 MOA,Mechanism of Action
 MOAS,Modified Overt Aggression Scale
@@ -655,6 +673,7 @@ NKR,National Kidney Registry
 NKSS,Non-Keratinized Stratified Squamous
 NMDA,N-methyl-D-aspartate
 NMJ,Neuromuscular Junction
+NMS,Neuroleptic Malignant Syndrome
 NNDSS,National Notifiable Diseases Surveillance System
 NNH,Numbers Needed to Harm
 NNRTI,Non-Nuceloside Reverse Transcriptase Inhibitor
@@ -679,6 +698,7 @@ NSVD,Normal Spontaneous Vaginal Delivery
 NT,Neurotransmitter
 NT/ND,"Non-Tender, Non-Distended"
 NTD,Nothing To Do
+NTDON,Nothing To Do OverNight
 NTS,Nucleus Tractus Solitarius
 NURS,"Naming the Feeling/Emotion, Understanding, Respecting (Praising or Appreciating the Patient and/or Acknowledging His/Her Situation), Supporting"
 NVD,"Nausea, Vomiting, and Diarrhea"
@@ -709,6 +729,7 @@ OPPQQRRST,"Onset and chronology, Position, Precipitating factors, Quality, Quant
 OR,Odds Ratio
 ORIF,Open Reduction Internal Fixation
 OSFED,Other Specified Feeding or Eating Disorder
+OSA,Obstructive Sleep Apnea
 OSH,OutSide Hospital
 OT,One Touch (blood glucose meter)
 OTC,Over The Counter
@@ -794,6 +815,7 @@ PNS,Peripheral Nervous System
 PNV,Pre-Natal Vitamin
 po,Per Oral (by mouth)
 POAL,Per Os Ad Libitum (oral intake as desired)
+POCUS,Point Of Care UltraSound
 POE,Patient Oriented Evidence/outcome
 POMC,Pro-opiomelanocortin
 PPAR-γ,Peroxisome Proliferator-Activated Receptor-Gamma
@@ -811,6 +833,7 @@ PRIME-MD,Primary Care Evaluation of Mental Disorders
 PrIS,Propofol Infusion Syndrome
 PRL,Prolactin
 prn,Pro Re Nata (as needed)
+pRBC,Packed Red Blood Cells
 PROS,Psychiatric Review of Symptoms
 PRP,Penicillinase-Resistant Penicillin
 PRR,Pattern Recognition Receptors
@@ -878,6 +901,7 @@ RRR,Regular Rate and Rhythm (heart rate)
 RRT,Registered Respiratory Therapist
 RST,Rapid Strep Test
 RTA,Ready To Admit
+RTA,Renal Tubular Acidosis
 RTC,Return To Clinic
 RTF,Ready-To-Feed
 RV,Residual Volume
@@ -902,6 +926,7 @@ SBP,Systolic Blood Pressure
 SCD,Sudden Cardiac Death
 SCFE,Slipped Capital Femoral Epiphysis
 SCID,Severe Combined Immunodeficiency
+SCOFF,"Sick, Control, One, Fat, Food"
 SCT,Stem Cell Transplant
 SEMLS,Single Event MuliLevel Surgery
 SER,Supination External Rotation
@@ -951,6 +976,7 @@ SROM,Spontaneous Rupture of Membrane
 SSC,Similac Special Care
 SSE,Simple Stratified Epithelium
 SSRI,Selective Serotonin Reuptake Inhibitor
+SSS,Subclavian Steal Syndrome
 SSSS,Staphylococcal Scalded Skin Syndrome
 SSTI,Skin and Soft Tissue Infection
 SSYCE,"Salmonella, Shigella, Yersinia, Campylobacter, and Escherichia coli"
@@ -960,6 +986,8 @@ STEC,Shiga toxin producing Escherichia coli
 STEMI,ST Elevation Myocardial Infarction
 STG,Short-Term Goal
 STI,Sexually Transmitted Infection
+STIR,Short-TI Inversion Recovery (MRI)
+SubQ,Subcutaneous
 SUD,Substance Use Disorder
 SUDEP,Sudden Unexplained Death in EPilepsy
 SUDs,Subjective Units of Distress Scale
@@ -1046,6 +1074,7 @@ VAERS,Vaccine Adverse Event Reporting System
 VAP,Ventilator-Associated Pneumonia
 VAS,Visual Analogue Scale
 VATS,Video-Assisted ThoracoScopy
+VBG,Venous Blood Gas
 VC,Vital Capacity
 VCUG,Vesicourethrogram
 VDRL,Venereal Disease Research Laboratory
@@ -1081,4 +1110,6 @@ WHO,Wrist Hand Orthosis
 WN/WD,Well Nourished/Well Developed
 WNL,Within Normal Limits
 WPW,Wolff-Parkinson-White
+XR,Extended Release
+XR,X-Ray
 XT,Exotropia
