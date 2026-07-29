@@ -15,6 +15,27 @@ As you rotate through the hospital, you'll find that each specialty
 Plus, in the hospital setting, people tend to talk in brand names (the horror!).
 If you made it here, I hope you find it useful.
 
+# Apps
+
+- [CDC STI Tx](https://www.cdc.gov/std/treatment-guidelines/provider-resources.htm#MobileApp), [iOS](https://apps.apple.com/us/app/std-tx-guide/id655206856) and [Android](https://play.google.com/store/apps/details?id=gov.cdc.stdtxguide)
+
+- [GoodRx](https://www.goodrx.com/), [iOS](https://apps.apple.com/us/app/goodrx-prescription-savings/id485357017) and [Android](https://play.google.com/store/apps/details?id=com.goodrx)
+
+- [MDCalc](https://www.mdcalc.com/), [iOS](https://apps.apple.com/us/app/mdcalc-medical-calculator/id1001640662) and [Android](https://play.google.com/store/apps/details?id=com.mdaware.mdcalc&hl=en)
+
+- [USPSTF Prevention TaskForce](https://www.uspreventiveservicestaskforce.org/apps/), [iOS](https://apps.apple.com/us/app/uspstf-prevention-taskforce/id311852560) and [Android](https://play.google.com/store/apps/details?id=gov.ahrq.epss&hl=en-US)
+
+## Login/Subscription Required
+
+- [Lexidrug](https://online.lexi.com/lco/action/login), [iOS](https://apps.apple.com/us/app/uptodate-lexidrug/id313401238) and [Android](https://play.google.com/store/apps/details?id=com.lexi.android&hl=en-US)
+
+- [Micromedex](https://www.micromedexsolutions.com/home/dispatch), [iOS](https://apps.apple.com/us/app/micromedex/id6471286555) and [Android](https://play.google.com/store/apps/details?id=com.micromedex.coremobile&hl=en-US)
+  - Great for toxicology!
+
+- [UpToDate](https://www.uptodate.com/home), [iOS](https://apps.apple.com/us/app/uptodate/id334265345) and [Android](https://play.google.com/store/apps/details?id=com.uptodate.android&hl=en-US)
+
+- [VisualDx](https://www.visualdx.com/), [iOS](https://apps.apple.com/us/app/visualdx/id348177521) and [Android](https://play.google.com/store/apps/details?id=com.visualdx.android&hl=en-US)
+
 
 # Physical Exam Skills
 
@@ -89,3 +110,45 @@ If you made it here, I hope you find it useful.
 - [Pigtail Insertion for Pneumothorax | EM Crit](https://www.youtube.com/watch?v=FDxZyR9abAs)
 
 - [How to Professional Fit a CAM Boot](https://www.youtube.com/watch?v=bjl5F-8nlTA)
+
+- [Laryngeal Mask Airway Insertion](https://www.youtube.com/watch?v=vNvymbRD5b4)
+
+- [How to Intubate with Glidescope](https://www.youtube.com/watch?v=xCCwEAunqLM)
+
+- [Gastric Ultrasound (Supine)](https://www.youtube.com/watch?v=CJsz12nNXN8)
+
+- [Gastric Ultrasound (Supine and Lateral)](https://www.youtube.com/watch?v=4Kc5qVMGGPU)
+
+- [Prime IV Line](https://www.youtube.com/watch?v=7rKssWddxu0)
+
+- [How to Start an IV - Live Demo](https://www.youtube.com/watch?v=EVNyFkNKeJg)
+
+- [Radial Arterial Line placement](https://www.youtube.com/watch?v=VtoVavr0W9k)
+
+- [Pulmonary Artery (Swan Ganz) Catheter](https://www.youtube.com/watch?v=l1MEY9Amvug)
+
+- [Glucagon Administration](https://www.youtube.com/watch?v=Ga9CEMY5djc)
+  - Video shows how to reconstitute it. After reconstitution, they use a regular needle to draw it up.
+
+- [Medications in Ampules (Nursing Skills)](https://www.youtube.com/watch?v=7lb-0LdnMV8)
+
+- [Emergency Code Syringe Medication - Set Up Instructions](https://www.youtube.com/watch?v=bUUUjRGKUHg)
+  - Shows how to use the glass injectors for things like sodium bicarbonate
+
+- [Hydrocortisone Powder (ex Solu-Cortef), Act-O-Vial Instructions](https://www.youtube.com/watch?v=xcGoYGW4NcU)
+
+- [Adult Artificial Airway Insertion: The OPA](https://www.youtube.com/watch?v=VGGV_fSze2I)
+
+- [Rapid Orogastric Tube Insertion](https://www.youtube.com/watch?v=QQK0LiVGuZw)
+
+- [NG/OG Tube Insertion](https://www.youtube.com/watch?v=YwkDgdl0zbM)
+
+- [Lumbar Drain Placement](https://www.youtube.com/watch?v=f6bScWk0d08)
+
+- [Ambu aScope Basics for Fiberoptic Intubation](https://www.youtube.com/watch?v=H4iKKxaP1OU)
+
+- [Ultrasound Guided Peripheral IV Placement STEP BY STEP | POCUS 101](https://www.youtube.com/watch?v=OUpXQg4r1s4)
+
+- [Basic Transthoracic Echocardiography (Cardiac Ultrasound) - TTE Made Simple | POCUS 101](https://www.youtube.com/watch?v=1E4NSR6yjMw)
+
+- [Ultrasound-Guided Paracentesis](https://www.youtube.com/watch?v=dUaCWK3qoHM)

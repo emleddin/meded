@@ -39,7 +39,9 @@ Curosurf,Poractant alfa systemic (pulmonary surfactant)
 Cuvposa,Glycopyrrolate
 Cymbalta,Duloxetine
 Cytotec,Misoprostol
+Cytoxan,Cyclophosphamide
 Decadron,Dexamethasone
+Deltasone,Prednisone
 Depakote,Divalproex sodium
 Desitin,Zinc oxide-cod liver oil
 Diamox,Acetazolamide
@@ -50,6 +52,7 @@ Dilaudid,Hydromorphone
 Diprivan,Propofol (“Prop” pronounced like row with p’s on both ends)
 Ditropan,Oxybutynin
 Diuril,Chlorothiazide
+Dolophine,Methadone
 DuoNeb,Albuterol/Ipratropium
 Dupixent,Dupilumab
 Effer-K,Potassium bicarbonate
@@ -104,6 +107,7 @@ Ofirmev,Acetaminophen (injectable/IV)
 Omnipen,Ampicillin
 Onfi,Clobazam
 Orap,Pimozide
+Orapred,Prednisolone
 Paxil,Paroxetine
 Pentacel,"DTaP, Polio, Haemophilus influenzae type b vaccine"
 Peridex,Chlorhexidine (mouthwash)
@@ -171,6 +175,7 @@ Wellcovorin,Leucovorin
 Xanax,Alprazolam
 Xarelto,Rivaroxaban
 Xopenex,Levalbuterol
+Zestril,Lisinopril
 Zithromax,Azithromycin
 Zofran,Ondansetron
 Zoloft,Sertraline

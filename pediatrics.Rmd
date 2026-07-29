@@ -180,6 +180,8 @@ output:
 
 - [Arterial Line Waveform | ICU Advantage](https://www.youtube.com/watch?v=UbwdbK2inZY)
 
+- [Pulmonary Artery (PA) Catheter Waveforms | ICU Advantage](https://www.youtube.com/watch?v=8IWHihdnCTw)
+
 - [High-Yield Guide To Ventilators In The ICU | Conan Liu, M.D.](https://www.youtube.com/watch?v=fXyakhSmcTE)
 
 - [Ventilator Waveforms & Troubleshooting Made Easy | Conan Liu, M.D.](https://www.youtube.com/watch?v=fXyakhSmcTE)
@@ -225,6 +227,8 @@ output:
 - [Withdrawal Assessment Tool (WAT-1) for Pediatric Withdrawal](https://www.mdcalc.com/calc/10168/withdrawal-assessment-tool-wat-1-pediatric-withdrawal)
 
 # Apps
+
+- [MiniMAGIC](https://www.avatargroup.org.au/minimagic.html), [iOS](https://apps.apple.com/us/app/minimagic/id1523408770) and [Android](https://play.google.com/store/apps/details?id=au.edu.griffith.minimagic&hl=en-US)
 
 - [Pedi STAT](https://www.pedi-stat.com/), [iOS](https://apps.apple.com/us/app/pedi-stat/id327963391) and [Android](https://play.google.com/store/apps/details?gl=US&hl=en_US&id=com.qxmd.pedistat)
   - Not free, but calculates dosages for common medications (and code meds)

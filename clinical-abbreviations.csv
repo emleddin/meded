@@ -3,6 +3,7 @@
 5HT,Serotonin
 A&B,Apnea and Bradycardia
 A&I,Allergy and Immunology
+A1AT,Alpha-1 AntiTrypsin
 AAC,Augmentative and Alternative Communication
 AAL,Anterior Axillary Line
 ABA,Applied Behavioral Analysis
@@ -15,8 +16,10 @@ ABR,Autditory Brainstem Response
 ACA,Affordable Care Act
 ACEI,Angiotensin-Converting Enzyme Inhibitor
 ACEs,Adverse Childhood Experiences
+ACL,Anterior Cruciate Ligament
 ACh,Acetylcholine
 ACPA,Anti-Citrullinated Peptide Antibody
+ACT,Alternate Cover Test
 ACTH,Adrenocorticotropic Hormone
 ADEM,Acute Disseminated Encephalomyelopathy
 ADEs,Adverse Drug Events
@@ -45,9 +48,12 @@ AIS,Androgen Insensitivity Syndrome
 AITFL,Anterior Inferior Tibiofibular Ligament
 ALADP,delta-aminolevulinic dehydratase
 ALL,Acute Lymphoblastic Leukemia
+ALP,Alkaline Phosphatase
 ALS,Amyotrophic Lateral Sclerosis
+ALT,Alanine Aminotransferase
 AMA,Against Medical Advice
 AMR,Antibody Mediated Rejection
+ANA,AntiNuclear Antibody
 ANC,Absolute Neutrophil Count
 ANCA,Anti-Neutrophil Cytoplasmic Antibody
 ANP,Atrial Natriuretic Peptide
@@ -69,8 +75,11 @@ ASCVD,Atherosclerotic Cardiovascular Disease
 ASD,Atrial Septal Defect
 ASD,Autism Spectrum Disorder
 ASIS,Anterior Superior Iliac Spine
+ASL,American Sign Language
 ASM,Anti-Seizure Medication
 ASQ,Ages and Stages Questionnaire
+AST,Aspartate Aminotransferase
+AT III,Antithrombin III
 ATFL,Anterior Tibiofibular Ligament
 ATP,Adenosine Triphosphate
 ATTEST,"Associated symptoms, Timing, Triggers, Examination Signs, and additional Testing"
@@ -85,7 +94,7 @@ AVS,Acute Vestibular Syndrome
 AVS,After Visit Summary
 AVS,Aortic Valve Stenosis
 AWC,AirWay Clearance
-β-hCG,β-Human Chorionic Gonadotropin
+β-hCG,β-Human Chorionic Gonadotropin (beta)
 BBB,Blood-Brain Barrier
 BCC,Basal Cell Carcinoma
 BCx,Blood Culture
@@ -93,6 +102,7 @@ BDNF,Brain-Derived Neurotrophic Factor
 BED,Binge Eating Disorder
 BEP,Brief Eclectic Psychotherapy
 BESD,"Behavioral, Emotional, and Social Difficulties"
+BFP,Binocular Fixation Preference
 BIBA,Brought In By Ambulance
 bid,Bis In Die (twice a day)
 BIP,Behavior Intervention Plan
@@ -101,6 +111,7 @@ BL,Burkitt Lymphoma
 BLL,Blood Lead Level
 BM&T,Bilateral Myringotomy & Tubes (ear tubes)
 BMI,Body Mass Index
+BMP,Basic Metabolic Panel
 BNP,B-Natiuretic Peptide
 BP,Blood Pressure
 BPA,Bisphenol-A
@@ -113,6 +124,7 @@ BRUE,Brief Resolved Unexplained Event
 BSE,Breast Self Exam
 BTT,Bilateral Tympanostomy Tubes
 BTX,Botulinum Toxin
+BUN,Blood Urea Nitrogen
 BUR,Back-Up Rate
 BW,Birth Weight
 c/b,caused by
@@ -123,6 +135,7 @@ c/o,complains of
 c/s,consult
 c/w,consistent with
 C1-C7,Cervical vertebrae 1-7
+C5VD,"Cisplatin, 5-flourouracil, Vincristine, and Doxorubicin"
 CA,Corrected Age
 CAD,Coronary Artery Disease
 CAGE,"Cutting down, Annoyance, Guilty, Eye-Opener (alcohol use)"
@@ -133,6 +146,7 @@ Cap,Capillary
 CAP,Community-Acquired Pneumonia
 CAPD,Cornell Assessment of Pediatric Delirium
 CAST,Cardiac Arrhythmia Suppression Trial
+CAT,Cognitive Adaptive Test
 CBAVD,Congenital Bilateral Absence of the Vas Deferens
 CBC,Complete Blood Count
 CBD,Cannabidiol
@@ -146,6 +160,7 @@ CCK,Cholecystokinin
 CCU,Cardiac Care Unit
 CDGP,Constitutional Delay of Growth and Puberty
 CDS,Croup Distress Score
+CEA,CarcinoEmbryonic Antigen
 CF,Cystic Fibrosis
 CFL,CalcaneoFibular Ligament
 CFTR,Cystic Fibrosis Transmembrane conductance Regulator
@@ -161,8 +176,10 @@ CIS,Culture If Spikes (get a blood culture for fevers)
 CIT,Crisis Intervention Team
 CIWA,Clinical Instrument Withdrawal Assessment
 CJD,Creutzfeldt-Jakob Disease
+CK,"Creatine Kinase (same test as Creatine Phosphokinase, CPK)"
 CKD,Chronic Kidney Disease
 CKD-MBD,Chronic Kidney Disease with Mineral and Bone Disorder
+CLAMS,Clinical Linguistic & Auditory Milestone Scale
 CLIA,Clinical Laboratory Improvement Amendments
 CLL,Chronic Lymphocytic Leukemia
 CMA,Chromosomal Microarray
@@ -179,6 +196,7 @@ COX,Cyclooxygenase
 CP/CPPS,Chronic Prostatitis/Chronic Pelvic Pain Syndrome
 CPAM,Congenital Pulmonary Airway Malformation
 CPAP,Continuous Positive Airway Pressure
+CPK,"Creatine Phosphokinase (same test as Creatine Kinase, CK)"
 CPOE,Computerized Provider Order Entry
 CPT,Chest PhysioTherapy
 CPT,Cognitive Processing Therapy 
@@ -189,6 +207,9 @@ CRP,C-Reactive Protein
 CRPP,Closed Reduction Percutaneous Pinning
 CRPS,Complex Regional Pain Syndrome
 CRRT,Continuous Renal Replacement Therapy
+CS(M),Central Steady partially Maintained
+CSM,Central Steady Maintained
+CSnM,Central Steady not Maintained
 CSF,Cerebrospinal Fluid
 CSF,Colony-Stimulating Factor
 CSII,Cutaneous Subcutaneous Insulin Infusion
@@ -265,6 +286,7 @@ DORV,Double Outlet Right Ventricle
 DPN,Deep Peroneal Nerve
 DPN,Diabetic Peripheral Neuropathy
 DPOA,Durable Power of Attorney
+DPOAE,Distortion-Product OtoAcoustic Emission
 DPP,Dipeptidyl Peptidase
 DPR,Direct Peritoneal Resuscitation
 DQ,Developmental Quotient
@@ -320,6 +342,7 @@ EPDS,Edinburgh Postnatal/Postpartum Depression Scale
 EPEC,Enteropathogenic Escherichia coli
 Epi,Epidemiology
 Epi,Epinephrine
+EPO,Erythropoietin
 EPS,Extra Pyramidal Symptoms
 EPSP,Excitatory Postsynaptic Potential 
 EPT,Expedited Partner Therapy
@@ -334,9 +357,11 @@ ESV,End Systolic Volume
 ESWL,Extracorporeal Shock Wave Lithotripsy
 ETC,Electron Transport Chain
 ETEC,Enterotoxigenic Escherichia coli
+ETOH,Ethanol (alcohol)
 EUA,Exam Under Anesthesia
 EUS,External Urethral Sphincter
 EVD,ExtraVentricular Drain
+EWS,Ewing Sarcoma
 f/t/h,found to have
 f/u,follow up
 FA,Fascia Adherens
@@ -347,6 +372,7 @@ FCR,Flexor Carpi Radialis
 FCU,Flexor Carpi Ulnaris
 FDP,Flexor Digitorum Profundus
 FDS,Flexor Digitorum Superficialis
+FEN,"Fluid, Electrolytes, Nutrition"
 FENa,Fractional Excretion of sodium
 FEV1,Forced Expiratory Volume in 1 second
 FFA,Free Fatty Acids
@@ -371,7 +397,7 @@ FWF,Free Water Flushes
 fx,fracture
 G6P,Glucose-6-Phosphate
 G6PD,Glucose-6-Phosphate Dehydrogenase
-GABA,γ-Amino Butyric Acid
+GABA,γ-Amino Butyric Acid (gamma)
 GAD,Generalized Anxiety Disorder
 GAD-7,Generalized Anxiety Disorder 7
 GAG,Glycosaminoglycans
@@ -379,12 +405,14 @@ GALT,Gut Associated Lymphatic Tissue
 GAS,Group A Streptococcus
 GBS,Group B Streptococcus
 GC,Gonococcal
+GCT,Germ Cell Tumor
 GDM,Gestational Diabetes Mellitus
 GDP,Guanosine Diphosphate
 GERD,GastroEsophageal Reflux Disease
 GFAP,Glial Fibrillary Acidic Protein
 GFP,Green Fluorescent Protein
 GFR,Glomerular Filtration Rate
+GGT,γ-Glutamyl Transferase (gamma)
 GH,Growth Hormone
 GI,Gastrointestinal
 GIP,Glucose-dependent Insulinotropic Polypeptide
@@ -404,11 +432,13 @@ GU,Genitourinary
 GV,Growth Velocity
 GxPx,"Gravidity and Parity (number of times pregnant, number of times given birth)"
 H&E,Hematoxylin & Eosin staining
+H&H,Hemoglobin and Hematocrit
 H&P,History & Physical
 HA,Histamine
 HAP,Hospital-Acquired Pneumonia
 HASS,Hospital Asthma Severity Score
 Hb,Hemoglobin
+HBL,Hepatoblastoma
 HBPM,Home Blood Pressure Monitoring
 HBsAg,Hepatitis Surface Antigen
 HC,Head Circumference
@@ -426,6 +456,7 @@ HEEADSSS,"Home, Education/Employment, Eating, Activities, Drugs, Sexuality, Suic
 HEENT,"Head, Ears, Eyes, Nose, Throat"
 HELLP,"Hemolysis, Elevated Liver enzymes, and Low Platelet count Syndrome"
 Hep,Hepatitis
+HEP,Home Exercise Program
 HEVs,High Endothelial Venules
 HFA,HydroFluoroAlkane (for inhalers)
 HFE,Human Factors Engineering
@@ -465,6 +496,7 @@ HSV,Herpes Simplex Virus
 HTN,Hypertension
 HTS,HyperTonic Saline
 HTx,Heart Transplant
+HVA,HomoVanillic Acid
 I&D,Incision and Drainage
 IAP,Inferior Articular Process
 IBD,Irritable Bowel Disease
@@ -479,9 +511,11 @@ ICP,Intensive Care Pediatrics
 ICS,Inhaled Corticosteroid
 ICS,Intercostal Space
 ICU,Intensive Care Unit
+ID,Infectious Disease
 IDDM,Insulin Dependent Diabetes Mellitus
 IDF,Infant-Directed Feeding
 IDR,Incidence Density Rate
+IDRF,Image Defined Risk Factor
 IEP,Individualized Education Program
 IESS,Infantile Epileptic Spasms Syndrome
 IFG,Impaired Fasting Glucose
@@ -511,6 +545,7 @@ IR,Immediate Release
 IR,Interventional Radiology
 IRIS,Immune Reconstitution Inflammatory Syndrome
 IRV,Inspiratory Reserve Volume
+IS,Incentive Spirometry
 ISF,Interstitial Fluid
 iso,in setting of
 ITB,IntraThecal Baclofen
@@ -538,6 +573,7 @@ LATCH,"Latch, Audible swallowing, Type of nipple, Comfort, Hold"
 LBL,Lymphoblastic Lymphoma/Leukemia
 LBW,Lean Body Weight
 LCA,Left Coronary Artery
+LCL,Lateral Collateral Ligament
 LDH,Lactate Dehydrogenase
 LDL,Low-Density Lipoprotein
 LES,Lower Esophageal Sphincter
@@ -571,6 +607,7 @@ M-CHAT,Modified Checklist for Autism in Toddlers
 M-CSF,Macrophage Colony Stimulating Factor
 m/k/d,mL/kg/day
 MA,Macula Adherens
+MAC,Minimum Alveolar Concentration
 MAHA,Microangiopathic Hemolytic Anemia
 MALT,Mucosal Associated Lymphoid Tissue
 MAO,Monoamine Oxidase
@@ -590,6 +627,7 @@ MCV,Mean Corpuscular Volume
 MDD,Major Depressive Disorder
 MDI,Metered Dose Inhaler
 MDI,Multiple Daily Injections
+MDRO,MultiDrug-Resistant Organism
 MDS,Meconium Drug Screen
 MetS,Metabolic Syndrome
 MF,Muscle Fiber
@@ -599,6 +637,7 @@ MGF,Maternal Grandfather
 MGM,Maternal Grandmother
 MHC,Major Histocompatibility Complex
 MI,Myocardial Infarction
+MIBG,Meta-IodoBenzylGuanidine
 MIS-C,Multisystem Inflammatory Syndrome in Children
 Mit,Mitochondria
 MIT,monoiodothyronine
@@ -623,6 +662,7 @@ MRN,Medical Record Number
 MRSA,Methicillin-Resistant Staphylococcus aureus
 MS,Morphine Sulfate
 MS,Multiple Sclerosis
+MS MAID,"Machine, Suction, Monitors, Airway, IV, Drugs"
 MSAF,Meconium-Stained Amniotic Fluid
 MSE,Mental Status Examination
 MSH,Melanocyte Stimulating Hormone
@@ -650,6 +690,7 @@ NASH,Non-Alcoholic Steatohepatitis
 NAT,Non-Accidental Trauma
 NAVA,Neurally Adjusted Ventilatory Assist
 NB,Nota Bene (Note well)
+NBL,Neuroblastoma
 NBS,NewBorn Screen
 NCAT,NormoCephalic/Atraumatic
 NCIT,Non-Contact Infrared Thermometer
@@ -748,12 +789,16 @@ PAI,Plasminogen Activator Inhibitor
 PAMPs,Pathogen Associated Molecular Patterns
 PANDAS,Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal infections
 PAO,PeriAcetabular Osteotomy
+PAPVR,Partial Anomalous Pulmonary Venous Return
 PARDS,Pediatric Acute Respiratory Distress Syndrome
 PARF,Population Attributable Risk Fraction
 PAS,Periodic Acid-Schiff
 PCA,Patient-Controlled Analgesic
+PCL,Posterior Cruciate Ligament
 PCNL,PerCutaneous NephroLithotomy
 PCOS,Polycystic Ovary Syndrome
+PCP,Phencyclidine
+PCP,Primary Care Provider
 PCT,Procalcitonin
 PD,Panic Disorder
 PDA,Patent Ductus Arteriosus
@@ -797,6 +842,7 @@ PKC,Protein Kinase C
 PKG,Protein Kinase G
 PLA2,Phospholipase A2
 PLC,Phospholipase C
+PLADO,Cisplatin/Doxorubicin
 PLEX,PLasma EXchange
 PMA,Post-Menstrual Age
 PMC,Pontine Micturition Center
@@ -837,6 +883,7 @@ pRBC,Packed Red Blood Cells
 PROS,Psychiatric Review of Symptoms
 PRP,Penicillinase-Resistant Penicillin
 PRR,Pattern Recognition Receptors
+PSA,Prostate Specific Antigen
 PSG,Polysomnography
 PSH,Past Surgical History
 PSP,Penicillinase-Sensitive Penicillin
@@ -886,24 +933,30 @@ RER,Rough Endoplasmic Reticulum
 Retic.,Reticulocyte Count
 RF,Renal Failure
 RF,Rheumatoid Factor
+RIME,Reactive Infectious Mucocutaneous Eruption
 RLD,Restrictive Lung Diseases
 RMP,Resting Membrane Potential
 RNA,Ribonucleic Acid
 ROHHAD,"Rapid-onset Obesity with Hypothalamic dysregulation, Hypoventilation, and Autonomic Dysregulation"
 ROM,Range of Motion
 ROM,Rupture of Membrane
+ROP,Retinopathy of Prematurity
 ROS,Reactive Oxygen Species
 ROS,Review of Systems
+RPR,Rapid Plasma Reagin
 RR,Respiration Rate
 RRB,Restricted and Repetitive Behavior
 RRO,RANKL/RANK/OPG
 RRR,Regular Rate and Rhythm (heart rate)
 RRT,Registered Respiratory Therapist
 RST,Rapid Strep Test
+RSV,Respiratory Syncytial Virus
 RTA,Ready To Admit
 RTA,Renal Tubular Acidosis
 RTC,Return To Clinic
 RTF,Ready-To-Feed
+RTL,Run The List
+RUPV,Right Upper Pulmonary Vein
 RV,Residual Volume
 RV,Respiratory Volume
 RV,Right Ventricle
@@ -937,6 +990,7 @@ SG,Specific Gravity
 SGA,Small for Gestational Age
 SGLT,Sodium-Glucose Linked Transporter
 SH,Social History
+SHBG,Sex Hormone-Binding Globulin
 SHOX,Short Stature Homeobox
 SHx,Social History
 SIADH,Syndrome of Inappropriate AntiDiuretic Hormone secretion
@@ -1072,6 +1126,7 @@ VA,VentriculoAtrial (shunt)
 VAC,"Vincristine, dActinomycin, Cyclophosphamide"
 VAERS,Vaccine Adverse Event Reporting System
 VAP,Ventilator-Associated Pneumonia
+VAVD,Vacuum-Assisted Vaginal Delivery
 VAS,Visual Analogue Scale
 VATS,Video-Assisted ThoracoScopy
 VBG,Venous Blood Gas
@@ -1089,6 +1144,7 @@ VFSS,Video Fluoroscopic Swallow Study
 VHD,Valvular Heart Disease
 VIP,Vasoactive Intestinal Peptide
 VLDL,Very-Low-Density Lipoprotein
+VMA,VanillylMandelic Acid
 VMAT,Vesicular Monoamine Transporter
 VNS,Vagus Nerve Stimulator
 VOR,Vestibuloocular Reflex
@@ -1100,6 +1156,7 @@ VSR,Vestibulospinal Reflex
 VT,Ventricular Tachycardia
 VTA,Ventral Tegmental Area
 VTE,Venous Thromboembolism
+VZV,Varicella Zoster Virus
 WAT,Wean As Tolerated
 WAT,Withdrawal Assessment Tool
 WBC,White Blood Cell Count
