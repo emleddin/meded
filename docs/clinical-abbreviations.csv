@@ -79,7 +79,9 @@ ASL,American Sign Language
 ASM,Anti-Seizure Medication
 ASQ,Ages and Stages Questionnaire
 AST,Aspartate Aminotransferase
+AT,Ataxia Telangiectasia
 AT III,Antithrombin III
+ATC,Around The Clock
 ATFL,Anterior Tibiofibular Ligament
 ATP,Adenosine Triphosphate
 ATTEST,"Associated symptoms, Timing, Triggers, Examination Signs, and additional Testing"
@@ -263,6 +265,7 @@ DICT,"Dense, Irregular, Connective Tissue"
 Diff,Differential
 DIP,Desquamative Interstitial Pneumonia
 DIP,Distal Interphalangeal joint
+DIPG,Diffuse Intrinsic Pontine Glioma
 DIT,diiodothyronine
 DKA,Diabetic Ketoacidosis
 DLBCL,Diffuse Large B-Cell Lymphoma
@@ -844,6 +847,7 @@ PLA2,Phospholipase A2
 PLC,Phospholipase C
 PLADO,Cisplatin/Doxorubicin
 PLEX,PLasma EXchange
+PLICA,
 PMA,Post-Menstrual Age
 PMC,Pontine Micturition Center
 PMD,Primary Medical Doctor
@@ -999,8 +1003,9 @@ SIBO,Small Intestinal Bacterial Overgrowth
 SIG E CAPS,"Sleep, Interest, Guilt, Energy, Concentration, Appetite, Psychomotor, Suicide"
 SLAP,Superior Labrum Anterior to Posterior
 SLE,Systemic Lupus Erythematosus
-SLL,Small Lymphocytic Lymphoma
+SLJ,Sinding-Larson-Johansson syndrome
 SLK,Simultaneous Liver Kidney
+SLL,Small Lymphocytic Lymphoma
 SLUDGE,"Salivation, Lacrimation, Urination, Diarrhea, Gastrointestinal distress, and Emesis"
 SMA,Spinal Muscular Atrophy
 SMA,Superior Mesenteric Artery

@@ -3,14 +3,14 @@
 /* You can even make them over
 multiple lines! */
 
-/* We want to use our purple color in the navbar */
+/* Navbar color */
 .navbar {
   background-color: #7EFF9C;
   border-color: #7EFF9C
   color: #000;
 }
 
-/* Change font size for improved readability */
+/* Change font */
 
 /* Whole document: */
 body{
@@ -21,13 +21,8 @@ body{
 /* Headers */
 h1,h2,h3,h4,h5,h6{
   font-family: "Source Sans 3", Arial, Helvetica, sans-serif;
+/*  font-size: 18pt;*/
 }
-
-/* Headers */
-/*h1,h2,h3,h4,h5,h6{
-  font-size: 18pt;
-}
-*/
 
 /* Change default colors from the Bootstrap for improved accessibility */
 
@@ -85,6 +80,7 @@ div.footer a:link, fab:link { color: #7EFF9C;}
 @media (prefers-color-scheme: dark) {
 a:link {
   color: #FF9C7E;
+  
 }
 
 a:hover {
@@ -123,47 +119,6 @@ body {
   border-color: #005714;
 }
 
-/* Text on navbar */
-.navbar-default .navbar-brand {
-  color: black;
-}
-
-a.navbar-brand {
-    color: black;
-}
-
-/* Clears the error flag, but it doesn't actually work */
-a.navbar-brand:hover {
-    color: black;
-}
-
-/* Also does nothing... */
-a.navbar-brand:active {
-    color: black;
-}
-
-/* Text on navbar */
-.navbar-default .navbar-nav > li > a {
-  color: black;
-}
-
-/* Text on navbar */
-.navbar-default .navbar-nav .open .dropdown-menu>li>a {
-  color: black;
-  background-color: #7EFF9C;
-}
-
-/* Hamburger color */
-.navbar-default .navbar-toggle .icon-bar {
-  background-color: black;
-}
-
-/* When hovering over the navbar lists */
-.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover {
-  background-color: black;
-  color: white;
-}
-
 /* Odd row colors #393F4F*/
 table.dataTable > tbody tr.odd td { 
     background: #283E33;
@@ -171,6 +126,9 @@ table.dataTable > tbody tr.odd td {
   
 }
 /* End dark mode */
+
+/* For all */
+
 
 .dropdown-item.active, .dropdown-item:active {
   color: #fff;
@@ -246,5 +204,77 @@ input{
 .dataTables_wrapper .dataTables_paginate .paginate_button {
     color: white !important;
 }
+
+
+@media (prefers-color-scheme: light) {
+}
+/* End light specific theme */
+
+  /* Text on navbar */
+.navbar-default .navbar-brand {
+  color: black;
 }
 
+/* Puts box around main site name when hover */
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+  color: black;
+  border-color: black;
+}
+
+a.navbar-brand {
+    color: black;
+}
+
+/* Clears the error flag, but it doesn't actually work */
+a.navbar-brand:hover {
+    color: black;
+}
+
+/* Also does nothing... */
+a.navbar-brand:active {
+    color: black;
+}
+
+/* Text on navbar */
+.navbar-default .navbar-nav > li > a {
+  color: black;
+}
+
+/* Text on navbar */
+.navbar-default .navbar-nav .open .dropdown-menu>li>a {
+  color: black;
+  background-color: #7EFF9C;
+}
+
+/* Hamburger color */
+/*
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: black;
+}
+*/
+
+/* For hamburger color */
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: black;
+}
+
+.navbar-default .navbar-toggle .icon-bar:hover {
+  background-color: black;
+  border-color: black;
+}
+
+button.navbar-toggle.collapsed {
+  color: black;
+  background-color: #7EFF9C;
+}
+
+button.navbar-toggle.collapsed:focus {
+  color: white;
+  background-color: black;
+}
+
+/* When hovering over the navbar lists */
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover {
+  background-color: black;
+  color: white;
+}
