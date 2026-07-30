@@ -36,6 +36,27 @@ If you made it here, I hope you find it useful.
 
 - [VisualDx](https://www.visualdx.com/), [iOS](https://apps.apple.com/us/app/visualdx/id348177521) and [Android](https://play.google.com/store/apps/details?id=com.visualdx.android&hl=en-US)
 
+# Clinial Practice Guidlines / Standards of Care
+
+- [American Academy of Neurology](https://www.aan.com/practice/guidelines/)
+
+- [American Academy of Pediatrics](https://publications.aap.org/collection/523/Clinical-Practice-Guidelines)
+
+- [American College of Obstetrics and Gynecology](https://www.acog.org/Clinical)
+
+- [American College of Rhuematology](https://rheumatology.org/clinical-practice-guidelines)
+
+- [American College of Surgeons](https://www.facs.org/for-medical-professionals/clinical-practice/)
+
+- [American Heart Association](https://www.ahajournals.org/guidelines)
+
+- [American Society of Anesthesiologists](https://www.asahq.org/standards-and-practice-parameters#guidelines)
+
+- [Kidney Disease: Improving Global Outcomes](https://kdigo.org/guidelines/)
+
+- [Infectious Diseases Society of America](https://www.idsociety.org/practice-guideline/)
+
+- [U.S. Preventive Services Task Force](https://www.uspreventiveservicestaskforce.org/uspstf/home)
 
 # Physical Exam Skills
 

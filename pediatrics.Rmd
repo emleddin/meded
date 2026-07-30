@@ -39,6 +39,20 @@ output:
 
 - [Pathways4Kids](https://pathways4kids.org/home/pediatric-clinical-pathway-websites/)
 
+# Current Management Guidelines (From Societies)
+
+- [Asthma, 2026 GINA](https://ginasthma.org/2026-gina-summary-guide/)
+
+- [COPD, 2026 GOLD](https://goldcopd.org/2026-gold-report-and-pocket-guide/)
+
+- [Diabetes Standards of Care, ADA](https://professional.diabetes.org/standards-of-care)
+
+- [Kawasaki Disease, 2024 AHA](https://doi.org/10.1161/CIR.0000000000001295)
+
+- [Hyperbilirubinemia (35+ weeks), 2022 AAP](https://doi.org/10.1542/peds.2022-058859)
+
+- [Urinary Tract Infections, 2025 IDSA](https://www.idsociety.org/practice-guideline/complicated-urinary-tract-infections/)
+
 # Education
 
 ## Anesthesia and Critical Care
