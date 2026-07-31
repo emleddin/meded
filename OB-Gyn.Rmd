@@ -1,0 +1,74 @@
+---
+title: "OB/Gyn Resources"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# Fetal Heart Rate Monitoring
+
+- [Electronic Fetal Monitor Game](https://ncc-efm.org/game/efmgame.cfm)
+
+- [Basic Pattern Recognition – Electronic Fetal Monitoring](https://ob-efm.com/efm-basics/basic-pattern-recognition/)
+
+- [Intrapartum Fetal Heart Rate (FHR) Monitoring](https://www.perinatology.com/Fetal%20Monitoring/Intrapartum%20Monitoring.htm)
+
+- [Fetal Decelerations | Osmosis Answers](https://www.osmosis.org/answers/fetal-decelerations)
+
+- [Stages of Labor | Osmosis](https://www.youtube.com/watch?v=YgP49AuxIqc)
+
+- [Intrapartum Fetal Surveillance | APGO Module](https://www.youtube.com/watch?v=pt03jy6T2Mk)
+
+- [OBI Category II Fetal Heart Rate Tracing Management Algorithm](https://www.obstetricsinitiative.org/wp-content/uploads/2024/05/OBI-Category-II-Fetal-Heart-Rate-Tracing-Management-Algorithm_May-2024.pdf)
+
+# Practice Bulletins / Guidelines
+
+- [ACOG 222: Gestational Hypertension and Pre-Eclampsia](https://www.acog.org/clinical/clinical-guidance/practice-bulletin/articles/2020/06/gestational-hypertension-and-preeclampsia)
+
+- [ACOG 233: Anemia in Pregnancy](https://www.acog.org/clinical/clinical-guidance/practice-bulletin/articles/2021/08/anemia-in-pregnancy)
+
+- [ACOG 831: Medically Indicated Late-Preterm and Early-Term Deliveries](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2021/07/medically-indicated-late-preterm-and-early-term-deliveries)
+
+- [ACOG 189: Nausea and Vomiting of Pregnancy](https://www.acog.org/clinical/clinical-guidance/practice-bulletin/articles/2018/01/nausea-and-vomiting-of-pregnancy) (algorithm for hyperemesis)
+
+- [ARRIVE Trial](http://doi.org/10.1097/AOG.0000000000005783)
+  - [Plain Text Summary](https://evidencebasedbirth.com/wp-content/uploads/2024/10/ARRIVE-Trial-Handout-2024.pdf)
+
+- [Glucose Monitoring in Gestational Diabetes | ADA](https://professional.diabetes.org/sites/dpro/files/2024-04/GlucoseMonitoringInGestationalDiabetes.pdf)
+
+- [Support Vaginal Birth and Reduce Primary Cesareans Toolkit | CMQCC](https://www.cmqcc.org/VBirthToolkit)
+  - [Appendix P](https://www.cmqcc.org/system/files/AppendixP_CatIIAlgorithm_0.pdf): Algorithm for the Management of Category II Fetal Heart Tracings
+  - [Appendix Q](https://www.cmqcc.org/system/files/AppendixQ_FinalErrata_092017.pdf): Algorithm for the Management of Intrapartum Fetal Heart Rate Tracings
+
+- [OB Hemorrhage Toolkit | CMQCC](https://www.cmqcc.org/resources-tool-kits/toolkits/ob-hemorrhage-toolkit)
+  - [Appendix R](https://www.cmqcc.org/system/files/Appendix%20R%20Medications%20for%20Postpartum%20Hemorrhage.pdf): Medications for Postpartum Hemorrhage
+
+# StatPearls Procedures
+
+- [Endometrial Ablation](https://www.ncbi.nlm.nih.gov/books/NBK459245/)
+
+- [Cold Knife Conization of the Cervix](https://www.ncbi.nlm.nih.gov/books/NBK441845/)
+
+- [Tubal Sterilization](https://www.ncbi.nlm.nih.gov/books/NBK470377/)
+
+# Calculators
+
+- [Vaginal Birth After Cesarean Calculator | MFMU](https://mfmunetwork.bsc.gwu.edu/web/mfmunetwork/vaginal-birth-after-cesarean-calculator)
+
+- [Fetal Growth Calculator | NIH](https://www.nichd.nih.gov/fetalgrowthcalculator)
+
+- [Fetal Growth Assessment | Fetal Medicine Foundation](https://fetalmedicine.org/research/assess/growth)
+
+- [Ganzoni Equation for Iron Deficiency Anemia | MDCalc](Ganzoni Equation for Iron Deficiency Anemia)
+
+# Other
+
+- [OB Gyn Tools: Dictations](http://www.obgyntools.com/dictations/dictations-alldictations.html)
+  - Example operative reports
+
+- [Common Abbreviations | Loyola](https://www.lumen.luc.edu/lumen/meded/obgyne/homepage/common_abbreviations.pdf)
+
+- [Nexplanon Insertion Instructions](https://nexplanontraining.com/wp-content/uploads/sites/2/2024/04/US-XPL-117130_Insertion-Removal-Booklet-DIGITAL_FINAL.pdf)
+
+- [Mogen Clamp Technique (Circumcision)](https://med.stanford.edu/newborns/professional-education/circumcision/mogen-clamp-technique.html)

@@ -129,6 +129,8 @@ Make sure whatever you're using is HIPAA compliant and works with your local pol
 
 # Additional Languages
 
+- [Health Information in Multiple Languages | Medline Plus](https://medlineplus.gov/languages/languages.html)
+
 - [Point to Talk Books | Mass General](https://www.massgeneral.org/interpreters/resources)
 
 - [CDC Resources in Languages Other than English](https://wwwn.cdc.gov/pubs/other-languages?Sort=Lang%3A%3Aasc)
@@ -136,6 +138,13 @@ Make sure whatever you're using is HIPAA compliant and works with your local pol
 - [PHQ and GAD-7 in Other Languages](https://www.phqscreeners.com/select-screener)
 
 - [Patient-Provider Communication Language Tools (pictograms)](https://www.patientprovidercommunication.org/covid-19-tools/free-bilingual-tools/?language=spanish)
+
+- [Health Library | Gillette Children’s](https://www.gillettechildrens.org/your-visit/patient-education)
+  - Resources in Somali, Spanish, and Hmong
+
+- [Translated Materials | Minnesota Department of Health](https://www.health.state.mn.us/communities/translation/index.html)
+
+- [Lexicon of English-HMoob (Hmong) Medical Terminology | UW Madison](https://nursing.wisc.edu/lexicon-of-english-hmoob-medical-terminology/)
 
 # Apps
 

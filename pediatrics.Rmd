@@ -180,7 +180,10 @@ output:
 
 - [Estimating Calorie and Protein Needs | Children's Wisconsin](https://childrenswi.org/-/media/chwlibrary/files/medical-care/clinical-nutrition/nutritionhandbook/estimating_calorie_and_protein_needs.pdf)
 
-- [ASPEN Infant Formulas](https://www.nutritioncare.org/Guidelines_and_Clinical_Resources/EN_Formula_Guide/EN_Infant_Formulas/)
+
+- [ASPEN Enteral Nutrition Formula Guide](http://nutr.org/Guidelines_and_Clinical_Resources/EN_Formula_Guide/Enteral_Nutrition_Formula_Guide/)
+
+  - [ASPEN Infant Formulas](http://nutr.org/Guidelines_and_Clinical_Resources/EN_Formula_Guide/EN_Infant_Formulas/)
 
   - [Abbott Pediatric Products](https://www.pediatricproconnect.com/products.html)
 
@@ -214,6 +217,10 @@ output:
 
 - [Neonatal Adjusted Age Calculator](https://neonatal.rti.org/index.cfm?fuseaction=AdjustedAgeCalculator.main)
 
+- [Growth Chart Calculator](https://www.infantchart.com/)
+
+- [Pedigree Chart Designer](https://cegat.com/diagnostics/general-information/pedigree-chart-designer/) (free for Mac, Windows, and Linux)
+
 ## MDCalc
 
 - [Maintenance Fluids Calculations](https://www.mdcalc.com/calc/72/maintenance-fluids-calculations)
@@ -239,6 +246,17 @@ output:
 - [Richmond Agitation-Sedation Scale (RASS)](https://www.mdcalc.com/calc/1872/richmond-agitation-sedation-scale-rass)
 
 - [Withdrawal Assessment Tool (WAT-1) for Pediatric Withdrawal](https://www.mdcalc.com/calc/10168/withdrawal-assessment-tool-wat-1-pediatric-withdrawal)
+
+- [PEWS Score](https://www.mdcalc.com/calc/3901/pediatric-early-warning-score-pews)
+  - [Grading sheet](https://generalpracticemedicine.org/PEWSSheetApril2017Final2.pdf): what to do based on PEWS Score
+
+- [PRAM Score for Asthma](https://www.mdcalc.com/calc/3384/pediatric-respiratory-assessment-measure-pram-asthma-exacerbation-severity)
+
+- [Respiratory Score for Asthma](https://www.mdcalc.com/calc/10236/respiratory-score-asthma-liu-et-al)
+
+- [Neonatal Abstinence Score](https://www.mdcalc.com/calc/10048/modified-finnegan-neonatal-abstinence-score-nas)
+
+- [APGAR Score](https://www.mdcalc.com/calc/23/apgar-score)
 
 # Apps
 

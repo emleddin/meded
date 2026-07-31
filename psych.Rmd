@@ -1,0 +1,57 @@
+---
+title: "Psychiatry Resources"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+- [MI Overdose Prevention Engagement Network (OPEN) Materials](https://michigan-open.org/resources/materials/)
+
+- [10 Point Guide to MSE](https://psychscenehub.com/psychinsights/ten-point-guide-to-mental-state-examination-mse-in-psychiatry/)
+
+- [Therapist Aid](https://www.therapistaid.com/) (lots of mental health worksheets)
+
+# Medication Resources
+
+- [MC3 Pediatric + Perinatal Psychopharmacology Cards](https://mc3michigan.org/pharma-cards/)
+
+- [Quick Reference to Psychiatric Medications](https://www.apadivisions.org/division-55/councils/research/quick-reference.pdf)
+
+- [Guide to Psychiatric Medications for Children and Adolescents](https://www.ocfcpacourts.us/wp-content/uploads/2020/06/Guide_to_Psychiatric_Medications_for_Children_001360.pdf)
+
+- [Parents’ Medication Guides | AACAP](https://www.aacap.org/AACAP/Families_and_Youth/Family_Resources/Parents_Medication_Guides.aspx)
+
+- [ADHD Medication Guide/Stimulation Medication Guide](https://www.adhdmedicationguide.com/)
+
+- [Epilepsy Foundation | Seizure Medication Guide](https://www.epilepsyfoundationmn.org/resource/medication-guide-2/)
+
+- [Depression Medication Choice Cards (JAMA Article)](https://doi.org/10.1001/jamainternmed.2015.5214)
+
+- Recognizing Substance Use
+
+  - [Drug Category Symptomatology Chart](https://waynecountydefendertraining.com/cap-archives/capwayne/handouts/2013/2013_12_13_DRE_Manual_Drug_Matrix.pdf)
+
+  - [North Carolina Drug Category Matrix](https://www.sog.unc.edu/sites/default/files/course_materials/NC%20DRE%20Matrix%2003-2019.pdf)
+
+# Assessment Resources
+
+- [SLU Mental Status Exam (SLUMS)](https://www.slu.edu/medicine/internal-medicine/geriatric-medicine/aging-successfully/assessment-tools/mental-status-exam.php)
+  - [PDF](https://www.slu.edu/medicine/internal-medicine/geriatric-medicine/aging-successfully/-pdf/slums-form.pdf)
+
+- [Abnormal Involuntary Movement Scale (AIMS)](https://www.psychdb.com/_media/meds/side-effects/aims.pdf)
+
+- [Montreal Cognitive Assessment (MoCA)](https://www.healthcare.uiowa.edu/familymedicine/fpinfo/Docs/MOCA/MoCA-8.1-English-Test-2020.pdf)
+  - [Other versions](https://mocacognition.com/paper#paper_form_full) (including for patients with vision or hearing loss), requires registration to download
+
+- [Cog-Log](https://tbims.org/combi/coglog/Cog-Log.pdf)
+
+- [Columbia-Suicide Severity Rating Scale (C-SSRS)](https://cssrs.columbia.edu/the-columbia-scale-c-ssrs/about-the-scale/)
+  - [PDF](https://www.cms.gov/files/document/cssrs-screen-version-instrument.pdf)
+
+# Note Templates
+
+- [Psychiatric Evaluation Template | Peds Cases](https://pedscases.com/psychiatric-evaluation-template)
+
+- [Stanley-Brown Safety Plan](https://suicidesafetyplan.com/forms/)
+  - Resource in English and Spanish

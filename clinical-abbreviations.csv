@@ -71,6 +71,7 @@ APP,Advanced Practice Provider
 ARB,Angiotensin Receptor Blocker
 ARDS,Acute Respiratory Distress Syndrome
 ARF,Acute Renal Failure
+ARFID,Avoidant/Restrictive Food Intake Disorder
 AROM,Artificial Rupture of Membrane
 ASA,AcetylSalicylic Acid (aspirin)
 ASC,Ambulatory Surgery Center
@@ -80,6 +81,7 @@ ASD,Autism Spectrum Disorder
 ASIS,Anterior Superior Iliac Spine
 ASL,American Sign Language
 ASM,Anti-Seizure Medication
+ASPEN,American Society for Parenteral and Enteral Nutrition
 ASQ,Ages and Stages Questionnaire
 AST,Aspartate Aminotransferase
 AT,Ataxia Telangiectasia
@@ -320,8 +322,10 @@ ECM,Extracellular Matrix
 ECMO,ExtraCorporeal Membrane Oxygenation
 ECPR,Extracorporeal CardioPulmonary Resuscitation
 ECT,Electroconvulsive Therapy
+ED,Eating Disorder
 ED,Emergency Department
 ED,Erectile Dysfunction
+EDO,Eating DisOrder
 EDPVR,End Diastolic Pressure-Volume Relationship
 EDRF,Endothelial-Derived Relaxing Factor
 EDS,Ehlers-Danlos Syndrome
@@ -392,6 +396,7 @@ FLACC,"Face, Legs, Activity, Cry, Consolability"
 FMEA,Failure Modes and Effects Analysis
 FND,Focal Neuro Deficits
 FND,Functional Neurologic Disorder
+FNSD,Functional Neurological Symptom Disorder
 FOB,Father of Baby
 FPG,Fasting Plasma Glucose
 FPIES,Food Protein-Induced Enterocolitis Syndrome
@@ -639,6 +644,7 @@ MDI,Metered Dose Inhaler
 MDI,Multiple Daily Injections
 MDRO,MultiDrug-Resistant Organism
 MDS,Meconium Drug Screen
+MELD,Model for End-Stage Liver Disease
 MetS,Metabolic Syndrome
 MF,Muscle Fiber
 MFF,Mycophenolate Mofetil

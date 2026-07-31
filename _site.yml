@@ -18,6 +18,12 @@ navbar:
         href: pediatrics.html
       - text: "Pediatrics Smart Text"
         href: pediatrics-smart-text.html
+    - text: "Internal Med"
+      href: IM.html
+    - text: "OB/Gyn"
+      href: OB-Gyn.html
+    - text: "Psychiatry"
+      href: psych.html
     - text: "Languages"
       href: languages.html
     - text: "PDF Templates"
@@ -34,6 +40,8 @@ navbar:
         href: PDF-Templates/ROS-Quick-Sheet.pdf
       - text: "Undiagnosed Template (H&P)"
         href: PDF-Templates/Undiagnosed-Encounter-Template-Form.pdf
+      - text: "Clinical Skills Exam (OSCE/PCSE)"
+        href: PDF-Templates/OSCE-Exam-Doc.pdf
     - text: "Spanish PDF Templates"
       menu:
       - text: "Revisión de los sistemas (Review of Systems)"

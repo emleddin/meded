@@ -1,0 +1,122 @@
+---
+title: "Internal Medicine Resources"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# Common MDCalc Calculators/Tools
+
+- [TIMI Risk Score for UA/NSTEMI](https://www.mdcalc.com/calc/111/timi-risk-score-ua-nstemi)
+
+- [HEART Score for Major Cardiac Events](https://www.mdcalc.com/calc/1752/heart-score-major-cardiac-events)
+
+- [HACOR Score](https://www.mdcalc.com/calc/10460/hacor-score)
+  - Predict failure of non-invasive ventilation for hypoxemia
+
+- [ROX Index for Intubation after HFNC](https://www.mdcalc.com/calc/10302/rox-index-intubation-hfnc)
+  - Predicts high-flow nasal cannula (HFNC) failure/need for intubation
+
+- [NIH Stroke Scale/Score (NIHSS)](https://www.mdcalc.com/calc/715/nih-stroke-scale-score-nihss)
+
+- [4Ts Score for Heparin-Induced Thrombocytopenia](https://www.mdcalc.com/calc/1787/4ts-score-heparin-induced-thrombocytopenia)
+
+- [Fractional Excretion of Sodium (FENa)](https://www.mdcalc.com/calc/60/fractional-excretion-sodium-fena)
+
+- [PLASMIC Score for TTP](https://www.mdcalc.com/calc/10200/plasmic-score-ttp)
+
+- [Age-Adjusted D-Dimer for VTE](https://www.mdcalc.com/calc/10200/plasmic-score-ttp)
+
+- [CHA<sub>2</sub>DS<sub>2</sub>-VASc Score for Atrial Fibrillation Stroke Risk](https://www.mdcalc.com/calc/801/cha2ds2-vasc-score-atrial-fibrillation-stroke-risk)
+
+- [HAS-BLED Score for Major Bleeding Risk](https://www.mdcalc.com/calc/807/has-bled-score-major-bleeding-risk)
+  - Estimates risk of major bleeding for patients on anticoagulation to assess risk-benefit in atrial fibrillation care
+
+- [R Factor for Liver Injury](https://www.mdcalc.com/calc/4064/r-factor-liver-injury)
+
+- [Fibrosis-4 (FIB-4) Index for Liver Fibrosis](https://www.mdcalc.com/calc/2200/fibrosis-4-fib-4-index-liver-fibrosis)
+
+- [Maddrey's Discriminant Function for Alcoholic Hepatitis](https://www.mdcalc.com/calc/56/maddreys-discriminant-function-alcoholic-hepatitis)
+
+- [Model for End-Stage Liver Disease (Combined MELD)](https://www.mdcalc.com/calc/10437/model-end-stage-liver-disease-meld)
+
+- [Child-Pugh Score for Cirrhosis Mortality](https://www.mdcalc.com/calc/340/child-pugh-score-cirrhosis-mortality)
+
+- [CIWA-Ar for Alcohol Withdrawal](https://www.mdcalc.com/calc/1736/ciwa-ar-alcohol-withdrawal)
+
+- [Richmond Agitation-Sedation Scale (RASS)](https://www.mdcalc.com/calc/1872/richmond-agitation-sedation-scale-rass)
+  - [Better](https://emcrit.org/ibcc/etoh/#therapeutic_target_(CIWA_vs._RASS)) than CIWA
+
+- [Ganzoni Equation for Iron Deficiency Anemia](https://www.mdcalc.com/calc/10139/ganzoni-equation-iron-deficiency-anemia)
+
+- [Wells' Criteria for Pulmonary Embolism](https://www.mdcalc.com/calc/115/wells-criteria-pulmonary-embolism)
+
+- [Light's Criteria for Exudative Effusions](https://www.mdcalc.com/calc/797/lights-criteria-exudative-effusions)
+
+- [Sodium Correction for Hyperglycemia](https://www.mdcalc.com/calc/50/sodium-correction-hyperglycemia)
+
+- [Free Water Deficit in Hypernatremia](https://www.mdcalc.com/calc/113/free-water-deficit-hypernatremia)
+
+- [Maintenance Fluids Calculations](https://www.mdcalc.com/calc/72/maintenance-fluids-calculations)
+
+- [Morphine Milligram Equivalents (MME) Calculator](https://www.mdcalc.com/calc/10170/morphine-milligram-equivalents-mme-calculator)
+
+- [Opiate Conversion Calculator](https://www.mdcalc.com/calc/3947/opiate-conversion-calculator)
+
+- [Steroid Conversion Calculator](https://www.mdcalc.com/calc/2040/steroid-conversion-calculator)
+
+# Mental Status Exams
+
+- [Mini Mental Status Exam (MMSE)](https://meded.temertymedicine.utoronto.ca/sites/default/files/assets/resource/document/mini-mental-state-examinationmmse.pdf)
+
+- [Mini-Cog](https://mini-cog.com/download-the-mini-cog-instrument/)
+
+# Antibiotic Use
+
+- [Northwestern Feinberg School of Medicine Introductory Guide to Antibiotics](https://adsp.nm.org/uploads/1/4/3/0/143064172/nu-introductory-guide-to-antibiotics.pdf)
+
+- [Antibiotic Susceptibilities in Intensive Care](https://drug.wellingtonicu.com/PDF/App5-Antibiotics.pdf)
+
+- [Antimicrobial Spectrum | Wikipedia](https://en.wikipedia.org/wiki/Antimicrobial_spectrum#)
+
+- [Microbe Invader game](https://microbeinvader.com/)
+
+# EKGs
+
+- [ECG Simulator](https://www.skillstat.com/tools/ecg-simulator-classic)
+
+- [EKGmon Interactive EKG Quiz](https://ekgmon.com/)
+  - [EKGmon Alternative Link](https://www.practicalclinicalskills.com/ekg-monitoring-quiz)
+
+- [ECGpedia](https://en.ecgpedia.org/index.php?title=Main_Page)
+
+- [Arrhythmia Recognition | GE Healthcare](https://www.gehealthcare.com/-/jssmedia/6acabc8138554a2b90c308aed7c0fc8e.pdf)
+
+# Chest X-Rays
+
+- [Introduction to Chest Radiology | University of Virginia](https://introductiontoradiology.net/courses/rad/cxr/index.html)
+
+- [Top 150 CXR Cases | LITFL](https://litfl.com/top-100/cxr/)
+
+- [The Radiology Survival Kit: What You Need to Know for USMLE and the Clinics](https://link.springer.com/book/10.1007/978-3-030-84365-6)
+
+- [Radiology Masterclass](https://www.radiologymasterclass.co.uk/x-ray_courses/chest_xray_course_more_info)
+
+  - [COPD](https://www.radiologymasterclass.co.uk/gallery/chest/pulmonary-disease/chest_xray_copd)
+
+  - [Free gas/pneumoperitoneum](https://www.radiologymasterclass.co.uk/tutorials/abdo/abdomen_x-ray_abnormalities/pathology_bowel_gas_perforation)
+  
+  - [Pneumothorax](https://www.radiologymasterclass.co.uk/gallery/chest/pneumothorax/pneumothorax_a)
+
+# Guidelines
+
+- [2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines](https://doi.org/10.1161/CIR.0000000000001309)
+
+- [2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure (GDMT)](https://doi.org/10.1161/CIR.0000000000001063)
+
+- [American Society of Hematology 2018 guidelines for management of venous thromboembolism: optimal management of anticoagulation therapy](https://doi.org/10.1182/bloodadvances.2018024893)
+
+- [2020 ACC Expert Consensus Decision Pathway on Management of Bleeding in Patients on Oral Anticoagulants: A Report of the American College of Cardiology Solution Set Oversight Committee](http://doi.org/10.1016/j.jacc.2021.04.020)
+
+- [2024 ACG Clinical Guideline: Treatment of Helicobacter pylori Infection](https://doi.org/10.1038/ajg.2016.563)
