@@ -18,12 +18,16 @@ navbar:
         href: pediatrics.html
       - text: "Pediatrics Smart Text"
         href: pediatrics-smart-text.html
-    - text: "Internal Med"
-      href: IM.html
-    - text: "OB/Gyn"
-      href: OB-Gyn.html
-    - text: "Psychiatry"
-      href: psych.html
+    - text: "Add'l Specialties"
+      menu:
+      - text: "Internal Med"
+        href: IM.html
+      - text: "OB/Gyn"
+        href: OB-Gyn.html
+      - text: "Psychiatry"
+        href: psych.html
+    - text: "Interview Qs"
+      href: interview.html
     - text: "Languages"
       href: languages.html
     - text: "PDF Templates"

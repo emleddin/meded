@@ -1,0 +1,144 @@
+---
+title: "Interview Questions"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+Questions to Consider Asking Residency Programs
+
+# General
+- How would you define the culture of the program?
+- What are you most proud of about your residency program?
+- How much of your faculty is composed of former trainees who stayed or came back after training at your institution?
+  - Why do you think so many trainees want to stay as attendings?
+- What is your ideal match resident like?
+  - Similarly, what kind of resident would struggle at this program?
+- Is there a formal advising/mentoring program for new residents? If so, how does this program work?
+- In what ways are non-physicians included in the training program (e.g., pharmacists, nurses)?
+- What activities are residents expected to participate in, beyond normal clinical expectations? Are these obligations protected?
+- [Especially at places that have fellowship programs] What kind of procedures do residents get training in? Are there enough opportunities for residents to get trained in procedures?
+- What is the culture of feedback like at your program? Is it face-to-face? Is it exclusively through evaluations?
+  - How do residents give and receive feedback?
+- How does your program support residents during difficult situations, or rotations where tough things are more expected, like ICU?
+- Are there outside rotators during rotations? (e.g., family med with peds, anesthesia with IM)
+- How does your program work with mid-level providers?
+- Can you talk about graduated autonomy/responsibility for residents throughout the program?
+- Can you talk about the use of simulation in your curriculum?
+  - How frequently do residents participate in mock codes?
+
+# PD/Faculty Questions
+- Can you tell me about a time when a resident struggled academically or personally and what the program did to support them?
+- What were the top concerns on the most recent ACGME resident survey, and what are the plans to address those concerns?
+- What are some changes coming down the pipeline for your program?
+- What changes have you personally made and have seen being made during your time at the program?
+- What is the general attitude toward change in the program?
+- Are there any educational experiences that you feel residents are lacking in (e.g., specific patient populations, resources)?
+  - Do residents from this program go on to academic fellowships?
+  - Are there any educational experiences that you feel residents leave above-average in?
+
+# Medical Education Focus
+- What experiences, both formal and informal, are there for teaching medical students within the program?
+- What pathways are available for residents who are interested in medical education after residency?
+
+# Research and Networking
+- Is there protected time allocated for residents to pursue research during the program?
+- Are residents encouraged to attend regional and national conferences? How is this supported?
+
+# Scheduling
+- Call schedule? 24s? What's the longest shift?
+- What percentage of time is spent inpatient v outpatient in each year?
+
+# Resident Questions
+- Are there limits to how many patients you have? What's the typical number of patients you expect to have while inpatient? During ICU?
+- Do you feel empowered to call off sick? Is there adequate sick coverage?
+- How many hours do you typically stay past scheduled hours in order to finish charting?
+- How does your system communicate? Do you rely on phone calls, or are there alternative means, like Epic chat?
+- Do attendings typically communicate between each other? Do they have similar goals and priorities? Or do plans of care and expectations change with each new attending?
+- What are some of the quality improvement projects that residents are working on?
+- What does mentorship look like between residents?
+- For night shifts, are attendings in-house? Do you feel adequately supported/able to call the attending?
+- How are admissions during rounds handled? Does the team go? Only 1–2 people? Is there a separate team covering admissions during rounds?
+- Can you talk more about the interdisciplinary support that exists for patients (e.g., inpatient vs. outpatient)? Folks like social workers, case managers, behavioral health, etc.?
+- What is something that surprised you about the program, or that you wish you knew going into it?
+- What's one nice thing one of your co-residents or attendings has done for you?
+
+# Social Questions
+- Are there any fun traditions or annual events that your program has?
+- What would you say the breakdown is between people who are single vs. married, and approximately how many people have kids?
+
+# Internet Lists
+- [Questions to Ask Faculty and Program Directors | Inside the Match](https://www.insidethematch.com/match-tips/questions-to-ask-faculty-and-program-directors)
+- [Insight From Residents on What to Ask During Residency Interviews | AAMC](https://students-residents.aamc.org/interviewing-residency-positions/insight-residents-what-ask-during-residency-interviews)
+- [Top questions to ask during your residency program interviews | AMA](https://www.ama-assn.org/medical-students/preparing-residency/top-questions-ask-during-your-residency-program-interviews)
+
+# Specialty-Specific
+
+## Combined Programs
+- Do you feel like the combined residents are socially and culturally embedded within the [half] program?
+- When in [half], what requirements or protected education are you involved in for [other half]?
+- What has been your favorite thing about receiving combined training (e.g., patient interaction, way you've used the skillset, etc.)?
+- What is retention like? What has been the biggest barrier to retention?
+
+## OR Specialties (OB/Gyn, Surgery, Orthopedics, Anesthesia)
+- Do residents have their own workroom, or are they shared between specialties?
+- Are there specialty-specific call rooms?
+- How would you describe the OR culture?
+
+## Anesthesia
+- How much interaction do residents have with CRNAs and other anesthesia providers?
+- How do breaks and relief work? Do CRNAs relieve residents? Do residents relieve CRNAs?
+- Do residents struggle with getting any of their required procedures?
+- Are there any subspecialties of anesthesia that I will not have an opportunity to do a rotation in until my CA-3 year?
+- Can you talk about the transition between intern year and CA-1 year? Are you paired?
+- How is the support from anesthesia techs?
+- How does your program support residents during difficult situations, like unexpected outcomes (e.g., intraoperative death)?
+- When do you typically find out what cases you'll be doing the next day (so you can plan your pre-ops)?
+- How do you obtain medications for cases? Case carts? Pyxis machines? Are there pharmacy breaks that complicate things?
+
+## Pediatrics
+- Can you touch on how scheduling works? Continuity clinic?
+- For continuity clinics, are residents building their own patient panel, or are they working off a preceptor's panel? What is the farthest continuity clinic location?
+- How much experience do residents get with medically complex children (e.g., patients with tracheostomies and home ventilators)?
+
+## Family Medicine
+- What are the needs you see most frequently in the communities you serve?
+- Is your residency partnered with community groups such as mobile clinics or addiction medicine?
+
+# Questions to Expect From Interviewers
+- Tell me about yourself.
+- Where are you from?
+- Tell me why you want to go into [specialty].
+- Why are you interested in our program?
+- Where do you fit in our program's mission?
+- What's something you're really proud of?
+- Tell me about a time that you made an error/mistake in a clinical environment. What happened, and what did you learn?
+- Can you describe a conflict you faced?
+- Tell me about a time you failed. [What did you learn?]
+- Tell me about a time you had a conflict with another member of your team.
+- What would you do if one of your co-residents was not pulling their weight?
+- If you could change one aspect of your personality with a snap of your fingers, what would it be?
+- When was the last time you made a hard decision? What was the decision and why was it hard?
+- What are 3 values you live by?
+- Tell me about a time you struggled to make a connection with someone important.
+- How do you handle stress?
+- What would you like your legacy to be?
+- Tell me about one of your mentors.
+- What's the last non-medical thing you learned/read about?
+- If your best friend logged into this meeting right now, how would they describe you?
+- What do you think makes a good resident?
+- What are you looking for in a residency program?
+- What do you look for in co-residents?
+- What excites you about starting residency?
+- What about starting residency makes you nervous?
+- What would you like to do for research? [may only be applicable if you have a research background]
+- Why do you think your peers chose you for [elected] position?
+- How would you be a leader as a resident?
+- What's something you wished you could improve on your application?
+- What questions do you have for us?
+
+## Anesthesia-Specific
+- What have you been reading about in anesthesia recently?
+- What do you think are the current problems facing anesthesia?
+- How does your background fit with anesthesia?
