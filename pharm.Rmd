@@ -1,0 +1,26 @@
+---
+title: "Pharmaceutical Resources"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# Login/Subscription Required
+
+- [Lexidrug](https://online.lexi.com/lco/action/login), [iOS](https://apps.apple.com/us/app/uptodate-lexidrug/id313401238) and [Android](https://play.google.com/store/apps/details?id=com.lexi.android&hl=en-US)
+
+- [Micromedex](https://www.micromedexsolutions.com/home/dispatch), [iOS](https://apps.apple.com/us/app/micromedex/id6471286555) and [Android](https://play.google.com/store/apps/details?id=com.micromedex.coremobile&hl=en-US)
+  - Great for toxicology!
+
+# Dosing
+
+- [Equianalgesic Doses of Opioid Analgesics](https://www.merckmanuals.com/professional/multimedia/table/equianalgesic-doses-of-opioid-analgesics)
+
+# Medication Charts
+
+- [ADHD Medication Chart](https://www.adhdmedicationguide.com/)
+
+- [Asthma and COPD Medication Chart](https://www.lung.org/getmedia/e6be8c67-a793-44a8-bd7c-96629e57c20d/respiratory-medication-chart) (and unaffiliated [interactive chart](https://www.wheezypuff.com/))
+
+- [HIV Medication Chart](https://aidsetc.org/sites/default/files/media/document/2022-11/HIV%20Medication%20Chart_August%202022.pdf)

@@ -8,6 +8,8 @@ title: "Brand/Generic Table"
 
 - [HIV Medication Chart](https://aidsetc.org/sites/default/files/media/document/2022-11/HIV%20Medication%20Chart_August%202022.pdf)
 
+- [Equianalgesic Doses of Opioid Analgesics](https://www.merckmanuals.com/professional/multimedia/table/equianalgesic-doses-of-opioid-analgesics)
+
 ```{r, include=FALSE}
 library(tidyverse)
 library(DT)

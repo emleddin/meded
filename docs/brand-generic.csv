@@ -1,5 +1,6 @@
 ﻿Brand,Generic
 Abilify,Aripiprazole
+Actigall,Ursodiol
 Adderall,Amphetamine/Dextroamphetamine
 Aldactone,Spironolactone
 Aloxi,Palonosetron
@@ -21,6 +22,7 @@ BiDil,Hydralazine/Isosorbide dinitrate
 Brilinta,Ticagrelor
 Bumex,Bumetanide
 BuSpar,Buspirone
+Caplyta,Lumateperone
 Cardizem,Diltiazem
 Carnitor,Levocarnitine
 Catapres,Clonidine
@@ -43,6 +45,7 @@ Cytoxan,Cyclophosphamide
 Decadron,Dexamethasone
 Deltasone,Prednisone
 Depakote,Divalproex sodium
+Desferal,Deferoxamine
 Desitin,Zinc oxide-cod liver oil
 Diamox,Acetazolamide
 Diastat,Diazepam rectal gel
@@ -62,6 +65,7 @@ Emend,Aprepitant
 Engerix-B,Hepatitis B vaccine
 Entresto,Sacubitril/Valsartan
 Epidiolex,Cannabidiol (CBD)
+Exelon,Rivastigmine
 Farxiga,Dapagliflozin
 Flagyl,Metronidazole
 Flovent,Fluticasone propionate
@@ -81,6 +85,7 @@ Kefzol,Cefazolin
 Kenalog,Triamcinolone
 Keppra,Levetiracetam
 Klonopin,Clonazepam
+Kytril,Granisetron
 Lamictal,Lamotrigine
 Lantus,Insulin glargine
 Lasix,Furosemide
@@ -91,6 +96,7 @@ Lexapro,Escitalopram
 Librium,Chlordiazepoxide
 Lipitor,Atorvastatin
 Lopressor,Metoprolol
+Lumizyme,Alglucosidase alfa
 Lybalvi,Olanzapine/samidorphan
 Lyrica,Pregabalin
 Macrobid,Nitrofurantoin
@@ -111,6 +117,7 @@ Orapred,Prednisolone
 Paxil,Paroxetine
 Pentacel,"DTaP, Polio, Haemophilus influenzae type b vaccine"
 Peridex,Chlorhexidine (mouthwash)
+Phenergan,Promethazine
 Phytonadione,Vitamin K1
 Pitocin,Oxytocin  (“Pit”)
 Pittsburgh Paste,"mineral oil, Aquaphor, and cholestyramine powder"
@@ -120,6 +127,7 @@ Precedex,Dexmedetomidine (“Dexmed”)
 Prevacid,Lansoprazole
 Pristiq,Desvenlafaxine
 Procardia,Nifedipine
+Provera,Medroxyprogesterone acetate
 Protonix,Pantoprazole
 Prozac,Fluoxetine
 Pulmicort,Budesonide
@@ -137,6 +145,7 @@ Rocephin,Ceftriaxone
 Romazicon,Flumazenil
 Roxicodone,Oxycodone
 Seroquel,Quetiapine
+Siklos,Hydroxyurea
 Singulair,Montelukast sodium
 Solu-Medrol,Methylprednisolone
 Spravato,Esketamine
@@ -165,6 +174,7 @@ Vaxneuvance,PCV15 pneumococcal vaccine
 Venofer,Iron sucrose
 Versed,Midazolam
 Vesicare,Solifenacin
+Vibramycin,Doxycycline
 Vimpat,Lacosamide
 Vistaril,Hydroxyzine
 Vivitrol,Naltrexone

@@ -123,7 +123,48 @@ body {
 table.dataTable > tbody tr.odd td { 
     background: #283E33;
 }
-  
+
+/* Start data tables */
+div.datatables {
+    color: white;
+    background-color: #1F222A;
+}
+
+.dataTables_wrapper {
+  color: white;
+  background-color: #1F222A;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button.disabled, .dataTables_wrapper .dataTables_paginate .paginate_button.disabled:hover, .dataTables_wrapper .dataTables_paginate .paginate_button.disabled:active {
+  color: white !important;
+}
+div.dtsb-group {
+  color: black;
+}
+
+/*
+table.dataTable.row-border tbody tr:first-child th, table.dataTable.row-border tbody tr:first-child td, table.dataTable.display tbody tr:first-child th, table.dataTable.display tbody tr:first-child td {
+    background-color: #211F29;
+}
+table.dataTable.row-border tbody th, table.dataTable.row-border tbody td, table.dataTable.display tbody th, table.dataTable.display tbody td {
+  background-color: #696969;
+}
+*/
+
+.dataTables_wrapper .dataTables_info, .dataTables_wrapper .dataTables_paginate {
+  color: white;
+}
+label {
+  color: white;
+}
+input{
+  color: black;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+    color: white !important;
+}
+/* End DT */
+
 }
 /* End dark mode */
 
@@ -164,45 +205,6 @@ table.dataTable > tbody tr.odd td {
 .list-group-item.active:active, .list-group-item.active:hover, .list-group-item.active:focus {
   color: #1F222A;
   background-color: white;
-}
-/* Start data tables */
-div.datatables {
-    color: white;
-    background-color: #1F222A;
-}
-
-.dataTables_wrapper {
-  color: white;
-  background-color: #1F222A;
-}
-
-.dataTables_wrapper .dataTables_paginate .paginate_button.disabled, .dataTables_wrapper .dataTables_paginate .paginate_button.disabled:hover, .dataTables_wrapper .dataTables_paginate .paginate_button.disabled:active {
-  color: white !important;
-}
-div.dtsb-group {
-  color: black;
-}
-
-/*
-table.dataTable.row-border tbody tr:first-child th, table.dataTable.row-border tbody tr:first-child td, table.dataTable.display tbody tr:first-child th, table.dataTable.display tbody tr:first-child td {
-    background-color: #211F29;
-}
-table.dataTable.row-border tbody th, table.dataTable.row-border tbody td, table.dataTable.display tbody th, table.dataTable.display tbody td {
-  background-color: #696969;
-}
-*/
-
-.dataTables_wrapper .dataTables_info, .dataTables_wrapper .dataTables_paginate {
-  color: white;
-}
-label {
-  color: white;
-}
-input{
-  color: black;
-}
-.dataTables_wrapper .dataTables_paginate .paginate_button {
-    color: white !important;
 }
 
 
