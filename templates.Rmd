@@ -1,0 +1,95 @@
+---
+title: "All PDF Templates (Embedded)"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+--- 
+
+# ICU Rounding Template
+
+<object class="pdf" 
+            data=
+"https://emleddin.github.io/meded/PDF-Templates/ICU-Rounding-Template.pdf"
+            width="800"
+            height="500">
+</object>
+
+<br>
+
+# NICU Rounding Template
+
+<object class="pdf" 
+            data=
+"https://emleddin.github.io/meded/PDF-Templates/NICU-Rounding-Template.pdf"
+            width="800"
+            height="500">
+</object>
+
+<br>
+
+# OB Magnesium Checks
+
+<object class="pdf" 
+            data=
+"https://emleddin.github.io/meded/PDF-Templates/OB-Mag-Checks.pdf"
+            width="800"
+            height="500">
+</object>
+
+<br>
+
+# OB Postpartum
+
+<object class="pdf" 
+            data=
+"https://emleddin.github.io/meded/PDF-Templates/OB-Postpartum.pdf"
+            width="800"
+            height="500">
+</object>
+
+<br>
+
+# Clinical Skills Exam (OSCE/PCSE)
+
+<object class="pdf" 
+            data=
+"https://emleddin.github.io/meded/PDF-Templates/OSCE-Exam-Doc.pdf"
+            width="800"
+            height="500">
+</object>
+
+<br>
+
+# Review of Systems Quicksheet
+
+<object class="pdf" 
+            data=
+"https://emleddin.github.io/meded/PDF-Templates/ROS-Quick-Sheet.pdf"
+            width="800"
+            height="500">
+</object>
+
+<br>
+
+# Undiagnosed Template (H&P)
+
+<object class="pdf" 
+            data=
+"https://emleddin.github.io/meded/PDF-Templates/Undiagnosed-Encounter-Template-Form.pdf"
+            width="800"
+            height="500">
+</object>
+
+<br>
+
+# Generic History
+
+<object class="pdf" 
+            data=
+"https://emleddin.github.io/meded/PDF-Templates/SIM-Case-Page-Setup.pdf"
+            width="800"
+            height="500">
+</object>
+
+<br>

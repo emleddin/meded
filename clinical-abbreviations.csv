@@ -53,6 +53,7 @@ AITFL,Anterior Inferior Tibiofibular Ligament
 ALADP,delta-aminolevulinic dehydratase
 ALL,Acute Lymphoblastic Leukemia
 ALP,Alkaline Phosphatase
+ALS,Advanced Life Support
 ALS,Amyotrophic Lateral Sclerosis
 ALT,Alanine Aminotransferase
 AKI,Acute Kidney Injury
@@ -216,6 +217,7 @@ CPT,Cognitive Processing Therapy
 CREST,"Calcinosis, Raynaud, Esophageal dysmotility, Sclerodactyly, Telangiectasia"
 CRH,Corticotropin Releasing Hormone
 CRMO,Chronic Recurrent Multifocal Osteomyelitis (aka CNO)
+CRO,Carbapenem Resistent Organisms
 CRP,C-Reactive Protein
 CRPP,Closed Reduction Percutaneous Pinning
 CRPS,Complex Regional Pain Syndrome
@@ -398,6 +400,7 @@ FDP,Flexor Digitorum Profundus
 FDS,Flexor Digitorum Superficialis
 FEN,"Fluid, Electrolytes, Nutrition"
 FENa,Fractional Excretion of sodium
+FESS,Functional Endoscopic Sinus Surgery
 FEV1,Forced Expiratory Volume in 1 second
 FFA,Free Fatty Acids
 FGF,Fibroblast Growth Factor
@@ -498,6 +501,7 @@ HGB,Plasma Hemoglobin Concentration
 HH,Hypogonadotropic Hypogonadism
 HHC,Home Health Care
 HHD,Hypertensive Heart Disease
+HHN,Home Health Nurse
 HHS,Health and Human Services
 HINE,Hammersmith Infant Neurologic Examination
 HIPAA,Health Insurance Portability and Accountability Act
@@ -674,6 +678,7 @@ MGM,Maternal Grandmother
 MHC,Major Histocompatibility Complex
 MI,Myocardial Infarction
 MIBG,Meta-IodoBenzylGuanidine
+MIC,Minimum Inhibatory Concentration
 MIS-C,Multisystem Inflammatory Syndrome in Children
 Mit,Mitochondria
 MIT,monoiodothyronine

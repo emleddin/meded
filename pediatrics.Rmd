@@ -42,6 +42,9 @@ output:
 # Current Management Guidelines (From Societies)
 
 - [Asthma, 2026 GINA](https://ginasthma.org/2026-gina-summary-guide/)
+  - [Asthma Classifications](https://www.merckmanuals.com/professional/multimedia/table/classification-of-asthma-severity)
+  
+- [Asthma, 2024 NICE](https://www.nice.org.uk/guidance/ng245/resources/asthma-diagnosis-monitoring-and-chronic-asthma-management-bts-nice-sign-pdf-66143958279109)
 
 - [COPD, 2026 GOLD](https://goldcopd.org/2026-gold-report-and-pocket-guide/)
 
@@ -180,12 +183,22 @@ output:
 
 - [Estimating Calorie and Protein Needs | Children's Wisconsin](https://childrenswi.org/-/media/chwlibrary/files/medical-care/clinical-nutrition/nutritionhandbook/estimating_calorie_and_protein_needs.pdf)
 
-
 - [ASPEN Enteral Nutrition Formula Guide](http://nutr.org/Guidelines_and_Clinical_Resources/EN_Formula_Guide/Enteral_Nutrition_Formula_Guide/)
 
   - [ASPEN Infant Formulas](http://nutr.org/Guidelines_and_Clinical_Resources/EN_Formula_Guide/EN_Infant_Formulas/)
 
   - [Abbott Pediatric Products](https://www.pediatricproconnect.com/products.html)
+    - Similac
+
+  - [Kate Farms Products](https://katefarmsmedical.com/products/)
+
+  - [MeadJohnson Products](https://hcp.meadjohnson.com/products)
+    - Enfamil, Nutramigen, PurAmino
+
+  - [Nestle Medical Hub Products](https://www.nestlemedicalhub.com/products)
+    - Alfamino, Boost
+
+  - [Nutricia Neocate Products](https://www.neocate.com/for-healthcare-professionals/)
 
 ## Videos
 

@@ -32,6 +32,8 @@ navbar:
       href: languages.html
     - text: "PDF Templates"
       menu:
+      - text: "All Templates (Embedded)"
+        href: templates.html
       - text: "ICU Rounding"
         href: PDF-Templates/ICU-Rounding-Template.pdf
       - text: "NICU Rounding"
@@ -46,8 +48,12 @@ navbar:
         href: PDF-Templates/Undiagnosed-Encounter-Template-Form.pdf
       - text: "Clinical Skills Exam (OSCE/PCSE)"
         href: PDF-Templates/OSCE-Exam-Doc.pdf
+      - text: "Generic History"
+        href: PDF-Templates/SIM-Case-Page-Setup.pdf
     - text: "Spanish PDF Templates"
       menu:
+      - text: "All Spanish Templates (Embedded)"
+        href: templates-Spanish.html
       - text: "Revisión de los sistemas (Review of Systems)"
         href: PDF-Templates/RDS-Spanish.pdf
       - text: "Undiagnosed Template (H&P)"

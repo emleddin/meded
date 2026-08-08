@@ -1,0 +1,29 @@
+---
+title: "All Spanish PDF Templates (Embedded)"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+--- 
+
+## Revisión de los sistemas (Review of Systems)
+
+<object class="pdf" 
+            data=
+"https://emleddin.github.io/meded/PDF-Templates/RDS-Spanish.pdf"
+            width="800"
+            height="500">
+</object>
+
+<br>
+
+## Undiagnosed Template (H&P)
+
+<object class="pdf" 
+            data=
+"https://emleddin.github.io/meded/PDF-Templates/Undiagnosed-Template-Spanish.pdf"
+            width="800"
+            height="500">
+</object>
+
+<br>

@@ -23,6 +23,10 @@ If you made it here, I hope you find it useful.
 
 - [MDCalc](https://www.mdcalc.com/), [iOS](https://apps.apple.com/us/app/mdcalc-medical-calculator/id1001640662) and [Android](https://play.google.com/store/apps/details?id=com.mdaware.mdcalc&hl=en)
 
+- [Merck Manual](https://www.merckmanuals.com/Professional/ResourcesPages/MobileApps), [iOS](https://apps.apple.com/app/msd-professional-version/id1123678257) and [Android](https://play.google.com/store/apps/details?id=com.msd.professional)
+
+- [Merck MSD Manual Guide to Obstetrics](https://www.merckmanuals.com/Professional/ResourcesPages/MobileApps), [iOS](https://apps.apple.com/ng/app/msd-manual-guide-to-obstetrics/id1485620300) and [Android](https://play.google.com/store/apps/details?id=com.msd.obstetrics)
+
 - [USPSTF Prevention TaskForce](https://www.uspreventiveservicestaskforce.org/apps/), [iOS](https://apps.apple.com/us/app/uspstf-prevention-taskforce/id311852560) and [Android](https://play.google.com/store/apps/details?id=gov.ahrq.epss&hl=en-US)
 
 ## Login/Subscription Required
@@ -36,7 +40,7 @@ If you made it here, I hope you find it useful.
 
 - [VisualDx](https://www.visualdx.com/), [iOS](https://apps.apple.com/us/app/visualdx/id348177521) and [Android](https://play.google.com/store/apps/details?id=com.visualdx.android&hl=en-US)
 
-# Clinial Practice Guidlines / Standards of Care
+# Clinial Practice Guidelines / Standards of Care
 
 - [American Academy of Neurology](https://www.aan.com/practice/guidelines/)
 
@@ -57,6 +61,12 @@ If you made it here, I hope you find it useful.
 - [Infectious Diseases Society of America](https://www.idsociety.org/practice-guideline/)
 
 - [U.S. Preventive Services Task Force](https://www.uspreventiveservicestaskforce.org/uspstf/home)
+
+# Open Textbooks
+
+- [Internet Book of Critical Care](https://emcrit.org/ibcc/toc/)
+
+- [Orthopaedia](https://www.orthopaedia.com/)
 
 # Physical Exam Skills
 
