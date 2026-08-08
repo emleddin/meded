@@ -93,3 +93,36 @@ output:
 </object>
 
 <br>
+
+# Prerounding
+
+<object class="pdf" 
+            data=
+"https://emleddin.github.io/meded/PDF-Templates/Prerounding.pdf"
+            width="800"
+            height="500">
+</object>
+
+<br>
+
+# Prerounding SOAP Corners (Portrait)
+
+<object class="pdf" 
+            data=
+"https://emleddin.github.io/meded/PDF-Templates/SOAP-Corners-Portrait.pdf"
+            width="800"
+            height="500">
+</object>
+
+<br>
+
+# Prerounding SOAP Corners (Landscape)
+
+<object class="pdf" 
+            data=
+"https://emleddin.github.io/meded/PDF-Templates/SOAP-Corners-Landscape.pdf"
+            width="800"
+            height="500">
+</object>
+
+<br>

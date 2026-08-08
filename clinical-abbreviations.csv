@@ -15,6 +15,7 @@ ABD,"Apnea, Bradycardia, Desaturations"
 ABG,Arterial Blood Gas
 ABPM,Ambulatory Blood Pressure Monitoring
 ABR,Autditory Brainstem Response
+AC,Before meals
 ACA,Affordable Care Act
 ACEI,Angiotensin-Converting Enzyme Inhibitor
 ACEs,Adverse Childhood Experiences
@@ -171,6 +172,7 @@ CCB,Calcium Channel Blocker
 CCHD,Critical Congenital Heart Defects
 CCK,Cholecystokinin
 CCU,Cardiac Care Unit
+CDC,Centers for Disease Control
 CDGP,Constitutional Delay of Growth and Puberty
 CDS,Croup Distress Score
 CEA,CarcinoEmbryonic Antigen
@@ -185,6 +187,7 @@ CHG,ChlorHexidine Gluconate
 CHI,Concurrent Head Injury
 CIB,Carnation Instant Breakfast
 CIC,Clean Intermittent Catheterization
+CICU,Cardiac Intensive Care Unit
 CIS,Culture If Spikes (get a blood culture for fevers)
 CIT,Crisis Intervention Team
 CIWA,Clinical Instrument Withdrawal Assessment
@@ -240,6 +243,7 @@ CTX,Ceftriaxone
 Cu-IUD,Copper-based Intrauterine Device
 CVA,Cerebrovascular Accident (stroke)
 CVAT,Costovertebral Angle Tenderness
+CVC,Central Venous Catheter
 CVD,Cardiovascular Disease
 CVI,Cerebral Visual Impairments
 CVID,Common Variable Immune Deficiency
@@ -247,6 +251,8 @@ CVP,Central Venous Pressure
 CVS,Cardiovascular System
 CXR,Chest X-Ray
 D Exon,Diversity Exon
+d/c,discontinue
+D/C,Discharge
 D/H,Discharge Home
 d/o,disorder
 d/t,due to
@@ -263,6 +269,7 @@ DBD,Donation after Brain Death
 DBP,Diastolic Blood Pressure
 DBT,Dialectical Behavior Therapy
 DC,Dendritic Cell
+DC,Discharge
 DC/ML,Dorsal Column/Medial Lemniscal
 DCCT,Diabetes Control and Complications Trial
 DCD,Donation after Cardiac Death
@@ -358,6 +365,7 @@ EMR,Electronic Medical Record
 EMT,Epithelial-to-Mesenchymal Transition
 EMTALA,Emergency Medical Treatment and Labor Act
 ENS,Enteric Nervous System
+ENT,"Ear, Nose, and Throat (Otolaryngology)"
 EOM,ExtraOcular Movement
 EOS,Early-Onset Sepsis
 EOT,End of Therapy
@@ -424,6 +432,7 @@ FT,Full Term
 FVC,Forced Vital Capacity
 FWF,Free Water Flushes
 fx,fracture
+gtt,"gutta (Latin), meaning drop or drip"
 G6P,Glucose-6-Phosphate
 G6PD,Glucose-6-Phosphate Dehydrogenase
 GABA,γ-Amino Butyric Acid (gamma)
@@ -436,6 +445,7 @@ GBS,Group B Streptococcus
 GC,Gonococcal
 GCT,Germ Cell Tumor
 GDM,Gestational Diabetes Mellitus
+GDMT,Guideline Directed Medical Therapy
 GDP,Guanosine Diphosphate
 GERD,GastroEsophageal Reflux Disease
 GFAP,Glial Fibrillary Acidic Protein
@@ -484,7 +494,7 @@ HCTZ,Hydrochlorothiazide
 HCV,Hepatitis C Virus
 HD,Hemodialysis
 HDL,High-Density Lipoprotein
-HDS,HemoDynamically stable
+HDS,HemoDynamically Stable
 HECK-YeS,"Hafnia alvei, Enterobacter cloacae, Citrobacter freundii, Klebsiella aerogenes, Yersinia enterocolitica (AmpC producing)"
 HEEADSSS,"Home, Education/Employment, Eating, Activities, Drugs, Sexuality, Suicide/Depression, and Safety"
 HEENT,"Head, Ears, Eyes, Nose, Throat"
@@ -523,6 +533,7 @@ HPI,History of Present Illness
 HPO Axis,Hypothalamus-Pituitary-Ovarian Axis
 HPV,Human Papillomavirus
 HR,Heart Rate
+HRT,Hormone Replacement Therapy
 HRRR,Heart Regular Rate and Rhythm
 HSC,Hematopoetic Stem Cell
 HSCT,Hematopoietic Stem Cell Transplantation
@@ -616,6 +627,7 @@ LDL,Low-Density Lipoprotein
 LES,Lower Esophageal Sphincter
 LET,"Lidocaine, Epinephrine, and Tetracaine"
 LFB,Luxol Fast Blue
+LFT,Liver Function Test
 LGA,Large for Gestational Age
 LGV,Lymphogranuloma Venereum
 LH,Luteinizing Hormone
@@ -753,6 +765,7 @@ NFP,Net Filtration Pressure
 NGTD,No Growth To Date
 NHANES,National Health and Nutrition Examination Survey
 NIBP,Non-Invasive Blood Pressure
+NICU,Neonatal Intensive Care Unit
 NIPS,Neonatal Infant Pain Scale
 NIRS,Near Infrared Spectroscopy
 NKA,No Known Allergies
@@ -817,9 +830,11 @@ OPIM,Other Potentially Infectious Material
 OPPQQRRST,"Onset and chronology, Position, Precipitating factors, Quality, Quantification, Radiation, Related symptoms, Setting, and Transforming factors (aggravating/alleviating)"
 OR,Odds Ratio
 ORIF,Open Reduction Internal Fixation
+ORL,Otorhinolaryngology
 OSFED,Other Specified Feeding or Eating Disorder
 OSA,Obstructive Sleep Apnea
 OSH,OutSide Hospital
+OT,Occupational Therapy
 OT,One Touch (blood glucose meter)
 OTC,Over The Counter
 OTT,OroTracheal Tube
@@ -837,6 +852,7 @@ PAI,Plasminogen Activator Inhibitor
 PAMPs,Pathogen Associated Molecular Patterns
 PANDAS,Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal infections
 PAO,PeriAcetabular Osteotomy
+Pap,Papanicolaou
 PAPVR,Partial Anomalous Pulmonary Venous Return
 PARDS,Pediatric Acute Respiratory Distress Syndrome
 PARF,Population Attributable Risk Fraction
@@ -849,6 +865,7 @@ PCP,Phencyclidine
 PCP,Primary Care Provider
 pCSI,Proton CranioSpinal Irradiation
 PCT,Procalcitonin
+PCWP,Pulmonary Capillary Wedge Pressure
 PD,Panic Disorder
 PDA,Patent Ductus Arteriosus
 PDA,Pathological Demand Avoidance
@@ -938,6 +955,9 @@ PSA,Prostate Specific Antigen
 PSG,Polysomnography
 PSH,Past Surgical History
 PSP,Penicillinase-Sensitive Penicillin
+Pt,Patient
+PT,Physical Therapy
+PT,Prothrombin Time
 PTA,Prior to Admission
 PTA,Prior To Arrival
 PTD,Prior To Discharge
@@ -1034,6 +1054,7 @@ SCFE,Slipped Capital Femoral Epiphysis
 SCID,Severe Combined Immunodeficiency
 SCOFF,"Sick, Control, One, Fat, Food"
 SCT,Stem Cell Transplant
+SDM,Shared Decision Making
 SEMLS,Single Event MuliLevel Surgery
 SER,Supination External Rotation
 SERCA,Sarcoplasmic-Endoplasmic Reticulum Ca-ATPase
@@ -1073,6 +1094,7 @@ SNRI,Selective Norepinephrine Reuptake Inhibitor
 SNS,Somatic Nervous System
 SNS,Sympathetic Nervous System
 SOAP,"Subjective, Objective, Assessment, Plan"
+SOB,"Shortness Of Breath (avoid this one…, opt for dyspnea [dysp] instead)"
 SORA,Stable On Room Air
 SOT,Solid Organ Transplant
 Sp,Specificity
@@ -1109,6 +1131,7 @@ SVD,Spontaneous Vaginal Delivery
 SVR,Systemic Vascular Resistance
 SVT,Supraventricular Tachycardia
 SVW,Singh-Vaughan-Williams
+SW,Social Work
 sz,seizure
 t/c,to consider
 T1-T12,Thoracic vertebrae 1-12
@@ -1140,6 +1163,7 @@ TFI,Total Fluid Intake
 TG,Triglyceride
 TGF,Transforming Growth Factor
 TIBC,Total Iron Binding Capacity
+TID,Three times a day
 TK,Tachykinin
 TKO,To Keep Open
 TLC,Total Lung Capacity
@@ -1149,6 +1173,7 @@ TMS,Transcranial Magnetic Stimulation
 TNA,Tonsillectomy + Adenoidectomy
 TNAP,Tissue Nonspecific Alkaline Phosphatase
 TNDM,Transient Neonatal Diabetes Mellitus
+TNF,Tumor Necrosis Factor
 TOA,Tubo-Ovarian Abscess
 TORCH,"Toxoplasma, Other pathogens, Rubella, Cytomegalovirus, Herpes simplex virus"
 TP,Threshold Potential
@@ -1209,8 +1234,10 @@ VOR,Vestibuloocular Reflex
 VP,VenticuloPeritoneal (shunt)
 VPL,Ventral Posterolateral
 VRE,Vancomycin Resistant Enterococcus
+VS,Vital Signs
 VSD,Ventricular Septal Defect
 VSR,Vestibulospinal Reflex
+VSS,Vital Signs Stable
 VT,Ventricular Tachycardia
 VTA,Ventral Tegmental Area
 VTE,Venous Thromboembolism
@@ -1221,6 +1248,7 @@ WBC,White Blood Cell Count
 WC,WheelChair
 WES,Whole Exome Sequencing
 WGS,Whole Genome Sequencing
+WHO,World Health Organization
 WHO,Wrist Hand Orthosis
 WN/WD,Well Nourished/Well Developed
 WNL,Within Normal Limits

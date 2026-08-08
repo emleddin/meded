@@ -50,6 +50,12 @@ navbar:
         href: PDF-Templates/OSCE-Exam-Doc.pdf
       - text: "Generic History"
         href: PDF-Templates/SIM-Case-Page-Setup.pdf
+      - text: "Prerounding"
+        href: PDF-Templates/Prerounding.pdf
+      - text: "Prerounding SOAP Portrait"
+        href: PDF-Templates/SOAP-Corners-Portrait.pdf
+      - text: "Prerounding SOAP Landscape"
+        href: PDF-Templates/SOAP-Corners-Landscape.pdf
     - text: "Spanish PDF Templates"
       menu:
       - text: "All Spanish Templates (Embedded)"
