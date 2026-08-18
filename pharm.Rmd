@@ -13,9 +13,15 @@ output:
 - [Micromedex](https://www.micromedexsolutions.com/home/dispatch), [iOS](https://apps.apple.com/us/app/micromedex/id6471286555) and [Android](https://play.google.com/store/apps/details?id=com.micromedex.coremobile&hl=en-US)
   - Great for toxicology!
 
+- [Clincial Pharmacology](https://www.clinicalkey.com/pharmacology/login)
+
 # Dosing
 
 - [Equianalgesic Doses of Opioid Analgesics](https://www.merckmanuals.com/professional/multimedia/table/equianalgesic-doses-of-opioid-analgesics)
+
+- [Opioid Conversions in Pediatrics | Texas Children's](https://www.texaschildrens.org/sites/default/files/uploads/documents/tchapp/2022/1-%20Opioid%20Stewardship.pdf)
+
+- [IV to PO | Pharm Guides](https://www.pharmguides.com/clinical-notes/iv-po-conversion-charts/)
 
 # Medication Charts
 
@@ -24,3 +30,27 @@ output:
 - [Asthma and COPD Medication Chart](https://www.lung.org/getmedia/e6be8c67-a793-44a8-bd7c-96629e57c20d/respiratory-medication-chart) (and unaffiliated [interactive chart](https://www.wheezypuff.com/))
 
 - [HIV Medication Chart](https://aidsetc.org/sites/default/files/media/document/2022-11/HIV%20Medication%20Chart_August%202022.pdf)
+
+# Allergy Information
+
+- [Vaccine Ingredients: Gelatin | CHOP](https://www.chop.edu/vaccine-education-center/vaccine-safety/vaccine-ingredients/gelatin)
+
+- [Carbohydrate Content of Commonly Used Medications | Matthew's Friends](https://www.matthewsfriends.org/wp-content/uploads/2020/07/Keto_Medicine_list_July2020-UPDATED-FINAL.pdf)
+
+- []()
+
+# Antibiotics
+
+- [BugDrugDX](https://bugdrugdx.com/)
+
+- [Introductory Guide to Antibiotics | Northwestern](https://adsp.nm.org/uploads/1/4/3/0/143064172/nu-introductory-guide-to-antibiotics.pdf)
+
+- [Antibiotic Susceptibilities in Intensive Care](https://drug.wellingtonicu.com/PDF/App5-Antibiotics.pdf)
+
+- [Antimicrobial Spectrum | Wikipedia](https://en.wikipedia.org/wiki/Antimicrobial_spectrum#)
+
+- [Beta-Lactam Cross-Reactivity Side-Chain Chart | Northwestern](https://adsp.nm.org/uploads/1/4/3/0/143064172/cross_rxn__graded_challenge__final_update_10.19.19_.pdf)
+
+- [Beta-Lactam Antibiotic Cross-Allergy Chart](https://aspires.vch.ca/Documents/Penicillin%20Allergy/Beta-Lactam%20Antibiotic%20Cross-Allergy%20Chart.pdf)
+
+- [Microbe Invader game](https://microbeinvader.com/)

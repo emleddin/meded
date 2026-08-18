@@ -5,6 +5,7 @@ Adderall,Amphetamine/Dextroamphetamine
 Aldactone,Spironolactone
 Aloxi,Palonosetron
 Alvesco,Ciclesonide
+Ambisome,Amphotericin B liposome
 Amicar,Aminocaproic acid
 Ancef,Cefazolin
 Aristada,Aripiprazole (injection)
@@ -110,6 +111,7 @@ Norcuron,Vecuronium (“Vec”)
 Norvasc,Amlodipine
 Novolog,Insulin aspart
 Ofirmev,Acetaminophen (injectable/IV)
+Omnicef,Cefdinir
 Omnipen,Ampicillin
 Onfi,Clobazam
 Orap,Pimozide
@@ -173,6 +175,7 @@ Vaxelis,"DTaP, Polio, Haemophilus influenzae type b, Hepatitis B vaccine"
 Vaxneuvance,PCV15 pneumococcal vaccine
 Veetid,Penicillin V Potassium
 Venofer,Iron sucrose
+VePesid (VP),Etoposide
 Versed,Midazolam
 Vesicare,Solifenacin
 Vibramycin,Doxycycline

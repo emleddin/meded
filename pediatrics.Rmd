@@ -70,6 +70,8 @@ output:
 
 - [Pocket Guides in Anesthesia and Intensive Care](https://anesthguide.com/pocket-guides/#pocket-guides-anesthesiaintensive-care)
 
+- [Pediatric Pain Pocket Reference | Stanford](https://med.stanford.edu/content/dam/sm/pedsanesthesia/documents/pediatric-pain-pocket-reference.pdf)
+
 - [Capnography](https://www.capnography.com/)
 
 - [ICU One Pager](https://onepagericu.com/)
