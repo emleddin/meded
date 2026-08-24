@@ -1,0 +1,846 @@
+<svg
+style="background-color:white"
+width="11in"
+height="8.5in"
+viewBox="0 0 279.4 215.9"
+version="1.1"
+id="svg5"
+xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns="http://www.w3.org/2000/svg"
+>
+<defs
+id="defs2">
+<marker
+style="overflow:visible;"
+id="Arrow1Send"
+refX="0.0"
+refY="0.0"
+orient="auto"
+>
+<path
+transform="scale(0.2) rotate(180) translate(6,0)"
+style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+id="path48821" />
+</marker>
+<rect
+x="1007.8678"
+y="281.7968"
+width="27.925809"
+height="205.6355"
+id="rect87023" />
+<linearGradient
+id="linearGradient64956">
+<stop
+style="stop-color:#000000;stop-opacity:1;"
+offset="0"
+id="stop64952" />
+<stop
+style="stop-color:#000000;stop-opacity:0;"
+offset="1"
+id="stop64954" />
+</linearGradient>
+<linearGradient
+id="linearGradient64300">
+<stop
+style="stop-color:#000000;stop-opacity:1;"
+offset="0"
+id="stop64296" />
+<stop
+style="stop-color:#000000;stop-opacity:0;"
+offset="1"
+id="stop64298" />
+</linearGradient>
+<marker
+style="overflow:visible"
+id="Arrow1Lstart"
+refX="0.0"
+refY="0.0"
+orient="auto"
+>
+<path
+transform="scale(0.8) translate(12.5,0)"
+style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+id="path48806" />
+</marker>
+<marker
+style="overflow:visible;"
+id="Arrow1Lend"
+refX="0.0"
+refY="0.0"
+orient="auto"
+>
+<path
+transform="scale(0.8) rotate(180) translate(12.5,0)"
+style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+id="path48809" />
+</marker>
+<linearGradient
+id="linearGradient37500"
+>
+<stop
+style="stop-color:#7122b8;stop-opacity:1;"
+offset="0"
+id="stop37498" />
+</linearGradient>
+<linearGradient
+id="linearGradient5267"
+>
+<stop
+style="stop-color:#0000ff;stop-opacity:1;"
+offset="0"
+id="stop5265" />
+</linearGradient>
+<linearGradient
+id="linearGradient5185"
+>
+<stop
+style="stop-color:#0000f2;stop-opacity:1;"
+offset="0"
+id="stop5183" />
+</linearGradient>
+<linearGradient
+id="linearGradient3055"
+>
+<stop
+style="stop-color:#0000f2;stop-opacity:1;"
+offset="0"
+id="stop3053" />
+</linearGradient>
+<linearGradient
+xlink:href="#linearGradient64300"
+id="linearGradient64302"
+x1="71.251891"
+y1="118.18603"
+x2="103.94444"
+y2="118.18603"
+gradientUnits="userSpaceOnUse" />
+<linearGradient
+xlink:href="#linearGradient64956"
+id="linearGradient64958"
+x1="213.25102"
+y1="61.990574"
+x2="238.36437"
+y2="61.990574"
+gradientUnits="userSpaceOnUse" />
+<marker
+style="overflow:visible"
+id="Arrow1Lend-7"
+refX="0"
+refY="0"
+orient="auto"
+>
+<path
+transform="matrix(-0.8,0,0,-0.8,-10,0)"
+style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+d="M 0,0 5,-5 -12.5,0 5,5 Z"
+id="path48809-6" />
+</marker>
+</defs>
+<g
+id="layer4"
+style="display:inline">
+<path
+style="display:inline;fill:#f2b6bc;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+d="m 201.5479,66.972997 c 0,0 -55.15456,-42.259983 -81.65721,-39.582004 -19.20535,1.940619 -37.954915,33.899715 -37.954915,33.899715 -0.587581,30.69357 -0.303486,113.149122 -0.303486,113.149122 16.423714,0.63094 29.156601,1.92136 49.106271,2.5523 l 52.21841,-1.68392 8.36626,-10.42021 10.69023,-3.03922 -0.46556,-94.875783"
+id="path20327"
+/>
+<text
+xml:space="preserve"
+style="font-size:10.5833px;line-height:1.05;font-family:Arial;-inkscape-font-specification:Arial;display:inline;fill:#f2b6bc;stroke:#000000;stroke-width:0.465;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="112.78265"
+y="110.70154"
+id="text23431">
+<tspan
+id="tspan23429"
+style="font-size:10.5833px;fill:#f2b6bc;stroke:#000000;stroke-width:0.465;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="112.78265"
+y="110.70154">Stroke Work</tspan>
+</text>
+</g>
+<g
+id="layer9"
+style="display:inline">
+<path
+style="display:inline;fill:none;stroke:#03e3fb;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.13, 1.065, 0.5325, 1.065;stroke-dashoffset:0;stroke-opacity:1"
+d="M 20.432625,200.86116 81.632289,61.988506 99.602293,20.599325"
+id="path60705" />
+<path
+style="display:inline;fill:none;stroke:#03e3fb;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.13, 1.065, 0.5325, 1.065;stroke-dashoffset:0;stroke-opacity:1"
+d="m 73.731519,173.36191 c 36.815231,2.03083 72.495681,3.99907 94.702361,2.20264 22.20668,-1.79643 28.28417,-7.14257 35.65774,-16.91291 7.37357,-9.77034 15.84944,-23.7942 24.32553,-37.81842"
+id="path34810"
+/>
+<text
+xml:space="preserve"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.05;font-family:Arial;-inkscape-font-specification:Arial;display:inline;fill:#03e3fb;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="230.07153"
+y="127.00464"
+id="text6161-0-1">
+<tspan
+id="tspan6159-3-4"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;fill:#03e3fb;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="230.07153"
+y="127.00464">E<tspan
+id="tspan7130"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial">D</tspan>PVR</tspan>
+</text>
+<text
+xml:space="preserve"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.05;font-family:Arial;-inkscape-font-specification:Arial;display:inline;fill:#03e3fb;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="-71.501961"
+y="92.440536"
+id="text6161-0-1-2"
+transform="rotate(-68.405082)">
+<tspan
+id="tspan6159-3-4-4"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;fill:#03e3fb;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="-71.501961"
+y="92.440536">ESPVR</tspan>
+</text>
+</g>
+<g
+id="layer10"
+style="display:inline">
+<path
+style="display:inline;fill:#0dfd41;fill-opacity:1;stroke:#00ff26;stroke-width:0.883002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+d="M 20.425787,26.923943 245.61133,27.595189"
+id="path85266"
+/>
+<path
+style="display:inline;fill:#0dfd41;fill-opacity:1;stroke:#00ff26;stroke-width:0.883002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+d="M 20.425813,65.93442 245.61125,66.605666"
+id="path85266-8"
+/>
+<text
+xml:space="preserve"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.05;font-family:Arial;-inkscape-font-specification:Arial;display:inline;fill:#00ff26;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="247.16107"
+y="61.62043"
+id="text6161-0-9-0">
+<tspan
+id="tspan6159-3-2-8"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;fill:#00ff26;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="247.16107"
+y="61.62043">Diastolic </tspan>
+<tspan
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;fill:#00ff26;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="247.16107"
+y="69.02877"
+id="tspan67799">Blood</tspan>
+<tspan
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;fill:#00ff26;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="247.16107"
+y="76.437103"
+id="tspan3058">Pressure</tspan>
+</text>
+<text
+xml:space="preserve"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.05;font-family:Arial;-inkscape-font-specification:Arial;display:inline;fill:#00ff26;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="247.34297"
+y="22.50633"
+id="text6161-0-9-0-7">
+<tspan
+id="tspan6159-3-2-8-0"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;fill:#00ff26;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="247.34297"
+y="22.50633">Systolic </tspan>
+<tspan
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;fill:#00ff26;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="247.34297"
+y="29.914669"
+id="tspan1736">Blood</tspan>
+<tspan
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;fill:#00ff26;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="247.34297"
+y="37.323006"
+id="tspan67799-2">Pressure</tspan>
+</text>
+</g>
+<g
+id="layer6"
+style="display:inline">
+<path
+style="display:inline;fill:none;stroke:#000000;stroke-width:0.766988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+d="M 81.63229,61.988507 V 174.43983"
+id="path1213" />
+<path
+style="display:inline;fill:none;stroke:#000000;stroke-width:0.747654px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+d="m 201.5479,66.972997 0.46556,94.875783"
+id="path1215"
+/>
+<path
+style="display:inline;fill:none;stroke:#000000;stroke-width:0.767;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+d="m 81.63229,174.43983 30.21147,2.17087 36.0214,0.21711 35.09181,-1.5196 8.36626,-10.42021 10.69023,-3.03922"
+id="path1217"
+/>
+<path
+style="display:inline;fill:none;stroke:#000000;stroke-width:0.766988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+d="M 201.5479,66.972997 C 173.35165,47.51094 145.15464,28.048359 125.16802,27.217515 105.18141,26.386671 93.406923,44.18748 81.63229,61.988507"
+id="path2642"
+/>
+</g>
+<g
+id="layer5"
+style="display:inline">
+<path
+style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6.4, 6.4;stroke-dashoffset:0;stroke-opacity:1"
+d="M 81.440338,201.06068 V 17.320605"
+id="path40877" />
+<path
+style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6.4, 6.4;stroke-dashoffset:0;stroke-opacity:1"
+d="M 201.92683,201.06068 V 17.320607"
+id="path40877-9" />
+<path
+style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.988889"
+d="m 81.440336,19.437273 120.486494,2e-6"
+id="path48804" />
+<path
+style="display:inline;fill:#ff0000;fill-opacity:0.997778;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+d="m 86.440336,21.71 -5,-2.272727 5,-1.992273 v 1.767885 l 4.983564,0.0091 0.0022,0.437924 -4.9861,-0.0046 z"
+id="path4826-2-5-2"
+/>
+<path
+style="display:inline;fill:#ff0000;fill-opacity:0.997778;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+d="m 196.92683,21.710002 5,-2.272727 -5,-1.992273 v 1.762778 l -5.00633,4.45e-4 -6.3e-4,0.447115 5.00721,-0.0091 z"
+id="path4826-2-5-2-4"
+/>
+<text
+xml:space="preserve"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.05;font-family:Arial;-inkscape-font-specification:Arial;display:inline;fill:#ff0000;fill-opacity:0.997783;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.926991"
+x="-16.125835"
+y="83.672577"
+id="text6161-2-0"
+transform="rotate(-90)">
+<tspan
+id="tspan6159-6-4"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ff0000;fill-opacity:0.997783;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.926991"
+x="-16.125835"
+y="83.672577">ESV</tspan>
+<tspan
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ff0000;fill-opacity:0.997783;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.926991"
+x="-16.125835"
+y="91.080917"
+id="tspan46269" />
+</text>
+<text
+xml:space="preserve"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.05;font-family:Arial;-inkscape-font-specification:Arial;display:inline;fill:#ff0000;fill-opacity:0.997783;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.926991"
+x="-16.51152"
+y="204.69423"
+id="text6161-2-0-7"
+transform="rotate(-90)">
+<tspan
+id="tspan6159-6-4-9"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ff0000;fill-opacity:0.997783;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.926991"
+x="-16.51152"
+y="204.69423">EDV</tspan>
+<tspan
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ff0000;fill-opacity:0.997783;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.926991"
+x="-16.51152"
+y="212.10257"
+id="tspan46269-7" />
+</text>
+<text
+xml:space="preserve"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.05;font-family:Arial;-inkscape-font-specification:Arial;display:inline;fill:#ff0000;fill-opacity:0.997783;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.926991"
+x="96.056389"
+y="14.916444"
+id="text6161-2-0-7-5">
+<tspan
+id="tspan6159-6-4-9-5"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ff0000;fill-opacity:0.997783;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.926991"
+x="96.056389"
+y="14.916444">Stroke Volume = EDV - ESV</tspan>
+<tspan
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ff0000;fill-opacity:0.997783;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.926991"
+x="96.056389"
+y="22.324781"
+id="tspan46269-7-6" />
+</text>
+</g>
+<g
+id="layer8"
+style="display:inline">
+<path
+style="display:inline;fill:none;stroke:#020104;stroke-width:2.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+d="m 182.95697,175.30821 8.36626,-10.42021 10.69023,-3.03922"
+id="path26186-8" />
+<path
+style="display:inline;fill:none;stroke:#7122b8;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+d="m 182.95697,175.30821 8.36626,-10.42021 10.69023,-3.03922"
+id="path26186" />
+</g>
+<g
+id="layer3"
+style="display:inline">
+<text
+xml:space="preserve"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.05;font-family:Arial;-inkscape-font-specification:Arial;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="45.200962"
+y="180.82614"
+id="text6161">
+<tspan
+id="tspan6159"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="45.200962"
+y="180.82614">MV Opens</tspan>
+</text>
+<text
+xml:space="preserve"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.05;font-family:Arial;-inkscape-font-specification:Arial;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="31.97216"
+y="55.657207"
+id="text6161-2">
+<tspan
+id="tspan6159-6"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="31.97216"
+y="55.657207">AV Closes (S<tspan
+style="font-size:65%;baseline-shift:sub"
+id="tspan4647">2</tspan>)</tspan>
+</text>
+<text
+xml:space="preserve"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.05;font-family:Arial;-inkscape-font-specification:Arial;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="160.52954"
+y="186.48495"
+id="text6161-7">
+<tspan
+id="tspan6159-8"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="160.52954"
+y="186.48495">P Wave</tspan>
+</text>
+<text
+xml:space="preserve"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.05;font-family:Arial;-inkscape-font-specification:Arial;display:inline;fill:#fd7e14;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="149.53905"
+y="154.62033"
+id="text6161-7-5">
+<tspan
+id="tspan6159-8-8"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;fill:#fd7e14;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="149.53905"
+y="154.62033">QRS Complex</tspan>
+</text>
+<ellipse
+style="display:inline;fill:#fd7e14;fill-opacity:1;stroke:#000000;stroke-width:0.579771;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+id="path2867-1-2-40-3"
+cy="163.28323"
+cx="196.56155"
+rx="1.4996628"
+ry="1.4008754" />
+<text
+xml:space="preserve"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.05;font-family:Arial;-inkscape-font-specification:Arial;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="207.06136"
+y="164.01582"
+id="text6161-0">
+<tspan
+id="tspan6159-3"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="207.06136"
+y="164.01582">MV Closes (S<tspan
+style="font-size:65%;baseline-shift:sub"
+id="tspan1963">1</tspan>)</tspan>
+</text>
+<text
+xml:space="preserve"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.05;font-family:Arial;-inkscape-font-specification:Arial;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="203.64427"
+y="62.577972"
+id="text6161-0-9">
+<tspan
+id="tspan6159-3-2"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="203.64427"
+y="62.577972">AV Opens</tspan>
+</text>
+<ellipse
+style="display:inline;fill:#0000f2;fill-opacity:1;stroke:#000000;stroke-width:0.579771;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+id="path2867-1-2-4"
+cy="174.00285"
+cx="81.530006"
+rx="1.4996628"
+ry="1.4008754" />
+<ellipse
+style="display:inline;fill:#0000f2;fill-opacity:1;stroke:#000000;stroke-width:0.579771;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+id="path2867-1-2"
+cy="161.47485"
+cx="201.83989"
+rx="1.4996628"
+ry="1.4008754" />
+<ellipse
+style="display:inline;fill:#ffd700;fill-opacity:1;stroke:#000000;stroke-width:0.579771;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+id="path2867-1-2-40-3-2"
+cy="28.162193"
+cx="132.32719"
+rx="1.4996628"
+ry="1.4008754" />
+<text
+xml:space="preserve"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.05;font-family:Arial;-inkscape-font-specification:Arial;display:inline;fill:#ffd700;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+x="123.81223"
+y="37.827209"
+id="text6161-2-7">
+<tspan
+id="tspan6159-6-1"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffd700;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+x="123.81223"
+y="37.827209">T Wave</tspan>
+</text>
+<text
+xml:space="preserve"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.05;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="-144.4104"
+y="70.393677"
+id="text6161-2-3"
+transform="rotate(-90)">
+<tspan
+id="tspan6159-6-7"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="-144.4104"
+y="70.393677">Isovolumetric</tspan>
+<tspan
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="-144.4104"
+y="77.06118"
+id="tspan58226">Relaxation</tspan>
+</text>
+<text
+xml:space="preserve"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.05;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+x="99.970436"
+y="-212.54373"
+id="text6161-2-3-9"
+transform="rotate(90)">
+<tspan
+id="tspan6159-6-7-4"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+x="99.970436"
+y="-212.54373">Isovolumetric</tspan>
+<tspan
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+x="99.970436"
+y="-205.87624"
+id="tspan58226-7">Contraction</tspan>
+</text>
+<text
+xml:space="preserve"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.05;font-family:Arial;-inkscape-font-specification:Arial;display:inline;fill:#7122b8;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="148.21964"
+y="166.87885"
+id="text6161-7-5-3">
+<tspan
+id="tspan6159-8-8-9"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;fill:#7122b8;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="148.21964"
+y="166.87885">Atrial &quot;Kick&quot;</tspan>
+</text>
+<ellipse
+style="display:inline;fill:#0000f2;fill-opacity:1;stroke:#000000;stroke-width:0.579771;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+id="path2867-1-1"
+cy="61.062675"
+cx="81.796974"
+rx="1.4996628"
+ry="1.4008754" />
+<ellipse
+style="display:inline;fill:#3485fd;fill-opacity:1;stroke:#000000;stroke-width:0.579771;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+id="path2867-1-2-40-1"
+cy="177.0947"
+cx="132.3429"
+rx="1.4996628"
+ry="1.4008754" />
+<text
+xml:space="preserve"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.05;font-family:Arial;-inkscape-font-specification:Arial;display:inline;fill:#3485fd;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="128.81216"
+y="185.28091"
+id="text6161-7-6">
+<tspan
+id="tspan6159-8-5"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3485fd;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="128.81216"
+y="185.28091">S<tspan
+style="font-size:65%;baseline-shift:sub"
+id="tspan4766">3</tspan>
+</tspan>
+</text>
+<ellipse
+style="display:inline;fill:#3485fd;fill-opacity:1;stroke:#000000;stroke-width:0.579771;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+id="path2867-1-2-40-1-8"
+cy="165.23737"
+cx="190.86449"
+rx="1.4996628"
+ry="1.4008754" />
+<text
+xml:space="preserve"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.05;font-family:Arial;-inkscape-font-specification:Arial;display:inline;fill:#3485fd;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="191.38583"
+y="177.20712"
+id="text6161-7-6-8">
+<tspan
+id="tspan6159-8-5-3"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;fill:#3485fd;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="191.38583"
+y="177.20712">S<tspan
+style="font-size:65%;baseline-shift:sub"
+id="tspan6124">4</tspan>
+</tspan>
+</text>
+<text
+xml:space="preserve"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+x="104.68272"
+y="182.00208"
+id="text6161-2-3-9-9">
+<tspan
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+x="104.68272"
+y="182.00208"
+id="tspan58226-7-7">Rapid</tspan>
+<tspan
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+x="104.68272"
+y="188.35208"
+id="tspan8710">Ventricular</tspan>
+<tspan
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+x="104.68272"
+y="194.70207"
+id="tspan8420">Filling</tspan>
+</text>
+<text
+xml:space="preserve"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+x="187.42482"
+y="36.691898"
+id="text6161-2-3-9-9-3">
+<tspan
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+x="187.42482"
+y="36.691898"
+id="tspan58226-7-7-8">Rapid</tspan>
+<tspan
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+x="187.42482"
+y="43.041897"
+id="tspan8420-5">Ejection</tspan>
+<tspan
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+x="187.42482"
+y="49.391899"
+id="tspan11021">Phase</tspan>
+</text>
+<text
+xml:space="preserve"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+x="108.56337"
+y="47.206306"
+id="text6161-2-3-9-9-3-2">
+<tspan
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+x="108.56337"
+y="47.206306"
+id="tspan11021-6">Reduced</tspan>
+<tspan
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+x="108.56337"
+y="53.556305"
+id="tspan12076">Ejection</tspan>
+<tspan
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+x="108.56337"
+y="59.906307"
+id="tspan12078">Phase</tspan>
+</text>
+<text
+xml:space="preserve"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.05;font-family:Arial;-inkscape-font-specification:Arial;display:inline;fill:#05285b;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="211.38147"
+y="155.88994"
+id="text6161-0-5">
+<tspan
+id="tspan6159-3-8"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Arial;-inkscape-font-specification:Arial;fill:#05285b;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="211.38147"
+y="155.88994">Systole (S<tspan
+style="font-size:65%;baseline-shift:sub"
+id="tspan2593">1</tspan> → S<tspan
+style="font-size:65%;baseline-shift:sub"
+id="tspan3101">2</tspan>)</tspan>
+</text>
+<text
+xml:space="preserve"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.05;font-family:Arial;-inkscape-font-specification:Arial;display:inline;fill:#05285b;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="24.188704"
+y="63.264919"
+id="text6161-0-5-0">
+<tspan
+id="tspan6159-3-8-0"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Arial;-inkscape-font-specification:Arial;fill:#05285b;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+x="24.188704"
+y="63.264919">Diastole (S<tspan
+style="font-size:65%;baseline-shift:sub"
+id="tspan1475">2</tspan> → S<tspan
+style="font-size:65%;baseline-shift:sub"
+id="tspan1881">1</tspan>)</tspan>
+</text>
+<ellipse
+style="display:inline;fill:#fc00ff;fill-opacity:1;stroke:#000000;stroke-width:0.579771;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+id="path2867-1-2-40"
+cy="175.84029"
+cx="173.42328"
+rx="1.4996628"
+ry="1.4008754" />
+<ellipse
+style="display:inline;fill:#0000f2;fill-opacity:1;stroke:#000000;stroke-width:0.579771;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+id="path2867-1"
+cy="66.572205"
+cx="201.6591"
+rx="1.4996628"
+ry="1.4008754" />
+</g>
+<g
+id="layer7"
+style="display:inline">
+<path
+style="display:inline;fill:#000000;fill-opacity:0.997778;stroke:#ffffff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+d="m 122.28688,173.39711 5,3 -5,3 v -2 h -5 v -2 h 5 z"
+id="path4826"
+/>
+<path
+style="display:inline;fill:#000000;fill-opacity:0.997778;stroke:#f4f4f4;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+d="m 172.48558,43.78896 -5.83094,0.01156 2.75417,5.13951 1.02559,-1.717021 4.29256,2.563975 1.02559,-1.717021 -4.29255,-2.563977 z"
+id="path4826-9"
+/>
+<path
+style="display:inline;fill:#000000;fill-opacity:0.997778;stroke:#ffffff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+d="m 84.477904,102.8771 -3,5 -3,-5 h 2 v -4.999996 h 2 v 4.999996 z"
+id="path4826-2"
+/>
+<path
+style="display:inline;fill:#000000;fill-opacity:0.997778;stroke:#ffffff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+d="m 198.83463,135.13011 3,-5 3,5 h -2 v 5 h -2 v -5 z"
+id="path4826-2-5"
+/>
+</g>
+<g
+id="layer1"
+style="display:inline">
+<text
+xml:space="preserve"
+style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.05;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+x="71.46788"
+y="211.42488"
+id="text38117">
+<tspan
+id="tspan38115"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+x="71.46788"
+y="211.42488">Left Ventricular Volume (mL)</tspan>
+</text>
+<text
+xml:space="preserve"
+style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.05;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+x="-186.84309"
+y="11.581411"
+id="text38117-0"
+transform="rotate(-90)">
+<tspan
+id="tspan38115-8"
+style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+x="-186.84309"
+y="11.581411">Left Ventricular Pressure (mmHg)</tspan>
+</text>
+<path
+style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+d="M 20.16165,12.793433 20.432625,200.86116 258.32576,200.31802"
+id="path85151" />
+<text
+xml:space="preserve"
+transform="matrix(0.26458333,0,0,0.26458333,-4.7625002,0.52916667)"
+id="text87021"
+style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.05;font-family:sans-serif;white-space:pre;shape-inside:url(#rect87023);fill:#000000;fill-opacity:1;stroke:none" />
+<circle
+style="fill:#0000f2;fill-opacity:1;stroke:#000000;stroke-width:0.579771;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+id="path2867"
+cy="62.080433"
+cx="81.757523"
+r="0" />
+</g>
+<g
+id="layer2"
+style="display:inline">
+<rect
+style="display:inline;fill:#20c997;fill-opacity:0;stroke:none;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.926991"
+id="rect36126"
+width="38.726765"
+height="41.705742"
+x="234.14799"
+y="169.20619" />
+<rect
+style="display:inline;fill:#dcdcdc;fill-opacity:1;stroke:none;stroke-width:0.618219;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.926991"
+id="rect55669"
+width="68.333321"
+height="40.549709"
+x="210.67641"
+y="174.50856" />
+<text
+xml:space="preserve"
+style="font-size:4.58611px;line-height:1.05;font-family:Arial;-inkscape-font-specification:Arial;display:inline;stroke-width:0.264583"
+x="212.08202"
+y="175.04424"
+id="text37872">
+<tspan
+style="font-weight:bold;font-size:4.58611px;stroke-width:0.264583"
+x="212.08202"
+y="175.04424"
+id="tspan60583" />
+<tspan
+style="font-size:4.58611px;stroke-width:0.264583"
+x="212.08202"
+y="179.85965"
+id="tspan4230">AV: Aortic Valve</tspan>
+<tspan
+style="font-size:4.58611px;stroke-width:0.264583"
+x="212.08202"
+y="184.67506"
+id="tspan46144">EDV: End Diastolic Volume</tspan>
+<tspan
+style="font-size:4.58611px;stroke-width:0.264583"
+x="212.08202"
+y="189.49048"
+id="tspan4108">EDPVR: End Diastolic Pressure-</tspan>
+<tspan
+style="font-size:4.58611px;stroke-width:0.264583"
+x="212.08202"
+y="194.30589"
+id="tspan3437">               Volume Relationship</tspan>
+<tspan
+style="font-size:4.58611px;stroke-width:0.264583"
+x="212.08202"
+y="199.12131"
+id="tspan42432">ESPVR: End Systolic Pressure-</tspan>
+<tspan
+style="font-size:4.58611px;stroke-width:0.264583"
+x="212.08202"
+y="203.93672"
+id="tspan10954">               Volume Relationship</tspan>
+<tspan
+style="font-size:4.58611px;stroke-width:0.264583"
+x="212.08202"
+y="208.75214"
+id="tspan45386">ESV: End Systolic Volume</tspan>
+<tspan
+style="font-size:4.58611px;stroke-width:0.264583"
+x="212.08202"
+y="213.56757"
+id="tspan39116">MV: Mitral Valve</tspan>
+</text>
+</g>
+</svg>

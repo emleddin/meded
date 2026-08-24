@@ -41,6 +41,8 @@ output:
 
 # Current Management Guidelines (From Societies)
 
+- [Acute Kidney Injury, 2026 KDIGO](https://kdigo.org/guidelines/acute-kidney-injury/)
+
 - [Asthma, 2026 GINA](https://ginasthma.org/2026-gina-summary-guide/)
   - [Asthma Classifications](https://www.merckmanuals.com/professional/multimedia/table/classification-of-asthma-severity)
   

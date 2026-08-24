@@ -23,6 +23,7 @@ ACL,Anterior Cruciate Ligament
 ACh,Acetylcholine
 ACOG,American College of Obstetricians and Gynecologists
 ACPA,Anti-Citrullinated Peptide Antibody
+ACS,Acute Chest Syndrome
 ACT,Alternate Cover Test
 ACTH,Adrenocorticotropic Hormone
 ADAT,Advance Diet As Tolerated
@@ -98,6 +99,7 @@ ATC,Around The Clock
 ATFL,Anterior Tibiofibular Ligament
 ATP,Adenosine Triphosphate
 ATTEST,"Associated symptoms, Timing, Triggers, Examination Signs, and additional Testing"
+AUC,Area Under the Curve
 AV,Aortic Valve
 AV,Atrioventricular
 AV node,Atrioventricular node
@@ -181,6 +183,7 @@ CCU,Cardiac Care Unit
 CD,Cardiac Diet
 CDC,Centers for Disease Control
 CDGP,Constitutional Delay of Growth and Puberty
+CDS,Clinical Decision Support
 CDS,Croup Distress Score
 CEA,CarcinoEmbryonic Antigen
 CF,Cystic Fibrosis
@@ -219,6 +222,7 @@ CO,Cardiac Output
 COP,Cryptogenic Organizing Pneumonia
 COPD,Chronic Obstructive Pulmonary Disease
 COX,Cyclooxygenase
+CP,Cerebral Palsy
 CP/CPPS,Chronic Prostatitis/Chronic Pelvic Pain Syndrome
 CPAM,Congenital Pulmonary Airway Malformation
 CPAP,Continuous Positive Airway Pressure
@@ -277,6 +281,7 @@ DA,Dopamine
 DAD,Delayed Afterdepolarization
 DAG,Diacylglycerol
 DAMP,Damage Associated Molecular Pattern
+DART,Dexamethasone: A Randomized Trial (for BPD)
 DASH,Dietary Approaches to Stopping Hypertension
 DAT,Direct Antiglobulin Test
 DBD,Donation after Brain Death
@@ -293,6 +298,7 @@ DDK,Dysdiadochokinesia
 DDx,Differential Diagnosis
 DESD,Detrusor External Sphincter Dyssynergia
 DEXA,Dual-Energy X-ray Absorptiometry
+DHA,DocosaHexaenoic Acid
 DHAP,Dihydroxyacetone Phosphate
 DHT,Dihydrotestosterone
 DI,Diabetes Insipidus
@@ -368,6 +374,7 @@ EDS,Ehlers-Danlos Syndrome
 EDV,End Diastolic Volume
 EEG,Electroencephalogram
 EER,Experimental Event Rate
+EES,Erythromycin Ethylsuccinate
 EF,Ejection Fraction
 eFAST,Extended Focused Assessment with Sonography for Trauma
 EGD,Esophagogastroduodenoscopy (upper GI scope)
@@ -472,6 +479,7 @@ GDM,Gestational Diabetes Mellitus
 GDMT,Guideline Directed Medical Therapy
 GDP,Guanosine Diphosphate
 GERD,GastroEsophageal Reflux Disease
+GETA,General EndoTracheal Anesthesia
 GFAP,Glial Fibrillary Acidic Protein
 GFP,Green Fluorescent Protein
 GFR,Glomerular Filtration Rate
@@ -626,6 +634,7 @@ IRV,Inspiratory Reserve Volume
 IS,Incentive Spirometry
 ISF,Interstitial Fluid
 iso,in setting of
+ISTH BAT,International Society on Thrombosis and Haemostasis Bleeding Assessment Tool
 ITB,IntraThecal Baclofen
 IUD,Intrauterine Device
 IUFD,IntraUterine Fetal Demise
@@ -662,6 +671,7 @@ LET,"Lidocaine, Epinephrine, and Tetracaine"
 LFB,Luxol Fast Blue
 LFT,Liver Function Test
 LGA,Large for Gestational Age
+LGG,Lactobacillus rhamnosus GG
 LGIT,Low Glycemic Index Diet
 LGV,Lymphogranuloma Venereum
 LH,Luteinizing Hormone
@@ -808,16 +818,19 @@ NET,Norepinephrine Transporter
 NFC,Neoformed Contaminants
 NFP,Net Filtration Pressure
 NG,NasoGastric
+NGAL,Neutrophil Gelatinase-Associated Lipocalin
 NGTD,No Growth To Date
 NHANES,National Health and Nutrition Examination Survey
 NIBP,Non-Invasive Blood Pressure
 NICU,Neonatal Intensive Care Unit
+NINJA,Nephrotoxic Injury Negated by Just in time Action
 NIPS,Neonatal Infant Pain Scale
 NIRS,Near Infrared Spectroscopy
 NKA,No Known Allergies
 NKDA,No Known Drug Allergies
 NKR,National Kidney Registry
 NKSS,Non-Keratinized Stratified Squamous
+NM,NeuroMuscular
 NMDA,N-methyl-D-aspartate
 NMJ,Neuromuscular Junction
 NMS,Neuroleptic Malignant Syndrome
@@ -871,6 +884,7 @@ OIH,Opioid-Induced Hyperalgesia/Hypersensitivity
 OLD,Obstructive Lung Disease
 OLV,One Lung Ventilation
 OPA,OroPharyngeal Airway
+OPCAB,Off-Pump Coronary Artery Bypass
 OPEP,Oscillatory Positive Expiratory Pressure
 OPG,Osteoprotegerin
 OPIM,Other Potentially Infectious Material 
@@ -931,6 +945,7 @@ PDW,Passive Death Wish
 PE,Physical Exam
 PE,Pulmonary Embolism
 PEA,Pulseless Electrical Activity
+PEC,Pre-operative anesthesia Evaluation Center
 PECARN,Pediatric Emergency Care Applied Research Network
 PED,Pediatric Emergency Department
 PEERL,Pupils Equal and Equally Reactive to Light
@@ -1044,6 +1059,7 @@ RA,Right Atrium
 RAAS,Renin-Angiotensin-Aldosterone System
 RAG,Recombinase Activating Gene
 RAGE,Receptor for Advanced Glycation End product
+RAI,Renal Angina Index
 RANK,Receptor Activator of NF-κB
 RANKL,Receptor Activator of NF-κB Ligand
 rAPD,relative Afferent Pupillary Defect
@@ -1258,6 +1274,7 @@ TUG,Timed Get Up & Go Test
 TURP,Transurethral Resection of the Prostate
 Tx,Treatment
 TZ,Transitional Zone
+uNGAL,Urine Neutrophil Gelatinase-Associated Lipocalin
 UA,Urinalysis
 UDS,Urine Drug Screening
 UFH,UnFractionated Heparin

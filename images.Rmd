@@ -1,0 +1,24 @@
+---
+title: "Educational Diagrams"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+This page contains SVG diagrams I have made.
+
+# Pressure Volume Loop
+<img src="images/PV-Loop-Work-Inkscape.svg" alt="Pressure Volume loop"/>
+
+# Michaelis-Menten Enzyme Kinetics
+<img src="images/Mich-Ment-Graph.svg" alt="Michaelis-Menten Graph"/>
+
+# Lineweaver-Burk Plot
+<img src="images/Lineweaver-Burk-Inhibitors.svg" alt="Lineweaver Burk Plot"/>
+
+# Half-Life Graph
+<img src="images/Half-Life-Graph.svg" alt="Half-Life Graph"/>
+
+# Osteoclasts
+<img src="images/digital-osteoclasts.svg" alt="Osteoclast diagram"/>

@@ -23,6 +23,10 @@ output:
 
 - [IV to PO | Pharm Guides](https://www.pharmguides.com/clinical-notes/iv-po-conversion-charts/)
 
+- [Acetaminophen Dosing Table | Healthy Children](https://www.healthychildren.org/English/safety-prevention/at-home/medication-safety/Pages/Acetaminophen-for-Fever-and-Pain.aspx)
+
+- [Ibuprofen Dosing Table | Healthy Children](https://www.healthychildren.org/English/safety-prevention/at-home/medication-safety/Pages/Ibuprofen-for-Fever-and-Pain.aspx)
+
 # Medication Charts
 
 - [ADHD Medication Chart](https://www.adhdmedicationguide.com/)
@@ -31,13 +35,19 @@ output:
 
 - [HIV Medication Chart](https://aidsetc.org/sites/default/files/media/document/2022-11/HIV%20Medication%20Chart_August%202022.pdf)
 
-# Allergy Information
+# Allergy/Contraindication Information
 
 - [Vaccine Ingredients: Gelatin | CHOP](https://www.chop.edu/vaccine-education-center/vaccine-safety/vaccine-ingredients/gelatin)
 
 - [Carbohydrate Content of Commonly Used Medications | Matthew's Friends](https://www.matthewsfriends.org/wp-content/uploads/2020/07/Keto_Medicine_list_July2020-UPDATED-FINAL.pdf)
 
-- []()
+- [Medication Awareness Guide for G6PD](https://g6pddf.org/g6pd-deficiency-lifestyle-guide/)
+
+- [NSAIDs to Avoid | Johns Hopkins](https://www.hopkinsmedicine.org/-/media/transplant/nsaids-list-to-avoid.pdf)
+
+- [Beta-Lactam Cross-Reactivity Side-Chain Chart | Northwestern](https://adsp.nm.org/uploads/1/4/3/0/143064172/cross_rxn__graded_challenge__final_update_10.19.19_.pdf)
+
+- [Beta-Lactam Antibiotic Cross-Allergy Chart](https://aspires.vch.ca/Documents/Penicillin%20Allergy/Beta-Lactam%20Antibiotic%20Cross-Allergy%20Chart.pdf)
 
 # Antibiotics
 
@@ -48,9 +58,5 @@ output:
 - [Antibiotic Susceptibilities in Intensive Care](https://drug.wellingtonicu.com/PDF/App5-Antibiotics.pdf)
 
 - [Antimicrobial Spectrum | Wikipedia](https://en.wikipedia.org/wiki/Antimicrobial_spectrum#)
-
-- [Beta-Lactam Cross-Reactivity Side-Chain Chart | Northwestern](https://adsp.nm.org/uploads/1/4/3/0/143064172/cross_rxn__graded_challenge__final_update_10.19.19_.pdf)
-
-- [Beta-Lactam Antibiotic Cross-Allergy Chart](https://aspires.vch.ca/Documents/Penicillin%20Allergy/Beta-Lactam%20Antibiotic%20Cross-Allergy%20Chart.pdf)
 
 - [Microbe Invader game](https://microbeinvader.com/)
