@@ -27,7 +27,7 @@ navbar:
       - text: "Psychiatry"
         href: psych.html
       - text: "Educational Diagrams"
-        href: Images.html
+        href: images.html
     - text: "Interview Qs"
       href: interview.html
     - text: "Languages"
