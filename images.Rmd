@@ -22,3 +22,12 @@ This page contains SVG diagrams I have made.
 
 # Osteoclasts
 <img src="images/digital-osteoclasts.svg" alt="Osteoclast diagram"/>
+
+# NICU Feed Math
+
+<object class="pdf" 
+            data=
+"https://emleddin.github.io/meded/images/NICU-Feed-Math.pdf"
+            width="800"
+            height="500">
+</object>

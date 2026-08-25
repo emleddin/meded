@@ -87,6 +87,10 @@ output:
 - [Internet Book of Critical Care | EMCrit Project](https://emcrit.org/ibcc/toc/) (great for [toxicology](https://emcrit.org/ibcc/toc/#toxicology_&_addiction_medicine))
   - [Refeeding Syndrome](https://emcrit.org/ibcc/refeeding/#top)
 
+- [NICU Learning Nest](https://niculearningnest.com/resources)
+
+- [Perinatology](https://www.perinatology.com/index.html)
+
 ## Antibiotics
 
 - [BugDrugDX](https://bugdrugdx.com/)
