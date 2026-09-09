@@ -22,6 +22,7 @@ Betadine,Povidone-iodine
 Beyfortus,Nirsevimab (RSV immunization)
 Bicitra,Sodium Citrate/Citric Acid
 BiDil,Hydralazine/Isosorbide dinitrate
+Boostrix,"Tetanus, diphtheria, acellular pertussis vaccine (Tdap)"
 Brilinta,Ticagrelor
 Bumex,Bumetanide
 BuSpar,Buspirone
@@ -104,6 +105,7 @@ Lumizyme,Alglucosidase alfa
 Lybalvi,Olanzapine/samidorphan
 Lyrica,Pregabalin
 Macrobid,Nitrofurantoin
+Menveo,"Meningococcal conjugate vaccine, serotypes A, C, Y, and W-135"
 MiraLAX,Polyethylene glycol 3350
 Motrin,Ibuprofen
 Mucomyst,Acetylcysteine
@@ -119,7 +121,9 @@ Omnipen,Ampicillin
 Onfi,Clobazam
 Orap,Pimozide
 Orapred,Prednisolone
+Pataday,Olopatadine
 Paxil,Paroxetine
+Pediarix,"diphtheria, hepatitis B, pertussis (acellular), polio, and tetanus vaccine"
 Pentacel,"DTaP, Polio, Haemophilus influenzae type b vaccine"
 Peridex,Chlorhexidine (mouthwash)
 Phenergan,Promethazine
@@ -138,9 +142,11 @@ Prozac,Fluoxetine
 Pulmicort,Budesonide
 Pulmozyme,Dornase alfa
 Qelbree,Viloxazine
+Quadracel,"diphtheria, pertussis acellular, polio, tetanus vaccine (DTaP-IPV)"
 Questran,Cholestyramine
 Quillichew,Methylphenidate
 Quillivant,Methylphenidate
+Raldesy,Trazodone hydrochloride
 Reglan,Metoclopramide
 Remeron,Mirtazapine
 Rhythmol,Propafenone
@@ -148,6 +154,7 @@ Ritalin,Methylphenidate
 Rituxin,Rituximab
 Rocephin,Ceftriaxone
 Romazicon,Flumazenil
+RotaTeq,"Rotavirus vaccine, live"
 Roxicodone,Oxycodone
 Seroquel,Quetiapine
 Siklos,Hydroxyurea
@@ -185,6 +192,7 @@ Vibramycin,Doxycycline
 Vimpat,Lacosamide
 Vistaril,Hydroxyzine
 Vivitrol,Naltrexone
+Voxogo,Vosoritide
 Vraylar,Cariprazine
 Vyvanse,Lisdexamfetamine
 Wellbutrin,Bupropion

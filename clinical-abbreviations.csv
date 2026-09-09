@@ -63,6 +63,7 @@ ALS,Advanced Life Support
 ALS,Amyotrophic Lateral Sclerosis
 ALT,Alanine Aminotransferase
 AKI,Acute Kidney Injury
+AMA,Advanced Maternal Age
 AMA,Against Medical Advice
 AMR,Antibody Mediated Rejection
 ANA,AntiNuclear Antibody
@@ -77,7 +78,9 @@ AOT,Assisted Outpatient Treatment
 AP,Anteroposterior (rays travel anterior to posterior)
 APGAR,"Activity, Pulse, Grimace, Appearance, Respiration"
 APLAS,Antiphospholipid Antibody Syndrome
+APNP,Assume Pain Not Present
 APP,Advanced Practice Provider
+APP,Assume Pain Present
 ARA,Arachidonic acid
 ARB,Angiotensin Receptor Blocker
 ARDS,Acute Respiratory Distress Syndrome
@@ -208,7 +211,9 @@ CHI,Concurrent Head Injury
 CHO,Carbohydrates
 CIB,Carnation Instant Breakfast
 CIC,Clean Intermittent Catheterization
+CICO,Cannot Intubate Cannot Oxygenate
 CICU,Cardiac Intensive Care Unit
+CICV,Cannot Intubate Cannot Ventilate
 CIS,Culture If Spikes (get a blood culture for fevers)
 CIT,Crisis Intervention Team
 CIWA,Clinical Instrument Withdrawal Assessment
@@ -271,6 +276,7 @@ CTSIB,Clinical Test for Sensory Integration and Balance
 CTX,Ceftriaxone
 Cu-IUD,Copper-based Intrauterine Device
 CUD,Carnitine Uptake Deficiency
+CUS,Cranial UltraSound
 CVA,Cerebrovascular Accident (stroke)
 CVAI,Cranial Vault Asymmetry Index
 CVAT,Costovertebral Angle Tenderness
@@ -306,6 +312,7 @@ DC,Discharge
 DC/ML,Dorsal Column/Medial Lemniscal
 DCCT,Diabetes Control and Complications Trial
 DCD,Donation after Cardiac Death
+DCDA,Di-Chorionic Di-Amniotic
 DCM,Dilated Cardiomyopathy
 DDAVP,Desmopressin (1-desamino-8-D-arginine vasopressin)
 DDK,Dysdiadochokinesia
@@ -319,6 +326,7 @@ DI,Diabetes Insipidus
 DIC,Disseminated Intravascular Coagulation
 DICT,"Dense, Irregular, Connective Tissue"
 Diff,Differential
+DILI,Drug-Induced Liver Injury
 DIP,Desquamative Interstitial Pneumonia
 DIP,Distal Interphalangeal joint
 DIPG,Diffuse Intrinsic Pontine Glioma
@@ -490,6 +498,7 @@ GABA,γ-Amino Butyric Acid (gamma)
 GAD,Generalized Anxiety Disorder
 GAD-7,Generalized Anxiety Disorder 7
 GAG,Glycosaminoglycans
+GALD,Gestational Alloimmune Liver Disease
 GALT,Gut Associated Lymphatic Tissue
 GAS,Group A Streptococcus
 GBS,Group B Streptococcus
@@ -509,6 +518,7 @@ GH,Growth Hormone
 GI,Gastrointestinal
 GINA,Global Initiative for Asthma
 GIP,Glucose-dependent Insulinotropic Polypeptide
+GIR,Glucose Infusion Rate
 GJ,Gap Junction
 GJ Tube,GastroJejunostomy Tube
 GLP,Glucagon-Like Peptide
@@ -561,6 +571,7 @@ HEVs,High Endothelial Venules
 HFA,HydroFluoroAlkane (for inhalers)
 HFE,Human Factors Engineering
 HFNC,High-Flow Nasal Cannula
+HFOV,High-Flow Oscillatory Ventilation
 HFP,Hepatic Function Panel
 HFpEF,Heart Failure with preserved Ejection Fraction (diastolic heart failure)
 HFrEF,Heart Failure with reduced Ejection Fraction (systolic heart failure)
@@ -603,9 +614,11 @@ HTS,HyperTonic Saline
 HUS,Head UltraSound
 HTx,Heart Transplant
 HVA,HomoVanillic Acid
+iNAVA,Invasive Neurally Adjusted Ventilatory Assist
 I&D,Incision and Drainage
 I:E,Inspiratory to Expiratory
 IAA,Interrupted Aortic Arch
+IAEDF,Intermittent Absent End Diastolic Flow
 IAP,Inferior Articular Process
 IBD,Irritable Bowel Disease
 IBS,Irritable Bowel Syndrome
@@ -684,6 +697,7 @@ JVP,Jugular Venous Pressure
 KD,Kawasaki Disease
 KD,Ketogenic Diet
 KLA,Kaposiform LymphAngiomatosis
+KP,Keratic Precipitates
 KUB,"Kidney, Ureter, and Bladder x-ray"
 L1-L5,Lumbar vertebra 1-5
 LA,Left Atrium
@@ -738,6 +752,7 @@ m/k/d,mL/kg/day
 MA,Macula Adherens
 MAC,Minimum Alveolar Concentration
 MACE,Malone Antegrade Continence Enema (appendicostomy)
+MAG3,Mercaptoacetyltriglycine (renal scan)
 MAHA,Microangiopathic Hemolytic Anemia
 MALT,Mucosal Associated Lymphoid Tissue
 MAO,Monoamine Oxidase
@@ -771,6 +786,7 @@ MetS,Metabolic Syndrome
 MF,Muscle Fiber
 MFF,Mycophenolate Mofetil
 MFN,Muscle Fiber Nuclei
+MFTI,Maternal Fetal Triage Index
 MGF,Maternal Grandfather
 MGM,Maternal Grandmother
 MH,Malignant Hyperthermia
@@ -826,6 +842,7 @@ MVI,MultiVitamin Injection
 MVP,Mitral Valve Prolapse
 MVP Pathway,"Motion, Vibration, and Position (DC/ML)"
 MVRSA,Methicillin- and Vancomycin-Resistant Staphylococcus aureus
+niNAVA,Non-Invasive Neurally Adjusted Ventilatory Assist
 N/V/D,Nausea/Vomiting/Diarrhea
 NAAT,Nucleic Acid Amplification Test
 NABS,NormoActive Bowel Sounds
@@ -878,6 +895,7 @@ NNRTI,Non-Nuceloside Reverse Transcriptase Inhibitor
 NNS,Non-Nutritive Sucking
 NNT,Numbers Needed to Treat
 NO,Nitric Oxide
+NOMI,Non-Occlusive Myocardial Infarction
 NORSE,New-Onset Refractory Status Epilepticus
 NOS,Nitric Oxide Synthase
 NOWS,Neonatal Opioid Withdrawal Syndrome
@@ -926,6 +944,8 @@ OIC,Opioid Induced Constipation
 OIH,Opioid-Induced Hyperalgesia/Hypersensitivity
 OLD,Obstructive Lung Disease
 OLV,One Lung Ventilation
+OM,Otitis Media
+OMI,Occlusive Myocardial Infarction
 OPA,OroPharyngeal Airway
 OPCAB,Off-Pump Coronary Artery Bypass
 OPEP,Oscillatory Positive Expiratory Pressure
@@ -958,6 +978,7 @@ PAD,Peripheral Artery Disease
 PAG,Periaqueductal Grey region
 PAH,Para-aminohippurate
 PAI,Plasminogen Activator Inhibitor
+PAL,Peripheral Arterial Line
 PAMPs,Pathogen Associated Molecular Patterns
 PANDAS,Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal infections
 PAO,PeriAcetabular Osteotomy
@@ -976,6 +997,7 @@ PCP,Phencyclidine
 PCP,Primary Care Provider
 pCSI,Proton CranioSpinal Irradiation
 PCT,Procalcitonin
+PCW,Personal Care Worker
 PCWP,Pulmonary Capillary Wedge Pressure
 PD,Panic Disorder
 PDA,Patent Ductus Arteriosus
@@ -983,6 +1005,7 @@ PDA,Pathological Demand Avoidance
 PDD,Persistent Depressive Disorder
 PDEs,Phosphodiesterases
 PDGF,Platelet-Derived Growth Factor
+PDHM,Pasteurized Donor Human Milk
 PDMP,Prescription Drug Management Program
 PDMP,Prescription Drug Monitoring Program
 PDN,Private Duty Nurse
@@ -1012,6 +1035,7 @@ PHI,Protected Health Information
 PHP,Partial Hospitalization Program
 PHP,Pseudohypoparathyroidism
 PHQ-9,Patient Health Questionnaire-9 (Depression)
+PHVD,Post-Hemorrhagic Ventricular Dilatation
 PICC,Peripherally Inserted Central Catheter
 PICO,"Patient/Population, Intervention, Control, Outcome"
 PICU,Pediatric Intensive Care Unit
@@ -1037,6 +1061,7 @@ PMI,Point of Maximum Impulse
 PML,Progressive Multifocal Leukoencephalopathy
 PNA,Pneumonia
 PNALD,Parenteral Nutrition-Associated Liver Disease
+PNCA,Parent/Nurse Controlled Analgesia
 PND,Paroxysmal Nocturnal Dyspnea
 PNDM,Permanent Neonatal Diabetes Mellitus
 PNES,Psychogenic Non-Epileptic Seizures (functional seizures)
@@ -1126,6 +1151,7 @@ RCT,Randomized Controlled Trial
 RDS,Respiratroy Distress Syndrome
 RDW,Red Cell Distribution Width
 RDW,Risk Difference
+REDF,Reversed End Diastolic Flow
 REMS,Risk Evaluation and Mitigation Strategy
 RER,Rough Endoplasmic Reticulum
 Retic.,Reticulocyte Count
@@ -1135,6 +1161,7 @@ RIME,Reactive Infectious Mucocutaneous Eruption
 RLD,Restrictive Lung Diseases
 RMP,Resting Membrane Potential
 RNA,Ribonucleic Acid
+ROH,Regions of Homozygosity
 ROHHAD,"Rapid-onset Obesity with Hypothalamic dysregulation, Hypoventilation, and Autonomic Dysregulation"
 ROM,Range of Motion
 ROM,Rupture of Membrane
@@ -1197,6 +1224,7 @@ SGA,Small for Gestational Age
 SGLT,Sodium-Glucose Linked Transporter
 SH,Social History
 SHBG,Sex Hormone-Binding Globulin
+SHINE,Screening Hearts In Newborns
 SHOX,Short Stature Homeobox
 SHx,Social History
 SIADH,Syndrome of Inappropriate AntiDiuretic Hormone secretion
@@ -1284,7 +1312,7 @@ TBI,Traumatic Brain Injury
 tbw,touch base with
 TCA,Tricarboxylic Acid
 TCA,Tricyclic Antidepressant
-TCM,TransCutaneous Monitoring
+TCM,TransCutaneous Monitoring (TcPCO<sub>2</sub>)
 TCT,Thrombin Clotting Time
 Tdt,Terminal deoxynucleotidyl transferase
 TEE,Transesophageal Echo
@@ -1335,6 +1363,7 @@ TZ,Transitional Zone
 uNGAL,Urine Neutrophil Gelatinase-Associated Lipocalin
 UA,Urinalysis
 UAC,Umbilical Artery Catheter
+UAD,Uterine Artery Doppler
 UDS,Urine Drug Screening
 UFH,UnFractionated Heparin
 UIP,Usual Interstitial Pneumonia
@@ -1371,12 +1400,15 @@ VFib,Ventricular Fibrillation
 VFSS,Video Fluoroscopic Swallow Study
 VHD,Valvular Heart Disease
 VIP,Vasoactive Intestinal Peptide
+VIS,Vaccine Information Statement
 VLBW,Very Low Birth Weight
 VLCAD,Very long-chain acyl-CoA dehydrogenase
 VLCFA,Very Long Chain Fatty Acids
 VLDL,Very-Low-Density Lipoprotein
+VKDB,Vitamin K Deficiency Bleeding
 VMA,VanillylMandelic Acid
 VMAT,Vesicular Monoamine Transporter
+VNRS,Verbal Numeric Rating Scale
 VNS,Vagus Nerve Stimulator
 VOE,Vaso-Occlusive Episode/Event
 VOR,Vestibuloocular Reflex
@@ -1391,6 +1423,7 @@ VT,Ventricular Tachycardia
 VTA,Ventral Tegmental Area
 VTE,Venous Thromboembolism
 VUR,Vescio-Urinary Reflux
+VUS,Variant of Unkown Significance
 VZV,Varicella Zoster Virus
 WAT,Wean As Tolerated
 WAT,Withdrawal Assessment Tool

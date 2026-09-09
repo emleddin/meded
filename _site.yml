@@ -26,6 +26,10 @@ navbar:
         href: OB-Gyn.html
       - text: "Psychiatry"
         href: psych.html
+      - text: "Anesthesia"
+        href: anesthesia.html
+      - text: "Radiology"
+        href: radiology.html
       - text: "Educational Diagrams"
         href: images.html
     - text: "Interview Qs"

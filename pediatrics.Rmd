@@ -55,6 +55,7 @@ output:
 - [Kawasaki Disease, 2024 AHA](https://doi.org/10.1161/CIR.0000000000001295)
 
 - [Hyperbilirubinemia (35+ weeks), 2022 AAP](https://doi.org/10.1542/peds.2022-058859)
+  - [TcB vs TSB Recheck](https://publications.aap.org/view-large/figure/13014131/PEDS_2022058859_f7.tif)
 
 - [Urinary Tract Infections, 2025 IDSA](https://www.idsociety.org/practice-guideline/complicated-urinary-tract-infections/)
 

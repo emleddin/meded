@@ -146,6 +146,8 @@ Make sure whatever you're using is HIPAA compliant and works with your local pol
 
 - [Lexicon of English-HMoob (Hmong) Medical Terminology | UW Madison](https://nursing.wisc.edu/lexicon-of-english-hmoob-medical-terminology/)
 
+- [Vaccine Information Statement (VIS) Translations](https://www.immunize.org/translations/)
+
 # Apps
 
 - [Duolingo](https://www.duolingo.com/)

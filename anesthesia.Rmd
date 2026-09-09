@@ -1,0 +1,146 @@
+---
+title: "Anesthesia Resources"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# Emergency Situations
+
+- [2025 AHA Algorithms](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/algorithms)
+
+- [Malignant Hyperthermia Association of America (MHAUS)](https://www.mhaus.org/healthcare-professionals/)
+
+- [Stanford Emergency Manual](https://emergencymanual.stanford.edu/english-manual/)
+
+# General
+
+- [ASA Guidelines](https://www.asahq.org/standards-and-practice-parameters)
+
+- [Anesth Guide](https://anesthguide.com/)
+
+- [Anaesthesier](https://www.anaestheasier.com/)
+  - [Arterial Lines](https://www.anaestheasier.com/arterial-lines/)
+
+- [Open Anesthesia](https://www.openanesthesia.org/)
+
+- [Wiki Anesthesia](https://wikianesthesia.org/wiki/Main_Page)
+  - [Preoperative Medication Management](https://wikianesthesia.org/wiki/Preoperative_medication_management)
+
+# Pocket Guides
+
+- [Anesthesiology Resident’s Pocket Reference Guide | UT Health](https://www.uthsc.edu/anesthesiology/residency/documents/pocket-reference.pdf)
+
+- [Pocket Guides in Anesthesia and Critical Care | Anesth Guide](https://anesthguide.com/pocket-guides/#pocket-guides-anesthesiaintensive-care)
+
+- [Anesthesia Calculations Reference Sheet](https://www.apexanesthesia.com/wp-content/uploads/2020/06/Calculations-Sheet_r02.pdf)
+
+## Pediatric Pocket Guides
+
+- [Pediatric Anesthesia Pocket Card | Johns Hopkins](https://pedsanesthesia.net/wiki/images/f/fc/Hopkins_Pedi_Anes_Pocket_Card.pdf)
+
+- [Pocket Guides in Anesthesia and Intensive Care](https://anesthguide.com/pocket-guides/#pocket-guides-anesthesiaintensive-care)
+
+- [Pediatric Pain Pocket Reference | Stanford](https://med.stanford.edu/content/dam/sm/pedsanesthesia/documents/pediatric-pain-pocket-reference.pdf)
+
+- [Pediatric Acute Pain Management | Children's Minnesota](https://cmn.education.childrensmn.org/sites/default/files/media/2023-12/Pain%20management%20reference%20flyer.pdf)
+
+# Equipment and Monitoring
+
+- [How Equipment Works](https://www.howequipmentworks.com/)
+
+- [Capnography](https://www.capnography.com/)
+
+- [ICU One Pager](https://onepagericu.com/)
+
+- [Trauma ICU](https://traumaicu.org/)
+
+- [VentSim](https://ventsim.cc/) (requires a Google account; interactive ventilator graphs)
+
+## Devices
+
+- [How to Use a Manual Stretcher Stryker](https://youtu.be/kwuCFQwyKfc&t=133)
+
+- [B Braun Infusomat Infusion Pump (YouTube Demo)](https://www.youtube.com/watch?v=GC0hdXU4qiY)
+
+- [Quick setup guide: the Belmont rapid infuser](https://www.youtube.com/watch?v=ak_jw1knakI&t=20s)
+
+- [SunStim Instructions](https://connect.myairlife.com/resources/SunStim.INIFU_SunStim_SunStim_Plus_SunStim_Pro_Peripheral_Nerve_Stimulator_Rev6.pdf)
+
+## Machines
+
+- [GE Healthcare Manuals and Documents](https://www.gehealthcare.com/en-us/support/manuals)
+
+- [Avance CS2 and Avance Anesthesia Delivery Systems: Quick Start Guide](https://www.youtube.com/watch?v=TRHXkmrv1ko)
+
+- [Avance CS2 Participant Guide](https://www.gehealthcare.com/-/media/global/products/images/anesthesia_delivery_systems_user_resources/new/avance-cs2-participant-guide---doc1298633.pdf?rev=-1&hash=499485F88220EB71BB417095F02D4A8B)
+
+- [Aisys CS2 User's Reference Manual](https://www.gehealthcare.com/en-us/support/manuals?search=eyJzZWFyY2hUZXJtIjoiMjA5MzQ5Ni0wMDEiLCJsYW5ndWFnZU5hbWUiOiJFbmdsaXNoIChFTikifQ%3D%3D)
+
+- [Pressure Control Ventilation - Volume Guaranteed Tech Report](https://www.gehealthcare.com/-/jssmedia/global/products/files/anesthesia-delivery/pressure-control-ventilation-volume-guaranteed.pdf?rev=-1)
+
+- [Dräger Apollo Instructions for Use](https://archive.org/details/manual_Drager_Apollo_Anesthesia_Station_User_Manual)
+
+## EKGs
+
+- [ECG Simulator](https://www.skillstat.com/tools/ecg-simulator-classic)
+
+- [EKGmon Interactive EKG Quiz](https://ekgmon.com/)
+  - [EKGmon Alternative Link](https://www.practicalclinicalskills.com/ekg-monitoring-quiz)
+
+- [ECGpedia](https://en.ecgpedia.org/index.php?title=Main_Page)
+
+- [Arrhythmia Recognition | GE Healthcare](https://www.gehealthcare.com/-/jssmedia/6acabc8138554a2b90c308aed7c0fc8e.pdf)
+
+## Videos
+
+- [Basic Vent Modes | ICU Advantage](https://www.youtube.com/watch?v=E5uLM41URmE)
+
+- [Advanced Vent Modes | ICU Advantage](https://www.youtube.com/watch?v=yHg_ivGjch4)
+
+- [Arterial Line Waveform | ICU Advantage](https://www.youtube.com/watch?v=UbwdbK2inZY)
+
+- [Pulmonary Artery (PA) Catheter Waveforms | ICU Advantage](https://www.youtube.com/watch?v=8IWHihdnCTw)
+
+- [High-Yield Guide To Ventilators In The ICU | Conan Liu, M.D.](https://www.youtube.com/watch?v=fXyakhSmcTE)
+
+- [Ventilator Waveforms & Troubleshooting Made Easy | Conan Liu, M.D.](https://www.youtube.com/watch?v=fXyakhSmcTE)
+
+- [How an Anesthesiologist Sets Up an Operating Room for Surgery | Max Feinstein](https://www.youtube.com/watch?v=pEb-dtC5WCk)
+
+- [How Anesthesiologists Draw Medications from a Vial in the Operating Room | Max Feinstein](https://www.youtube.com/watch?v=pZkPyNjo4wA)
+
+- [Contents of the Anesthesiologist's Medication Cart in the Operating Room | Max Feinstein](https://www.youtube.com/watch?v=7uGI37Qk3pc)
+
+- [General anesthesia pharmacology - Medications for induction, maintenance, & emergence | Max Feinstein](https://www.youtube.com/watch?v=hQiHj22VcFI)
+
+- [Induction of general anesthesia explained step by step | Max Feinstein](https://www.youtube.com/watch?v=0wwQ0ERX98I)
+
+- [Anesthesiology Keyword Review 2021-2022 | University of Kentucky](https://youtube.com/playlist?list=PLh0m5d4Yfc8yYVcIYyfZ0POr4mUeanRKW&si=E4SdzV3CWXkiiUFR)
+
+## Documentation
+
+- [Cerner SurgiNet Anesthesia Playlist](https://www.youtube.com/playlist?list=PLM2rmVekvdT3yARN-1IbBajGCnxj4X_Xt)
+
+  - [Starting an Anesthesia Case in Cerner SurgiNet Anesthesia](https://www.youtube.com/watch?v=yjsMXopLBIw)
+
+  - [Anesthesia Case Documentation Using the To Do List in Cerner SurgiNet Anesthesia](https://www.youtube.com/watch?v=aV6nfn-kYso)
+  
+  - [Finalizing an Anesthesia Record in Cerner SurgiNet Anesthesia](https://www.youtube.com/watch?v=NMpZMsJg034)
+
+# Antibiotics
+
+- [Adult Dosing and Redosing Guidelines for Prophylactic Antimicrobials During Surgery | Michigan Surgical Quality Initiative](https://www.msqc.org/_files/ugd/d5fc0a_6dde1b6f25574edc8f875479c48aadf5.pdf)
+
+- [Intra-Operative Redosing of Antimicrobials | UNMC](https://www.unmc.edu/intmed/_documents/id/asp/surgical-antibiotic-or-redosing-final.pdf)
+
+- [Surgical Antimicrobial Prophylaxis Guidelines | Stanford Health Care](https://med.stanford.edu/content/dam/sm/bugsanddrugs/documents/clinicalpathways/SHC-Surgical-Prophylaxis-ABX-Guideline.pdf)
+
+# Technical Skills
+
+- [Basic Transthoracic Echocardiography (Cardiac Ultrasound) - TTE Made Simple | POCUS 101](https://www.youtube.com/watch?v=1E4NSR6yjMw)
+
+- [Ultrasound Guided Peripheral IV Placement STEP BY STEP | POCUS 101](https://www.youtube.com/watch?v=OUpXQg4r1s4)
+
+- [Ultrasound in Anesthesiology and Perioperative Anesthesia | POCUS 101](https://www.youtube.com/watch?v=nIbrmj4pN_c)

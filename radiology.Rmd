@@ -1,0 +1,99 @@
+---
+title: "Radiology Resources"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# Radiation Safety
+
+- [ACR Appropriateness Criteria](https://www.acr.org/Clinical-Resources/Clinical-Tools-and-Reference/Appropriateness-Criteria)
+
+- [ACR Radiation Safety](https://www.acr.org/clinical-resources/clinical-tools-and-reference/radiology-safety/radiation-safety)
+  - [Dose Reference Card](https://edge.sitecorecloud.io/americancoldf5f-acrorgf92a-productioncb02-3650/media/ACR/Files/Clinical/Radiology-Safety/Dose-Reference-Card.pdf)
+
+- [MRI Safety](https://www.mrisafety.com/)
+
+# General
+
+- [Orthopaedia](https://www.orthopaedia.com/)
+
+- [Radiology Assistant](https://radiologyassistant.nl/)
+
+- [Radiopedia](https://radiopaedia.org/)
+
+# Ultrasound
+
+- [Introduction to Biliary Ultrasound](https://www.youtube.com/watch?v=fd4tfk-Guxg)
+
+- [Gastric Ultrasound (Supine)](https://www.youtube.com/watch?v=CJsz12nNXN8)
+
+- [Gastric Ultrasound (Supine and Lateral)](https://www.youtube.com/watch?v=4Kc5qVMGGPU)
+
+- [Cardiac Ultrasound | POCUS 101](https://www.pocus101.com/cardiac-ultrasound-echocardiography-made-easy-step-by-step-guide/)
+
+- [Highland Ultrasound](https://highlandultrasound.com/) (ultrasound resource, with info on nerve blocks)
+
+- [POCUS 101](https://www.pocus101.com/category/ultrasound-tutorials/)
+
+- [POCUS Atlas Jr](https://www.thepocusatlas.com/atlas-jr)
+
+- [Pediatric POCUS Pocket Cards | ACEP](https://drive.google.com/drive/folders/148Q5w9UJiD4fCeq4K1MzIvKFKVtXmVU5?usp=sharing)
+
+- [Sonoguide | ACEP](https://www.acep.org/sonoguide)
+
+- [IMAIOS e-Anatomy](https://www.imaios.com/en/pricing/e-anatomy) (paid service)
+
+- [Ultrasoundpaedia](https://ultrasoundpaedia.com/) (mix of free and paid content, specific links here are free)
+
+  - [Neonatal Head Normal](https://ultrasoundpaedia.com/neonatal-head-normal/)
+
+  - [Paediatric Renal Normal](https://ultrasoundpaedia.com/paediatric-renal-normal/)
+
+  - [Intussusception](https://ultrasoundpaedia.com/intussusception/)
+
+  - [Hip Normal](https://ultrasoundpaedia.com/hip-groin-normal/)
+
+- [Neonatal Head Ultrasound Protocol | UW Medicine](https://depts.washington.edu/usrad/wordpress/wp-content/uploads/2023/03/Neonatal-Head-Protocol-3.2023-1.pdf) (includes labeled examples)
+
+# X-Rays
+
+- [Normal Pediatric Bone X-Rays](https://bonexray.com/)
+
+- [Normal Pediatric Imaging Examples | Radiopedia](https://radiopaedia.org/articles/normal-paediatric-imaging-examples)
+
+- [Pediatric Normal Imaging Studies by Age | CaseStacks](https://www.casestacks.com/peds/peds-normals-by-age/) (X-rays free, CT and MRI require a subscription)
+
+- [Pediatric Imaging](https://pediatricimaging.org/) (Online textbook)
+
+- [Peds Cases](https://pedscases.com/)
+
+  - [Approach to Pediatric Abdominal X-Rays](https://www.pedscases.com/approach-pediatric-abdominal-x-rays)
+  - [Approach to Pediatric Chest X-Rays](https://www.pedscases.com/approach-pediatric-chest-x-rays/)
+  - [Musculoskeletal Radiology in Children - Part 1](https://www.pedscases.com/musculoskeletal-radiology-children-part-1)
+  - [MSK Radiology series - Part 2](https://www.pedscases.com/msk-radiology-series-part-2)
+  - [MSK Radiology series - Part 3 + 4](https://www.pedscases.com/msk-radiology-series-part-3-4)
+  - [MSK Radiology series - Part 5 and 6](https://www.pedscases.com/msk-radiology-series-part-5-and-6)
+  - [MSK Radiology series - Part 7](https://www.pedscases.com/msk-radiology-series-part-7-0)
+  - [Pediatric Elbow Radiographs](https://www.pedscases.com/pediatric-elbow-radiographs)
+
+- [Normal for Age | UCSD Musculoskeletal Radiology](http://www.bonepit.com/Normal%20for%20age/Normal%20for%20age%20index.htm)
+
+- [Pediatrics Index | Radiology Assistant](https://radiologyassistant.nl/pediatrics)
+
+## Chest X-Rays
+
+- [Introduction to Chest Radiology | University of Virginia](https://introductiontoradiology.net/courses/rad/cxr/index.html)
+
+- [Top 150 CXR Cases | LITFL](https://litfl.com/top-100/cxr/)
+
+- [The Radiology Survival Kit: What You Need to Know for USMLE and the Clinics](https://link.springer.com/book/10.1007/978-3-030-84365-6)
+
+- [Radiology Masterclass](https://www.radiologymasterclass.co.uk/x-ray_courses/chest_xray_course_more_info)
+
+  - [COPD](https://www.radiologymasterclass.co.uk/gallery/chest/pulmonary-disease/chest_xray_copd)
+
+  - [Free gas/pneumoperitoneum](https://www.radiologymasterclass.co.uk/tutorials/abdo/abdomen_x-ray_abnormalities/pathology_bowel_gas_perforation)
+  
+  - [Pneumothorax](https://www.radiologymasterclass.co.uk/gallery/chest/pneumothorax/pneumothorax_a)
