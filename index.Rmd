@@ -88,6 +88,17 @@ If you made it here, I hope you find it useful.
 
 - [Physical Examination of a Premature Infant | Stanford](https://www.youtube.com/watch?v=6HV1lFlkgoI)
 
+## Heart Sounds
+
+- [Patent Ductus Arteriosus (PDA) Murmur](https://www.youtube.com/watch?v=KBVNJtayzbA)
+
+- [Heart Sounds and Heart Murmurs, Animation](https://www.youtube.com/watch?v=dBwr2GZCmQM)
+  - [Mitral Regurgitation](https://www.youtube.com/watch?v=dBwr2GZCmQM&t=104s)
+  - [Aortic Stenosis](https://www.youtube.com/watch?v=dBwr2GZCmQM&t=163s)
+  - [Aortic Regurgitation](https://www.youtube.com/watch?v=dBwr2GZCmQM&t=225s&pp=0gcJCTEAlc8ueATH)
+
+- [S3 vs S4 Heart Sound](https://www.youtube.com/watch?v=7J72wFtBdU4)
+
 # Technical Skills
 
 - [Positive-Pressure Ventilation with Flow-Inflating Bag | AAP](https://players.brightcove.net/6056665225001/default_default/index.html?videoId=6303724810001)

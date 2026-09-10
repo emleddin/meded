@@ -16,6 +16,7 @@ ABG,Arterial Blood Gas
 ABPM,Ambulatory Blood Pressure Monitoring
 ABR,Autditory Brainstem Response
 AC,Before meals
+AC,Assist Control ventilation
 ACA,Affordable Care Act
 ACC,Agenesis of the Corpus Callosum
 ACD,Alveolar Capillary Dysplasia
@@ -81,6 +82,8 @@ APLAS,Antiphospholipid Antibody Syndrome
 APNP,Assume Pain Not Present
 APP,Advanced Practice Provider
 APP,Assume Pain Present
+APRV,Airway Pressure Release Ventilation
+AR,Antibiotic Resistance
 ARA,Arachidonic acid
 ARB,Angiotensin Receptor Blocker
 ARDS,Acute Respiratory Distress Syndrome
@@ -132,7 +135,9 @@ BFP,Binocular Fixation Preference
 BIBA,Brought In By Ambulance
 bid,Bis In Die (twice a day)
 BIP,Behavior Intervention Plan
+BiPAP,Bilevel Positive Airway Pressure
 BIRDs,Brief potentially Ictal Rhythmic Discharges
+BIS,Bispectral Index
 BL,Burkitt Lymphoma
 BLL,Blood Lead Level
 BM,Bowel Movement
@@ -191,6 +196,7 @@ CCHD,Critical Congenital Heart Defects
 CCK,Cholecystokinin
 CCU,Cardiac Care Unit
 CD,Cardiac Diet
+CD&I,"Clean, Dry, & Intact"
 CDC,Centers for Disease Control
 CDGP,Constitutional Delay of Growth and Puberty
 CDH,Congenital Diaphragmatic Hernia 
@@ -249,6 +255,7 @@ CPK,"Creatine Phosphokinase (same test as Creatine Kinase, CK)"
 CPOE,Computerized Provider Order Entry
 CPT,Chest PhysioTherapy
 CPT,Cognitive Processing Therapy 
+CRE,Carbapenem-resistant enterobacteriaceae
 CREST,"Calcinosis, Raynaud, Esophageal dysmotility, Sclerodactyly, Telangiectasia"
 CRH,Corticotropin Releasing Hormone
 CRM,CardioRespiratory Monitoring
@@ -413,6 +420,7 @@ ELBW,Extremely Low Birth Weight
 EM,Electron Microscopy
 EMDR,Eye-Movement Desensitization and Reprocessing
 EMG,Electromyography
+EMLA,Eutectic Mixture of Local Anesthetics (lidocaine and prilocaine)
 EMR,Electronic Medical Record
 EMT,Epithelial-to-Mesenchymal Transition
 EMTALA,Emergency Medical Treatment and Labor Act
@@ -434,6 +442,7 @@ ER,Endoplasmic Reticulum
 ERT,Enzyme Replacement Therapy
 ERT,Extubation Readiness Trial
 ERV,Expiratory Reserve Volume
+ESBLs,Extended-spectrum Beta-lactamases
 ESCAPPM,"Enterobacter spp., Serratia spp., Citrobacter freundii, Hafnia spp., Acinetobacter spp., Proteus spp. (excluding P. mirabilis), Providencia spp., Morganella morganii"
 ESI,Emergency Severity Index
 ESR,Erythrocyte Sedimentation Rate
@@ -571,7 +580,7 @@ HEVs,High Endothelial Venules
 HFA,HydroFluoroAlkane (for inhalers)
 HFE,Human Factors Engineering
 HFNC,High-Flow Nasal Cannula
-HFOV,High-Flow Oscillatory Ventilation
+HFOV,High-Frequency Oscillatory Ventilation
 HFP,Hepatic Function Panel
 HFpEF,Heart Failure with preserved Ejection Fraction (diastolic heart failure)
 HFrEF,Heart Failure with reduced Ejection Fraction (systolic heart failure)
@@ -655,6 +664,7 @@ IMA,Inferior Mesenteric Artery
 IMA,Intrinsic Sympathomimetic Activity
 IMM,Immunogloblulin
 Imms,Immunizations
+IMP,Imipenemase metallo-Beta-lactamase
 IMV,Inferior Mesenteric Vein
 IN,IntraNasal
 INH,Isonicotinic Acid Hydrazide (Isoniazid)
@@ -698,6 +708,7 @@ KD,Kawasaki Disease
 KD,Ketogenic Diet
 KLA,Kaposiform LymphAngiomatosis
 KP,Keratic Precipitates
+KPC,<i>Klebsiella pneumoniae</i> carbapenemase
 KUB,"Kidney, Ureter, and Bladder x-ray"
 L1-L5,Lumbar vertebra 1-5
 LA,Left Atrium
@@ -735,6 +746,7 @@ LR,Likelihood Ratio
 LSB,Left Sternal Border
 LSC,Lung Sounds Clear
 LTAC,Long-Term Acute Care
+LTBI,Latent TuBerculosis Infection
 LTD,Long-Term Depression
 LTG,Long-Term Goal
 LTP,Long-Term Potentiation
@@ -863,6 +875,7 @@ NCAT,NormoCephalic/Atraumatic
 NCCN,National Comprehensive Cancer Network
 NCIT,Non-Contact Infrared Thermometer
 NDM,Neonatal Diabetes Mellitus
+NDM,New Delhi metallo-Beta-lactamase
 NE,Narrative Exposure
 NE,Norepinephrine
 NEC,Necrotizing Enterocolitis
@@ -896,6 +909,7 @@ NNS,Non-Nutritive Sucking
 NNT,Numbers Needed to Treat
 NO,Nitric Oxide
 NOMI,Non-Occlusive Myocardial Infarction
+NORA,Non-Operating Room Anesthesia
 NORSE,New-Onset Refractory Status Epilepticus
 NOS,Nitric Oxide Synthase
 NOWS,Neonatal Opioid Withdrawal Syndrome
@@ -967,6 +981,7 @@ OTC,Over The Counter
 OTT,OroTracheal Tube
 OTW,On The Way
 OVN,Overnight
+OXA-48,Oxacillinase-48
 OXT,Oxytocin
 P,Probability
 p/w,presents with
@@ -996,6 +1011,7 @@ PCOS,Polycystic Ovary Syndrome
 PCP,Phencyclidine
 PCP,Primary Care Provider
 pCSI,Proton CranioSpinal Irradiation
+PCV,Pressure Control Ventilation
 PCT,Procalcitonin
 PCW,Personal Care Worker
 PCWP,Pulmonary Capillary Wedge Pressure
@@ -1016,6 +1032,7 @@ PEA,Pulseless Electrical Activity
 PEC,Pre-operative anesthesia Evaluation Center
 PECARN,Pediatric Emergency Care Applied Research Network
 PED,Pediatric Emergency Department
+PEEP,Positive End Expiratory Pressure
 PEERL,Pupils Equal and Equally Reactive to Light
 PEG,"Pain, Enjoyment, General activity"
 PEM,Pediatric Emergency Medicine
@@ -1059,6 +1076,7 @@ PMH,Past Medical History
 PMHx,Past Medical History
 PMI,Point of Maximum Impulse
 PML,Progressive Multifocal Leukoencephalopathy
+PMNs,PolyMorphonuclear Neutrophils
 PNA,Pneumonia
 PNALD,Parenteral Nutrition-Associated Liver Disease
 PNCA,Parent/Nurse Controlled Analgesia
@@ -1095,11 +1113,14 @@ pRBC,Packed Red Blood Cells
 PROS,Psychiatric Review of Symptoms
 PRP,Penicillinase-Resistant Penicillin
 PRR,Pattern Recognition Receptors
+PRVC,Pressure-Regulated Volume-Control
+PS,Pressure Support
 PSA,Prostate Specific Antigen
 PSF,Posterior Spine Fusion
 PSG,Polysomnography
 PSH,Past Surgical History
 PSP,Penicillinase-Sensitive Penicillin
+PSV,Pressure Support Ventilation
 Pt,Patient
 PT,Physical Therapy
 PT,Posterior Tibial
@@ -1170,7 +1191,7 @@ ROS,Reactive Oxygen Species
 ROS,Review of Systems
 RPP,Respiratory Pathogen Panel
 RPR,Rapid Plasma Reagin
-RR,Respiration Rate
+RR,Respiratory Rate
 RRB,Restricted and Repetitive Behavior
 RRO,RANKL/RANK/OPG
 RRR,Regular Rate and Rhythm (heart rate)
@@ -1232,6 +1253,7 @@ SIB,Self-Injurous Behavior
 SIBO,Small Intestinal Bacterial Overgrowth
 SIG E CAPS,"Sleep, Interest, Guilt, Energy, Concentration, Appetite, Psychomotor, Suicide"
 SIJ,Sinding-Larson-Johansson syndrome
+SIMV,Synchronized Intermittent Mandatory Ventilation
 SLAP,Superior Labrum Anterior to Posterior
 SLE,Systemic Lupus Erythematosus
 SLK,Simultaneous Liver Kidney
@@ -1305,6 +1327,7 @@ T4,tetraiodothyronine (thyroxine)
 TA,Tibialis Anterior
 TAFRO,"Thrombocytopenia, Anasarca, Fever, Reticulin fibrosis and Organomegaly"
 TAG,Triacylglycerol
+TAPS,Twin Anemia Polycythemia Sequence
 TAPVR,Total Anomalous Pulmonary Venous Return
 TB,Tuberculosis
 TBG,Thyroid Binding Globulin
@@ -1329,6 +1352,7 @@ TGF,Transforming Growth Factor
 THAN,Transient HyperAmmonemia of the Newborn 
 TIBC,Total Iron Binding Capacity
 TID,Three times a day
+TIVA,Total IntraVenous Anesthesia
 TK,Tachykinin
 TKO,To Keep Open
 TLC,Total Lung Capacity
@@ -1344,6 +1368,7 @@ TORCH,"Toxoplasma, Other pathogens, Rubella, Cytomegalovirus, Herpes simplex vir
 TP,Threshold Potential
 TPN,Total Parenteral Nutrition
 TPO,Thyroid Peroxidase
+TPPA,Treponema Pallidum Particle Agglutination
 TPR,Total Peripheral Resistance
 TRAGI,Transfusion-Related Acute Gut Injury
 TRALI,Transfusion-Related Acute Lung Injury
@@ -1356,6 +1381,7 @@ TTE,Transthoracic Echo
 TTG,Tissue Transglutaminase
 TTP,Tender To Palpation
 TTP,Thrombotic Thrombocytopenic Purpura
+TTTS,Twin-to-Twin Transfusion Syndrome
 TUG,Timed Get Up & Go Test
 TURP,Transurethral Resection of the Prostate
 Tx,Treatment
@@ -1387,7 +1413,9 @@ VAS,Visual Analogue Scale
 VATS,Video-Assisted ThoracoScopy
 VBG,Venous Blood Gas
 VC,Vital Capacity
+VC-AF,Volume Control AutoFlow
 VCUG,Vesicourethrogram
+VCV,Volume Control Ventilation
 VDRL,Venereal Disease Research Laboratory
 VDRO,Varus DeRotation Osteotomy
 vEDS,vascular Ehlers-Danlos Syndrome (aka EDS Type IV)
@@ -1399,6 +1427,7 @@ VFC,Vaccines for Children
 VFib,Ventricular Fibrillation
 VFSS,Video Fluoroscopic Swallow Study
 VHD,Valvular Heart Disease
+VIM,Verona integron-encoded metallo-Beta-lactamase
 VIP,Vasoactive Intestinal Peptide
 VIS,Vaccine Information Statement
 VLBW,Very Low Birth Weight
