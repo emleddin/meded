@@ -23,6 +23,9 @@ This page contains SVG diagrams I have made.
 # Osteoclasts
 <img src="images/digital-osteoclasts.svg" alt="Osteoclast diagram"/>
 
+# Ventilator Modes
+<img src="images/Vent-Modes.svg" alt="Ventilator Modes, Pressure Control and Volume Control"/>
+
 # NICU Feed Math
 
 <object class="pdf" 

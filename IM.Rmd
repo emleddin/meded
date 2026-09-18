@@ -6,6 +6,9 @@ output:
     toc_float: true
 ---
 
+- [Teach IM](https://teachim.org/)
+  - [Ventilators on the Fly](https://teachim.org/teaching_material/ventilators-on-the-fly/)
+
 # Common MDCalc Calculators/Tools
 
 - [TIMI Risk Score for UA/NSTEMI](https://www.mdcalc.com/calc/111/timi-risk-score-ua-nstemi)
