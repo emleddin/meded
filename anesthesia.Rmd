@@ -14,6 +14,12 @@ output:
 
 - [Stanford Emergency Manual](https://emergencymanual.stanford.edu/english-manual/)
 
+- [Neonatal Resuscitation Program NeoLog (Code Documentation)](https://cps.ca/uploads/nrp/NRP_8th_ed_ITK_NeoLog.pdf)
+
+- [PALS Code Timer/Recorder Sheet](https://trainingforlife.org/wp-content/uploads/2026/02/PALS-IR-Code-Timer-Recorder-Sheet-PDF.pdf)
+
+- [ACLS Code Timer/Recorder Sheet](https://cpr.heart.org/-/media/cpr2-files/course-materials/2020-acls/2020-acls-course-materials/acls-code-timer_recorder-sheet_ucm_506693.pdf?la=en)
+
 # General
 
 - [ASA Guidelines](https://www.asahq.org/standards-and-practice-parameters)
