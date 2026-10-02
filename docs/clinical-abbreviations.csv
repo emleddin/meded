@@ -88,6 +88,7 @@ APP,Assume Pain Present
 APRV,Airway Pressure Release Ventilation
 AR,Antibiotic Resistance
 ARA,Arachidonic acid
+ARAS,Ascending Reticular Activating System
 ARB,Angiotensin Receptor Blocker
 ARDS,Acute Respiratory Distress Syndrome
 ARF,Acute Renal Failure
@@ -106,6 +107,7 @@ ASL,American Sign Language
 ASM,Anti-Seizure Medication
 ASPEN,American Society for Parenteral and Enteral Nutrition
 ASQ,Ages and Stages Questionnaire
+ASSR,Auditory Steady State Response
 AST,Aspartate Aminotransferase
 AT,Ataxia Telangiectasia
 AT III,Antithrombin III
@@ -158,6 +160,7 @@ BPD,Borderline Personality Disorder
 BPD,BronchoPulmonary Dysplasia
 BPEWS,Bedside Pediatric Early Warning Signs
 BPH,Benign Prostatic Hyperplasia
+BPO,Benzoyl PerOxide
 BPPV,Benign Paroxysmal Positional Vertigo
 BRAT,"Bananas, Rice, Apple sauce and Toast (diet)"
 BRUE,Brief Resolved Unexplained Event
@@ -336,6 +339,7 @@ DDK,Dysdiadochokinesia
 DDx,Differential Diagnosis
 DESD,Detrusor External Sphincter Dyssynergia
 DEXA,Dual-Energy X-ray Absorptiometry
+DFA,Direct Immunofluorescence Assay
 DHA,DocosaHexaenoic Acid
 DHAP,Dihydroxyacetone Phosphate
 DHT,Dihydrotestosterone
@@ -348,6 +352,7 @@ DILI,Drug-Induced Liver Injury
 DIP,Desquamative Interstitial Pneumonia
 DIP,Distal Interphalangeal joint
 DIPG,Diffuse Intrinsic Pontine Glioma
+DIVA,Difficult IntraVenous Access
 DIT,diiodothyronine
 DKA,Diabetic KetoAcidosis
 DLBCL,Diffuse Large B-Cell Lymphoma
@@ -510,6 +515,7 @@ FPG,Fasting Plasma Glucose
 FPIES,Food Protein-Induced Enterocolitis Syndrome
 FPS,Faces Pain Scale
 FRC,Functional Reserve Capacity
+FSE,Fetal Scalp Electrode
 FSH,Follicular Stimulating Hormone
 FT,Full Term
 FVC,Forced Vital Capacity
@@ -599,6 +605,7 @@ hERG,human Ether-à-go-go-Related Gene
 HEVs,High Endothelial Venules
 HFA,HydroFluoroAlkane (for inhalers)
 HFE,Human Factors Engineering
+HFJV,High-Frequency Jet Ventilation
 HFNC,High-Flow Nasal Cannula
 HFOV,High-Frequency Oscillatory Ventilation
 HFP,Hepatic Function Panel
@@ -666,6 +673,7 @@ ICP,Intensive Care Pediatrics
 ICP,IntraCranial Pressure
 ICS,Inhaled Corticosteroid
 ICS,Intercostal Space
+ICSC,Infant Car Seat Challenge
 ICU,Intensive Care Unit
 ID,Infectious Disease
 IDDM,Insulin Dependent Diabetes Mellitus
@@ -757,14 +765,17 @@ LGG,Lactobacillus rhamnosus GG
 LGIT,Low Glycemic Index Diet
 LGV,Lymphogranuloma Venereum
 LH,Luteinizing Hormone
+LISA,Less Invasive Surfactant Administration
 LM,Light Microscopy
 LMA,Laryngeal Mask Airway
 LMP,Last Menstrual Period
 LMW,Low-Molecular Weight (heparin)
 LNG,Levonorgestrel
 LOC,Loss Of Consciousness
+LOF,Leakage Of Fluid
 LOPS,Loss of Protective Sensation
 LOS,Length Of Stay
+LPDs,Lateralized Periodic Discharges
 LPL,Lymphoplasmacytic Lymphoma
 LPM,Liters Per Minute
 LQTS,Long QT Syndrome
@@ -841,6 +852,7 @@ mIVF,Maintenance IV Fluids
 mkd,mL/kg/day
 MLF,Medial Longitudinal Fasciculus
 MLPA,Multiplex Ligation-dependent Probe Amplification
+MMC,MeningoMyeloCele
 MME,Morphine Milligram Equivalent
 MMF,Mycophenolate Mofetil
 MMM,Moist Mucus Membranes
@@ -856,6 +868,7 @@ mPAS,modified Pediatric Appendicitis Score
 MPH,Mid-Parental Height
 MPO,myeloperoxidase
 MPV,Mean Platelet Volume
+MRBP,Moderate Range Blood Pressure
 MRG,"Murmurs, Rubs, or Gallops"
 MRI,Magnetic Resonance Imaging
 MRN,Medical Record Number 
@@ -1100,6 +1113,7 @@ PKG,Protein Kinase G
 PLA2,Phospholipase A2
 PLC,Phospholipase C
 PLADO,Cisplatin/Doxorubicin
+PLEDs,"Periodic Lateralized Epileptiform Discharges (now LPDs, lateralized periodic discharges)"
 PLEX,PLasma EXchange
 PLT,Platelets
 PMA,Post-Menstrual Age
@@ -1137,6 +1151,8 @@ PPHN,Persistent Pulmonary Hypertension of the Newborn
 PPI,Proton-Pump Inhibitor
 PPN,Peripheral Parenteral Nutrition
 PPQRST,"Provocative factors, Palliative factors, Quality, Radiation, Severity, Timing"
+PPPreE,Post-Partum Pre-Eclampsia
+ppx,Prophylaxis
 PR3,Proteinase 3
 PRES,Posterior Reversible Encephalopathy Syndrome
 PRG,Posterior Root Ganglion
@@ -1174,6 +1190,7 @@ PUD,Peptic Ulcer Disease
 PUV,Posterior Urethral Valves
 PVB,Premature Ventricular Beats
 PVC,Premature Ventricular Contractions
+PVG,Portal Venous Gas
 PVHI,PeriVentricular Hemorrhagic Infarct
 PVL,PeriVentricular Leukomalacia
 PVR,Post-Void Residual volume
@@ -1182,6 +1199,7 @@ PVT,Polymorphic Ventricular Tachycardia
 PWS,Prader-Willi Syndrome
 Px,Patient
 PZ,Peripheral Zone
+PZA,Pyrazinamide
 q12,every 12 hours
 qbMRI,quick brain Magnetic Resonance Imaging
 qid,Quater In Die (4 times per day)
@@ -1241,6 +1259,7 @@ RTA,Renal Tubular Acidosis
 RTC,Return To Clinic
 RTF,Ready-To-Feed
 RTL,Run The List
+RTS,Ready To See
 RUPV,Right Upper Pulmonary Vein
 RV,Residual Volume
 RV,Respiratory Volume
@@ -1340,6 +1359,7 @@ STEMI,ST Elevation Myocardial Infarction
 STG,Short-Term Goal
 STI,Sexually Transmitted Infection
 STIR,Short-TI Inversion Recovery (MRI)
+STS,Skin-To-Skin
 SubQ,Subcutaneous
 SUD,Substance Use Disorder
 SUDEP,Sudden Unexplained Death in EPilepsy
@@ -1435,6 +1455,7 @@ UFH,UnFractionated Heparin
 UIP,Usual Interstitial Pneumonia
 ULN,Upper Limit of Normal
 UOA,Urine Organic Acids
+UPC,Urine Protein to Creatinine
 UPD,Uniparental Disomy
 UPEP,Urine Protein Electrophoresis
 UPJ,UreteroPelvic Junction
