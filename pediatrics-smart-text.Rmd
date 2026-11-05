@@ -58,6 +58,7 @@ Feeding
 - No honey or cow's milk until 1 year
 - If using formula, mix one leveled-off scoop of formula to every 2 oz of water
 - For babies only recieving breast milk, supplement with Poly-Vi-Sol daily
+- Breastfeeding: Feed every 1 to 3 hours during the day and every 3 hours during the night for 8 to 12 feedings per day. Give baby vitamin D daily (400 IU per day).
 
 Smoking
 - Smoking around babies and young children can lead to more frequent illnesses, asthma, and sudden infant death syndrome (SIDS)
@@ -66,8 +67,10 @@ Smoking
 
 ## 1 Month
 
+### HPI
+
 ```
-@NAME@ is a @AGE@ presenting today for 1 month well-child visit.
+@NAME@ is a @AGE@ presenting today for a 1 month well-child visit.
 
 - Feeding
   - Type: [Breast/Bottle/Both]
@@ -76,16 +79,78 @@ Smoking
 - Sleeping
 - Elimination
 
-
+- Development
+  - Social
+    - Looks at parent
+    - Looks at objects
+  - Verbal
+    - Makes brief, short vowel sounds
+    - Startles to unexpected sounds
+    - Different cries for hunger and tiredness
+  - Gross Motor
+    - Moves both arms and legs together
+    - Holds chin up while on stomach
+  - Fine Motor
+    - Opens fingers slightly at rest
 ```
-
-### HPI
 
 ### Anticipatory Guidance
 
+
+
 ## 2 Months
 
+### HPI
+```
+@NAME@ is a @AGE@ presenting today for a 2 month well-child visit.
+
+- Feeding
+  - Type: [Breast/Bottle/Both]
+  - Amount:
+  - Frequency: 
+- Sleeping
+- Elimination
+
+- Development
+  - Social
+    - Smiles responsively
+  - Verbal
+    - Makes short coong sounds
+  - Gross Motor
+    - Lifts head and chest when on stomach
+    - Keeps head steady when held in a sitting position
+  - Fine Motor
+    - Opens and shuts hands; brings hands together
+```
+
+
 ## 4 Months
+
+### HPI
+```
+@NAME@ is a @AGE@ presenting today for a 4 month well-child visit.
+
+- Feeding
+  - Type: [Breast/Bottle/Both]
+  - Amount:
+  - Frequency: 
+- Sleeping
+- Elimination
+
+- Development
+  - Social
+    - Laughs
+    - Looks for caregiver when upset
+  - Verbal
+    - Turns to voices
+    - Makes cooing sounds
+  - Gross Motor
+    - Supports self on elbows and wrists when on stomach
+    - Rolls from stomach to back
+  - Fine Motor
+    - Keeps hands unfisted
+    - Grasps objects
+```
 
 ### Anticipatory Guidance
 
@@ -97,11 +162,122 @@ Feeding
 
 ## 6 Months
 
+```
+@NAME@ is a @AGE@ presenting today for a 6 month well-child visit.
+
+- Feeding
+  - Type: [Breast/Bottle/Both]
+  - Amount:
+  - Frequency: 
+  - Solids:
+- Sleeping
+- Elimination
+
+- Development
+  - Social
+    - Pats or smiles at own reflection
+    - Looks when name is called
+  - Verbal
+    - Babbles, makes sounds like "ga", "ma", or "ba"
+  - Gross Motor
+    - Rolls from back to stomach
+    - Sits briefly without support
+  - Fine Motor
+    - Passes a toy between their hands
+    - Rakes small objects with 4 fingers
+    - Bangs small objects on a surface
+```
+
 ## 9 Months
+
+### HPI
+```
+@NAME@ is a @AGE@ presenting today for a 9 month well-child visit.
+
+- Feeding
+  - Type: [Breast/Bottle/Both]
+  - Amount:
+  - Frequency: 
+  - Solids:
+- Sleeping
+- Elimination
+
+- Development
+  - Social
+    - Uses basic gestures (e.g., waving bye bye, holding arms out to be picked up)
+    - Looks for dropped objects
+    - Plays games like peekaboo or pat-a-cake
+    - Turns consistently when their name is called
+  - Verbal
+    - Says "Dada" or "Mama" non-specifically
+    - Looks around when asked things like "Where's your bottle?"
+    - Copies sounds that parent makes
+  - Gross Motor
+    - Sits well without support
+    - Pulls to stand; transitions well between sitting and lying
+    - Crawls on hands and knees
+  - Fine Motor
+    - Picks up food to eat
+    - Picks up small objects with 3 fingers and thumb
+    - Lets go of objects intentionally
+    - Bangs objects together
+```
 
 ## 12 Months (1 Year)
 
+### HPI
+```
+@NAME@ is a @AGE@ presenting today for a 12 month well-child visit.
+
+- Feeding
+- Sleeping
+- Elimination
+
+- Development
+  - Social
+    - Looks for hidden objects
+    - Imitates new gestures
+  - Verbal
+    - Says "Dada" or "Mama" specifically
+    - Uses 1 word other than personal names (e.g., no)
+    - Follows directions with gestures, such as motioning and saying, "Give me [object]."
+  - Gross Motor
+    - Takes first independent steps
+    - Stands without support
+  - Fine Motor
+    - Drops and object in a cup
+    - Picks up small object with 2-finger pincer grasp
+    - Picks up food to eat
+```
+
 ## 15 Months
+
+### HPI
+```
+@NAME@ is a @AGE@ presenting today for a 15 month well-child visit.
+
+- Feeding
+- Sleeping
+- Elimination
+
+- Development
+  - Social
+    - Imitates scribbling
+    - Drinks from cup with little spilling
+    - Points to ask for something, get help
+    - Looks around after hearing things like "Where's your ball?" or "Where's your blanket?"
+  - Verbal
+    - Uses 3 words other than names
+    - Speaks in sounds like an unknown language
+    - Follows directions that do not include a gesture
+  - Gross Motor
+    - Squats to pick up objects
+    - Crawls up a few steps
+    - Runs
+  - Fine Motor
+    - Makes marks with crayon
+    - Drops object in, takes object out of container
+```
 
 ## 18 Months (1.5 Years)
 

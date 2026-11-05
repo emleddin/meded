@@ -60,6 +60,7 @@ AIIS,Anterior Inferior Iliac Spine
 AIS,Androgen Insensitivity Syndrome
 AITFL,Anterior Inferior Tibiofibular Ligament
 ALADP,delta-aminolevulinic dehydratase
+ALCAPA,Anomalous Left Coronary Artery from the Pulmonary Artery
 ALL,Acute Lymphoblastic Leukemia
 ALP,Alkaline Phosphatase
 ALS,Advanced Life Support
@@ -109,6 +110,7 @@ ASPEN,American Society for Parenteral and Enteral Nutrition
 ASQ,Ages and Stages Questionnaire
 ASSR,Auditory Steady State Response
 AST,Aspartate Aminotransferase
+ASVAST,Adolescent Sexual Violence/Abuse Screening Tool
 AT,Ataxia Telangiectasia
 AT III,Antithrombin III
 ATC,Around The Clock
@@ -129,8 +131,10 @@ AVS,After Visit Summary
 AVS,Aortic Valve Stenosis
 AWC,AirWay Clearance
 β-hCG,β-Human Chorionic Gonadotropin (beta)
+BAHA,Bone Anchored Hearing Aid
 BAL,BronchoAlveolar Lavage
 BBB,Blood-Brain Barrier
+BBD,Bowel and Bladder Dysfunction
 BCC,Basal Cell Carcinoma
 BCR,BulboCavernosus Responses
 BCx,Blood Culture
@@ -138,7 +142,9 @@ BDNF,Brain-Derived Neurotrophic Factor
 BED,Binge Eating Disorder
 BEP,Brief Eclectic Psychotherapy
 BESD,"Behavioral, Emotional, and Social Difficulties"
+BFCRS,Bush-Francis Catatonia Rating Scale
 BFP,Binocular Fixation Preference
+BHT,Behavioral Health Technician
 BIBA,Brought In By Ambulance
 bid,Bis In Die (twice a day)
 BIP,Behavior Intervention Plan
@@ -161,6 +167,7 @@ BPD,BronchoPulmonary Dysplasia
 BPEWS,Bedside Pediatric Early Warning Signs
 BPH,Benign Prostatic Hyperplasia
 BPO,Benzoyl PerOxide
+BPPE,Behavioral Personal Protective Equipment
 BPPV,Benign Paroxysmal Positional Vertigo
 BRAT,"Bananas, Rice, Apple sauce and Toast (diet)"
 BRUE,Brief Resolved Unexplained Event
@@ -169,8 +176,10 @@ BTT,Bilateral Tympanostomy Tubes
 BTX,Botulinum Toxin
 BUN,Blood Urea Nitrogen
 BUR,Back-Up Rate
+BVC,Brøset Violence Checklist
 BW,Birth Weight
 Bx,Biopsy
+BZD,Benzodiazepine
 c/b,caused by
 c/b,complicated by
 c/d/i,clean/dry/intact
@@ -180,6 +189,7 @@ c/s,consult
 c/w,consistent with
 cffDNA,Cell-Free Fetal DNA
 cx,cancel
+C-SSRS,Columbia-Suicide Severity Rating Scale
 C1-C7,Cervical vertebrae 1-7
 C5VD,"Cisplatin, 5-flourouracil, Vincristine, and Doxorubicin"
 CA,Corrected Age
@@ -203,6 +213,7 @@ CBT,Cognitive Behavioral Therapy
 CC,Chief Concern/Complaint
 CCB,Calcium Channel Blocker
 CCHD,Critical Congenital Heart Defects
+CCHS,Congenital Central Hypoventilation Syndrome
 CCK,Cholecystokinin
 CCU,Cardiac Care Unit
 CD,Cardiac Diet
@@ -217,6 +228,7 @@ CF,Cystic Fibrosis
 CFC,Cardiofacio-Cutaneous Syndrome
 CFL,CalcaneoFibular Ligament
 CFTR,Cystic Fibrosis Transmembrane conductance Regulator
+CFU,Colony Forming Units
 CGRP,Calcitonin Gene-Related Peptide
 CHARGE,"Coloboma and cranial nerve palsies, Heart defects, Atresia of the nasal choanae, Restricted growth and development, Genitourinary anomalies, Ear malformations and hearing loss"
 CHD,Congential Heart Disease
@@ -261,6 +273,7 @@ CP,Cerebral Palsy
 CP/CPPS,Chronic Prostatitis/Chronic Pelvic Pain Syndrome
 CPAM,Congenital Pulmonary Airway Malformation
 CPAP,Continuous Positive Airway Pressure
+CPG,Clinical Practice Guideline
 CPK,"Creatine Phosphokinase (same test as Creatine Kinase, CK)"
 CPOE,Computerized Provider Order Entry
 CPSP,Chronic Post-Surgical Pain
@@ -325,6 +338,7 @@ DASH,Dietary Approaches to Stopping Hypertension
 DAT,Direct Antiglobulin Test
 DBD,Donation after Brain Death
 DBP,Diastolic Blood Pressure
+DBS,Deep Brain Stimulator
 DBT,Dialectical Behavior Therapy
 DC,Dendritic Cell
 DC,Discharge
@@ -342,6 +356,7 @@ DEXA,Dual-Energy X-ray Absorptiometry
 DFA,Direct Immunofluorescence Assay
 DHA,DocosaHexaenoic Acid
 DHAP,Dihydroxyacetone Phosphate
+DHE,DiHydroErgotamine
 DHT,Dihydrotestosterone
 DI,Diabetes Insipidus
 DIC,Disseminated Intravascular Coagulation
@@ -349,6 +364,7 @@ DICT,"Dense, Irregular, Connective Tissue"
 DIEP,Deep Inferior Epigastric Perforator
 Diff,Differential
 DILI,Drug-Induced Liver Injury
+DILV,Double Inlet Left Ventricle
 DIP,Desquamative Interstitial Pneumonia
 DIP,Distal Interphalangeal joint
 DIPG,Diffuse Intrinsic Pontine Glioma
@@ -362,6 +378,7 @@ DLT,Dual Lumen Tube
 DM,Diabetes Mellitus
 DM,Donor Milk
 DMARDs,Disease-Modifying Antirheumatic Drugs
+DMDD,Disruptive Mood Dysregulation Disorder
 DME,Durable Medical Equipment
 DMPA,Depot Medroxyprogesterone Acetate
 DMSA,DiMercaptoSuccinic Acid (renal scan)
@@ -448,6 +465,7 @@ ENT,"Ear, Nose, and Throat (Otolaryngology)"
 EOM,ExtraOcular Movement
 EOS,Early-Onset Sepsis
 EOT,End of Therapy
+EPC,Epilepsia Partialis Continua
 EPDS,Edinburgh Postnatal/Postpartum Depression Scale
 EPEC,Enteropathogenic Escherichia coli
 Epi,Epidemiology
@@ -464,6 +482,7 @@ ERT,Extubation Readiness Trial
 ERV,Expiratory Reserve Volume
 ESBLs,Extended-spectrum Beta-lactamases
 ESCAPPM,"Enterobacter spp., Serratia spp., Citrobacter freundii, Hafnia spp., Acinetobacter spp., Proteus spp. (excluding P. mirabilis), Providencia spp., Morganella morganii"
+ESES,Electrographic Status Epilepticus during slow wave Sleep
 ESI,Emergency Severity Index
 ESR,Erythrocyte Sedimentation Rate
 ESRD,End-Stage Renal Disease
@@ -502,6 +521,7 @@ FH,Family History
 FHL,Flexor Hallicus Longus
 FHx,Family History
 FISH,Fluorescence in Situ Hybridization
+FIV,Forensic InterView
 FK506,Tacrolimus
 FL,Follicular Lymphoma
 FLACC,"Face, Legs, Activity, Cry, Consolability"
@@ -518,6 +538,7 @@ FRC,Functional Reserve Capacity
 FSE,Fetal Scalp Electrode
 FSH,Follicular Stimulating Hormone
 FT,Full Term
+FTN,Finger-To-Nose
 FVC,Forced Vital Capacity
 FWF,Free Water Flushes
 fx,fracture
@@ -567,6 +588,7 @@ GPB,Gram Positive Bacilli
 GPCRs,G Protein--Coupled Receptors
 GSW,Gun Shot Wound
 GT,Gastrostomy Tube
+GTC,Generalized Tonic-Clonic (seizure)
 GTP,Guanosine Triphosphate
 GU,Genitourinary
 GV,Growth Velocity
@@ -650,6 +672,7 @@ HSM,Hepatosplenomegaly
 HSV,Herpes Simplex Virus
 HTLV,Human T-cell Lymphotropic Virus
 HTN,Hypertension
+HTS,Heel-To-Shin
 HTS,HyperTonic Saline
 HUS,Head UltraSound
 HTx,Heart Transplant
@@ -709,8 +732,11 @@ IOB,Insulin On Board
 IOL,Interosseous Ligament
 IOP,IntraOcular Pressure
 IP3,Inositol Triphosphate
+IPAP,Inspiratory Positive Airway Pressure
 IPASS,"Illness severity, Patient summary, Action list, Situation awareness and contingency planning, Synthesis by reciever"
 IPF,Idiopathic Pulmonary Fibrosis
+IPG,Implantable Pulse Generator
+IPH,IntraParenchymal Hemorrhage
 IPLOC,InPatient Level of Care
 IPSP,Inhibitory Postsynaptic Potential
 IR,Immediate Release
@@ -753,6 +779,7 @@ LBL,Lymphoblastic Lymphoma/Leukemia
 LBW,Lean Body Weight
 LCA,Left Coronary Artery
 LCL,Lateral Collateral Ligament
+LCOS,Low Cardiac Output Syndrome
 LCPUFA,Long-Chain PolyUnsaturated Fatty Acids 
 LDH,Lactate Dehydrogenase
 LDL,Low-Density Lipoprotein
@@ -802,6 +829,7 @@ MA,Macula Adherens
 MAC,Minimum Alveolar Concentration
 MAC,Mycobacterium Avium Complex
 MACE,Malone Antegrade Continence Enema (appendicostomy)
+MAE,Moves All Extremities
 MAG3,Mercaptoacetyltriglycine (renal scan)
 MAHA,Microangiopathic Hemolytic Anemia
 MALT,Mucosal Associated Lymphoid Tissue
@@ -841,6 +869,7 @@ MGF,Maternal Grandfather
 MGM,Maternal Grandmother
 MH,Malignant Hyperthermia
 MHC,Major Histocompatibility Complex
+MI,Motivational Interviewing
 MI,Myocardial Infarction
 MIBG,Meta-IodoBenzylGuanidine
 MIC,Minimum Inhibatory Concentration
@@ -864,11 +893,13 @@ MOAS,Modified Overt Aggression Scale
 MODY,Maturity-Onset Diabetes in the Young
 MOC,Mother Of Child
 MOG,Myelin Oligodendrocyte Glycoprotein
+MONAC,Monitored Anesthesia Care
 mPAS,modified Pediatric Appendicitis Score
 MPH,Mid-Parental Height
 MPO,myeloperoxidase
 MPV,Mean Platelet Volume
 MRBP,Moderate Range Blood Pressure
+MRE,Magnetic Resonance Enterography
 MRG,"Murmurs, Rubs, or Gallops"
 MRI,Magnetic Resonance Imaging
 MRN,Medical Record Number 
@@ -877,6 +908,7 @@ MS,Morphine Sulfate
 MS,Multiple Sclerosis
 MS MAID,"Machine, Suction, Monitors, Airway, IV, Drugs"
 MSAF,Meconium-Stained Amniotic Fluid
+MSDL,MicroSuspension Direct Laryngoscopy
 MSE,Mental Status Examination
 MSH,Melanocyte Stimulating Hormone
 MSK,Musculoskeletal
@@ -887,6 +919,7 @@ MT,Microtubules
 MTX,Methotrexate
 MUAC,Mid Upper Arm Circumference
 MUDPILES,"Methanol, metformin; Uremia; Diabetic ketoacidosis; Paraldehyde, phenformin; Inborn error of metabolism, inorganic anions (Phosphate, sulfate), iron, isoniazid; Lactic acidemia; Ethanol, ethylene glycol; Salicylates, solvents, strychnine"
+MUPS,Medically Unexplained Physical Symptoms
 MV,Mitral Valve
 MVA,Motor Vehicle Accident
 MVC,Motor Vehicle Collision
@@ -931,11 +964,13 @@ NGTD,No Growth To Date
 NHANES,National Health and Nutrition Examination Survey
 NIBP,Non-Invasive Blood Pressure
 NICU,Neonatal Intensive Care Unit
+NIF,Negative Inspiratory Force
 NINJA,Nephrotoxic Injury Negated by Just in time Action
 NIPS,Neonatal Infant Pain Scale
 NIRS,Near Infrared Spectroscopy
 NKA,No Known Allergies
 NKDA,No Known Drug Allergies
+NKFA,No Known Food Allergies
 NKR,National Kidney Registry
 NKSS,Non-Keratinized Stratified Squamous
 NM,NeuroMuscular
@@ -959,6 +994,7 @@ NPi,Neurological Pupil index
 NPT3,Na+-Phosphate Cotransporter 3
 NRB,Non Re-Breather
 NRDI,Norepinephrine-Dopamine Reuptake Inhibitor
+NRGA,Normally Related Great Arteries
 NRS,Numerical Rating Scale
 NRTI,Nuceloside Reverse Transcriptase Inhibitor
 NSAID,Non-Steroidal Anti-Inflammatory Drugs
@@ -985,7 +1021,9 @@ OAP,Other Active Problems
 OATS,Osteochondral Autograft Transplantation System
 OCD,Obsessive-Compulsive Disorder
 OCD,OsteoChondritis Dissecans
+OCT,Optical Coherence Tomography
 ODS,Osmotic Demyelination Syndrome
+ODT,Orally Dissolving Tablet
 OEIS,"Omphalocele, Exstrophy, Imperforate anus, Spinal defect"
 OFC,Occipital Frontal Circumference
 OG,OroGastric (tube)
@@ -1040,13 +1078,17 @@ PANDAS,Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptoco
 PAO,PeriAcetabular Osteotomy
 Pap,Papanicolaou
 PAP,Positive Airway Pressure
+PAPA,"Pyogenic Arthritis, Pyoderma gangrenosum, and Acne"
 PAPVR,Partial Anomalous Pulmonary Venous Return
 PARDS,Pediatric Acute Respiratory Distress Syndrome
 PARF,Population Attributable Risk Fraction
 PAS,Periodic Acid-Schiff
-PCA,Patient-Controlled Analgesic
+PBE,Patient Behavioral Event
+PBF,Pulmonary Blood Flow
 PBPs,Penicillin Binding Proteins
+PCA,Patient-Controlled Analgesic
 PCC,Poison Control Center
+PCIT,Parent Child Interaction Training
 PCL,Posterior Cruciate Ligament
 PCNL,PerCutaneous NephroLithotomy
 PCOS,Polycystic Ovary Syndrome
@@ -1070,6 +1112,7 @@ PDHM,Pasteurized Donor Human Milk
 PDMP,Prescription Drug Management Program
 PDMP,Prescription Drug Monitoring Program
 PDN,Private Duty Nurse
+PDP,Pediatric Disease Panel
 PDW,Passive Death Wish
 PE,Physical Exam
 PE,Pulmonary Embolism
@@ -1113,6 +1156,7 @@ PKG,Protein Kinase G
 PLA2,Phospholipase A2
 PLC,Phospholipase C
 PLADO,Cisplatin/Doxorubicin
+PLE,Protein Losing Enteropathy
 PLEDs,"Periodic Lateralized Epileptiform Discharges (now LPDs, lateralized periodic discharges)"
 PLEX,PLasma EXchange
 PLT,Platelets
@@ -1125,6 +1169,7 @@ PMHx,Past Medical History
 PMI,Point of Maximum Impulse
 PML,Progressive Multifocal Leukoencephalopathy
 PMNs,PolyMorphonuclear Neutrophils
+PMT,Parent Management Training
 PNA,Pneumonia
 PNALD,Parenteral Nutrition-Associated Liver Disease
 PNCA,Parent/Nurse Controlled Analgesia
@@ -1147,6 +1192,7 @@ PPD,Pack Per Day (cigarettes)
 PPD,Postpartum Depression
 PPD,Purified Protein Derivative
 PPE,Personal Protective Equipment
+PPE,Preparticipation Physical Exam
 PPHN,Persistent Pulmonary Hypertension of the Newborn
 PPI,Proton-Pump Inhibitor
 PPN,Peripheral Parenteral Nutrition
@@ -1170,6 +1216,7 @@ PS,Pressure Support
 PSA,Prostate Specific Antigen
 PSF,Posterior Spine Fusion
 PSG,Polysomnography
+PSH,Paroxysmal Sympathetic Hyperactivity
 PSH,Past Surgical History
 PSP,Penicillinase-Sensitive Penicillin
 PSV,Pressure Support Ventilation
@@ -1179,6 +1226,7 @@ PT,Posterior Tibial
 PT,Prothrombin Time
 PTA,Prior to Admission
 PTA,Prior To Arrival
+PTCL,Peripheral T-Cell Lymphoma
 PTD,Prior To Discharge
 PTFL,Posterior Tibiofibular Ligament
 PTH,Parathyroid Hormone
@@ -1234,6 +1282,7 @@ RER,Rough Endoplasmic Reticulum
 Retic.,Reticulocyte Count
 RF,Renal Failure
 RF,Rheumatoid Factor
+RFA,RadioFrequency Ablation
 RIME,Reactive Infectious Mucocutaneous Eruption
 RLD,Restrictive Lung Diseases
 RMP,Resting Membrane Potential
@@ -1288,6 +1337,7 @@ SCD,Sickle Cell Disease
 SCD,Sudden Cardiac Death
 SCFE,Slipped Capital Femoral Epiphysis
 SCID,Severe Combined Immunodeficiency
+SCIG,SubCutaneous ImmunoGlobulin
 SCOFF,"Sick, Control, One, Fat, Food"
 SCT,SacroCoccygeal Teratoma 
 SCT,Stem Cell Transplant
@@ -1344,6 +1394,7 @@ SPICE,"Serratia, Providencia, Indole-positive Proteus (e.g. Proteus vulgaris, bu
 SPLATT,Split Tibialis Anterior Tendon Transfer
 SPOTT,Split POsterior Tibial Tendon transfer
 SR,Sarcoplasmic Reticulum
+SRB,Suction Rectal Biopsy
 SROM,Spontaneous Rupture of Membrane
 SSC,Similac Special Care
 SSE,Simple Stratified Epithelium
@@ -1373,6 +1424,8 @@ SVR,Systemic Vascular Resistance
 SVT,Supraventricular Tachycardia
 SVW,Singh-Vaughan-Williams
 SW,Social Work
+SWL,Shock Wave Lithotripsy
+SXN,Suction
 sz,seizure
 t/c,to consider
 T1-T12,Thoracic vertebrae 1-12
@@ -1482,6 +1535,7 @@ VDRL,Venereal Disease Research Laboratory
 VDRO,Varus DeRotation Osteotomy
 vEDS,vascular Ehlers-Danlos Syndrome (aka EDS Type IV)
 VEGF,Vascular Endothelial Growth Factor
+VEO,Very Early Onset
 VEP,Visual Evoked Potential
 VEPTR,Vertical Expandable Prosthetic Titanium Rib
 VF,Ventricular Fibrillation
@@ -1528,6 +1582,7 @@ WIC,"Women, Infants, and Children"
 WN/WD,Well Nourished/Well Developed
 WNL,Within Normal Limits
 WPW,Wolff-Parkinson-White
+XLA,X-Linked Agammaglobulinemia
 XR,Extended Release
 XR,X-Ray
 XT,Exotropia

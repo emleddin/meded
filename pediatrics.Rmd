@@ -92,6 +92,8 @@ output:
 
 - [Perinatology](https://www.perinatology.com/index.html)
 
+- [Online supplement to the Boston Children's Hospital Cardiac ICU Handbook](https://bchcicu.org/)
+
 ## Antibiotics
 
 - [BugDrugDX](https://bugdrugdx.com/)
