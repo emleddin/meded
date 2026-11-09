@@ -53,6 +53,7 @@ AGMA,Anion Gap Metabolic Acidosis
 AHA,American Heart Association
 AHO,Albright Hereditary Osteodystrophy
 AHRF,Acute Hypoxic Respiratory Failure
+AHTR,Acute Hemolytic Transfusion Reaction
 AI,Adrenal Insufficiency
 AID,Automated Insulin Delivery
 AIDS,Acquired Immunodeficiency Syndrome
@@ -74,6 +75,7 @@ ANA,AntiNuclear Antibody
 ANC,Absolute Neutrophil Count
 ANCA,Anti-Neutrophil Cytoplasmic Antibody
 ANP,Atrial Natriuretic Peptide
+ANS,Ataxia Neuropathy Spectrum
 ANS,Autonomic Nervous System
 AOC,Ativan On Call
 AOCD,Anemia of Chronic Disease
@@ -139,6 +141,7 @@ BCC,Basal Cell Carcinoma
 BCR,BulboCavernosus Responses
 BCx,Blood Culture
 BDNF,Brain-Derived Neurotrophic Factor
+BECTS,Benign Rolandic Epilepsy with Centrotemporal Spikes
 BED,Binge Eating Disorder
 BEP,Brief Eclectic Psychotherapy
 BESD,"Behavioral, Emotional, and Social Difficulties"
@@ -301,6 +304,7 @@ CT,Computed Tomography
 CT,Connective Tissue
 CTAB,Clear To Auscultation Bilaterally
 CTD,Connective Tissue Disorder
+CTF,Continue To Follow
 CTL,Cytotoxic T-Lymphocyte
 CTLA-4,Cytotoxic T-Lymphocyte-Associated protein 4
 CTSIB,Clinical Test for Sensory Integration and Balance
@@ -390,6 +394,7 @@ DOA,Dead On Arrival
 DOAC,Direct Oral Anticoagulant
 DOE,Disease Oriented Evidence/outcome
 DOE,Dyspnea On Exertion
+DOI,Date Of Injury
 DOL,Day Of Life
 DORV,Double Outlet Right Ventricle
 DOT,Directly Observed Therapy
@@ -404,6 +409,7 @@ DQ,Developmental Quotient
 DR,Delayed Release
 DRE,Digital Rectal Exam
 DRG,Dorsal Root Ganglion (aka PRG)
+DSA,Diagnostic Cerebral Angiography
 DSD,Disorders of Sex Development
 DSM,Diagnostic and Statistical Manual of Mental Disorders
 DSM-5-TR,"Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision"
@@ -498,6 +504,7 @@ EVD,ExtraVentricular Drain
 EWS,Ewing Sarcoma
 f/t/h,found to have
 f/u,follow up
+F,Flexion
 FA,Fascia Adherens
 FABER,"Flexion, ABduction, External Rotation"
 FAO,Fatty Acid Oxidation
@@ -508,6 +515,7 @@ FCR,Flexor Carpi Radialis
 FCU,Flexor Carpi Ulnaris
 FDP,Flexor Digitorum Profundus
 FDS,Flexor Digitorum Superficialis
+FDWS,First Dorsal Web Space
 FEES,Flexible Endoscopic Swallow Study
 FEN,"Fluid, Electrolytes, Nutrition"
 FENa,Fractional Excretion of sodium
@@ -730,6 +738,7 @@ INR,International Normalized Ratio
 INSURE,INtubation-SUrfactant-Extubation
 IOB,Insulin On Board
 IOL,Interosseous Ligament
+IONM,IntraOperative Neurophysiologic Monitoring
 IOP,IntraOcular Pressure
 IP3,Inositol Triphosphate
 IPAP,Inspiratory Positive Airway Pressure
@@ -819,6 +828,7 @@ LTRA,Leukotriene Receptor Antagonist
 LV,Left Ventricle
 LVAD,Left Ventricular Assist Device
 LVH,Left Ventricular Hypertrophy
+LVO,Large Vessel Occlusion
 LVOTO,Left Ventricular Outflow Tract Obstruction
 KDIGO,Kidney Disease: Improving Global Outcomes
 M,Myelin sheath
@@ -860,6 +870,8 @@ MDRO,MultiDrug-Resistant Organism
 MDS,Meconium Drug Screen
 ME,Medical Examiner
 MELD,Model for End-Stage Liver Disease
+MEMSA,Myoclonic Epilepsy Myopathy Sensory Ataxia
+MEP,Motor Evoked Potentials
 MetS,Metabolic Syndrome
 MF,Muscle Fiber
 MFF,Mycophenolate Mofetil
@@ -874,6 +886,7 @@ MI,Myocardial Infarction
 MIBG,Meta-IodoBenzylGuanidine
 MIC,Minimum Inhibatory Concentration
 MICU,Medical Intensive Care Unit
+MIRAS,Mitochondrial Recessive Ataxia Syndrome
 MIS-C,Multisystem Inflammatory Syndrome in Children
 Mit,Mitochondria
 MIT,monoiodothyronine
@@ -1079,6 +1092,7 @@ PAO,PeriAcetabular Osteotomy
 Pap,Papanicolaou
 PAP,Positive Airway Pressure
 PAPA,"Pyogenic Arthritis, Pyoderma gangrenosum, and Acne"
+PAPT,Progressive Ataxia Palatal Tremor
 PAPVR,Partial Anomalous Pulmonary Venous Return
 PARDS,Pediatric Acute Respiratory Distress Syndrome
 PARF,Population Attributable Risk Fraction
@@ -1124,6 +1138,7 @@ PEEP,Positive End Expiratory Pressure
 PEERL,Pupils Equal and Equally Reactive to Light
 PEG,"Pain, Enjoyment, General activity"
 PEM,Pediatric Emergency Medicine
+PEO,Progressive External Ophthalmophegia
 PEP,Phosphoenolpyruvate
 PEP,Positive Expiratory Pressure
 PEP,Post-Exposure Prophylaxis
@@ -1326,6 +1341,7 @@ SAFE-T,Suicide Assessment Five-step Evaluation and Triage
 SAK,Sexual Assault Kit
 SAMA,Short-Acting Muscarinic Antagonist
 SAMPLE,"Signs/Symptoms, Allergies, Medications, Past medical history, Last oral intake, Events leading to the present illness/injury"
+SANDO,Sensory Ataxia Neuropathy Dysarthria and Ophthalmoplegia
 SANE,Sexual Assault Nurse Examiner
 SAP,Superior Articular Process
 SBAR,Situation Background Assessment Recommendation
@@ -1342,6 +1358,7 @@ SCOFF,"Sick, Control, One, Fat, Food"
 SCT,SacroCoccygeal Teratoma 
 SCT,Stem Cell Transplant
 SDM,Shared Decision Making
+SeLECTS,Self-Limited Epilepsy with Centrotemporal Spikes
 SEMLS,Single Event MuliLevel Surgery
 SER,Supination External Rotation
 SERCA,Sarcoplasmic-Endoplasmic Reticulum Ca-ATPase
@@ -1360,6 +1377,7 @@ SIB,Self-Injurous Behavior
 SIBO,Small Intestinal Bacterial Overgrowth
 SIG E CAPS,"Sleep, Interest, Guilt, Energy, Concentration, Appetite, Psychomotor, Suicide"
 SIJ,Sinding-Larson-Johansson syndrome
+SILT,Sensation Intact to Light Touch
 SIMV,Synchronized Intermittent Mandatory Ventilation
 SLAP,Superior Labrum Anterior to Posterior
 SLE,Systemic Lupus Erythematosus
@@ -1436,6 +1454,7 @@ T2DM,Type 2 Diabetes Mellitus
 T3,triiodothyronine
 T4,tetraiodothyronine (thyroxine)
 TA,Tibialis Anterior
+TACO,Transfusion-Associated Circulatory Overload
 TAFRO,"Thrombocytopenia, Anasarca, Fever, Reticulin fibrosis and Organomegaly"
 TAG,Triacylglycerol
 TAP,Transversus Abdominis Plane

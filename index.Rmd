@@ -194,3 +194,5 @@ If you made it here, I hope you find it useful.
 - [Basic Transthoracic Echocardiography (Cardiac Ultrasound) - TTE Made Simple | POCUS 101](https://www.youtube.com/watch?v=1E4NSR6yjMw)
 
 - [Ultrasound-Guided Paracentesis](https://www.youtube.com/watch?v=dUaCWK3qoHM)
+
+- [ECG Lead Positioning | LITFL](https://litfl.com/ecg-lead-positioning/)
