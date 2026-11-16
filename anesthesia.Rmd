@@ -64,6 +64,8 @@ output:
 
 - [VentSim](https://ventsim.cc/) (requires a Google account; interactive ventilator graphs)
 
+- [EVD Educational Toolkit](https://neuropeds1.github.io/evd-toolkit-web/index.html), [iOS](https://apps.apple.com/us/app/evd-educational-toolkit/id6815858473) and [Android](https://play.google.com/store/apps/details?id=edu.uw.be.medicine.anesthesiology.evd&hl=en-US)
+
 ## Devices
 
 - [How to Use a Manual Stretcher Stryker](https://youtu.be/kwuCFQwyKfc&t=133)

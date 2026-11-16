@@ -12,6 +12,8 @@ navbar:
         href: brand-generic.html
       - text: "Clinical Abbreviations and Acronyms"
         href: clinical-abbreviations.html
+      - text: "Try This Instead..."
+        href: try-this.html
     - text: "Pediatrics"
       menu:
       - text: "Pediatric Educational Resources"

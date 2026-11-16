@@ -51,6 +51,7 @@ AGA,Appropriate for Gestational Age
 AGEP,Acute Generalized Exanthematous Pustulosis
 AGMA,Anion Gap Metabolic Acidosis
 AHA,American Heart Association
+AHI,Apnea-Hypopnea Index
 AHO,Albright Hereditary Osteodystrophy
 AHRF,Acute Hypoxic Respiratory Failure
 AHTR,Acute Hemolytic Transfusion Reaction
@@ -192,6 +193,7 @@ c/s,consult
 c/w,consistent with
 cffDNA,Cell-Free Fetal DNA
 cx,cancel
+C:D,Cup-to-Disk ratio
 C-SSRS,Columbia-Suicide Severity Rating Scale
 C1-C7,Cervical vertebrae 1-7
 C5VD,"Cisplatin, 5-flourouracil, Vincristine, and Doxorubicin"
@@ -369,6 +371,7 @@ DIEP,Deep Inferior Epigastric Perforator
 Diff,Differential
 DILI,Drug-Induced Liver Injury
 DILV,Double Inlet Left Ventricle
+DIOS,Distal Intestinal Obstruction Syndrome
 DIP,Desquamative Interstitial Pneumonia
 DIP,Distal Interphalangeal joint
 DIPG,Diffuse Intrinsic Pontine Glioma
@@ -462,10 +465,12 @@ ELISA,Enzyme-Linked ImmunoSorbent Assay
 EM,Electron Microscopy
 EMDR,Eye-Movement Desensitization and Reprocessing
 EMG,Electromyography
+EMIT,Enzyme Multiplied Immunoassay Technique
 EMLA,Eutectic Mixture of Local Anesthetics (lidocaine and prilocaine)
 EMR,Electronic Medical Record
 EMT,Epithelial-to-Mesenchymal Transition
 EMTALA,Emergency Medical Treatment and Labor Act
+EMU,Epilepsy Monitoring Unit
 ENS,Enteric Nervous System
 ENT,"Ear, Nose, and Throat (Otolaryngology)"
 EOM,ExtraOcular Movement
@@ -500,7 +505,7 @@ ETEC,Enterotoxigenic Escherichia coli
 ETOH,Ethanol (alcohol)
 EUA,Exam Under Anesthesia
 EUS,External Urethral Sphincter
-EVD,ExtraVentricular Drain
+EVD,External Ventricular Drain
 EWS,Ewing Sarcoma
 f/t/h,found to have
 f/u,follow up
@@ -864,6 +869,7 @@ MCP,Metacarpophalangeal
 MCT,Medium Chain Triglycerides
 MCV,Mean Corpuscular Volume
 MDD,Major Depressive Disorder
+MDI,Medical Dental Integration
 MDI,Metered Dose Inhaler
 MDI,Multiple Daily Injections
 MDRO,MultiDrug-Resistant Organism
@@ -1042,6 +1048,7 @@ OFC,Occipital Frontal Circumference
 OG,OroGastric (tube)
 OGTT,Oral Glucose Tolerance Test
 OH,Orthostatic Hypotension
+OHCA,Out-of-Hospital Cardiac Arrest
 OHVIRA,Obstructed HemiVagina and Ipsilateral Renal Anomaly (aka Herlyn–Werner–Wunderlich syndrome)
 OI,Osteogenesis Imperfecta
 OI,Oxygenation Index
@@ -1097,6 +1104,7 @@ PAPVR,Partial Anomalous Pulmonary Venous Return
 PARDS,Pediatric Acute Respiratory Distress Syndrome
 PARF,Population Attributable Risk Fraction
 PAS,Periodic Acid-Schiff
+PB VNTR,Peripheral Blood Variable Number of Tandem Repeats
 PBE,Patient Behavioral Event
 PBF,Pulmonary Blood Flow
 PBPs,Penicillin Binding Proteins
@@ -1151,6 +1159,7 @@ PG,Prostaglandin
 PGE2,Prostaglandin E2
 PGF,Paternal Grandfather
 PGM,Paternal Grandmother
+PHB,Phenobarbital
 PHI,Protected Health Information
 PHP,Partial Hospitalization Program
 PHP,Pseudohypoparathyroidism
@@ -1241,6 +1250,7 @@ PT,Posterior Tibial
 PT,Prothrombin Time
 PTA,Prior to Admission
 PTA,Prior To Arrival
+PTC,Papillary Thyroid Carcinoma
 PTCL,Peripheral T-Cell Lymphoma
 PTD,Prior To Discharge
 PTFL,Posterior Tibiofibular Ligament
@@ -1316,6 +1326,7 @@ RRB,Restricted and Repetitive Behavior
 RRO,RANKL/RANK/OPG
 RRR,Regular Rate and Rhythm (heart rate)
 RRT,Registered Respiratory Therapist
+RSE,Refractory Status Epilepticus
 RST,Rapid Strep Test
 RSV,Respiratory Syncytial Virus
 RTA,Ready To Admit
@@ -1414,6 +1425,7 @@ SPOTT,Split POsterior Tibial Tendon transfer
 SR,Sarcoplasmic Reticulum
 SRB,Suction Rectal Biopsy
 SROM,Spontaneous Rupture of Membrane
+SRSE,Super Refractory Status Epilepticus
 SSC,Similac Special Care
 SSE,Simple Stratified Epithelium
 SSRI,Selective Serotonin Reuptake Inhibitor
@@ -1531,6 +1543,7 @@ UPC,Urine Protein to Creatinine
 UPD,Uniparental Disomy
 UPEP,Urine Protein Electrophoresis
 UPJ,UreteroPelvic Junction
+URFO,Unintented Retained Foreign Object
 UTA,Unable To Assess
 UTD,Up To Date
 UTI,Urinary Tract Infection
@@ -1577,6 +1590,7 @@ VNS,Vagus Nerve Stimulator
 VOE,Vaso-Occlusive Episode/Event
 VOR,Vestibuloocular Reflex
 VP,VenticuloPeritoneal (shunt)
+VPA,ValProic Acid
 VPL,Ventral Posterolateral
 VRE,Vancomycin Resistant Enterococcus
 VS,Vital Signs

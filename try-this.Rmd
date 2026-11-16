@@ -1,0 +1,85 @@
+---
+title: "Try This Instead..."
+---
+
+Many phrasings in medicine are not patient-centered.
+Try to remember that patients and their loved ones read medical documentation.
+Take a step back--how would you feel if you read a note you wrote if it was written about you?
+
+Some articles to consider:
+
+- Caton JB, Vanka A, Dougherty R. Things We Do for No Reason™: Routine use of "denies" and other stigmatizing language in medical documentation. *J Hosp Med*. 2025;20(6):623-627. doi: [10.1002/jhm.13527](https://doi.org/10.1002/jhm.13527)
+
+- Cox C, Fritz Z. Presenting complaint: use of language that disempowers patients. *BMJ*. 2022;377:e066720. Published 2022 Apr 27. doi: [10.1136/bmj-2021-066720](https://doi.org/10.1136/bmj-2021-066720)
+
+- Sykes DB, Nichols DN. There Is No Denying It, Our Medical Language Needs an Update. *J Grad Med Educ*. 2015;7(1):137-138. doi: [10.4300/JGME-D-14-00332.1](https://doi.org/10.4300/JGME-D-14-00332.1)
+
+- Monk R, Whitehouse AJO, Waddington H. The use of language in autism research. *Trends Neurosci*. 2022;45(11):791-793. doi: [10.1016/j.tins.2022.08.009](https://doi.org/10.1016/j.tins.2022.08.009)
+
+
+- Dickinson JK, Guzman SJ, Maryniuk MD, et al. The Use of Language in Diabetes Care and Education. *Diabetes Care*. 2017;40(12):1790-1799. doi: [10.2337/dci17-0041](https://doi.org/10.2337/dci17-0041)
+
+
+Language and Style Guides:
+
+- [Inclusive Language Guide | American Psychological Association](https://www.apa.org/about/apa/equity-diversity-inclusion/language-guide.pdf)
+
+- [Disability Language Style Guide | National Center on Disability and Journalism](https://ncdj.org/style-guide/)
+
+- [Advancing Health Equity: A Guide to Language, Narrative and Concepts | American Medical Association and AAMC Center for Health Justice](https://www.ama-assn.org/system/files/ama-aamc-equity-guide.pdf)
+
+- [NIH Style Guide](https://www.nih.gov/nih-style-guide)
+
+- [Preferred Terms for Select Population Groups & Communities | CDC](https://www.cdc.gov/healthcommunication/Preferred_Terms.html)
+
+- [When It Comes to Reducing Alcohol-Related Stigma, Words Matter | NIAAA](https://www.niaaa.nih.gov/alcohols-effects-health/reducing-alcohol-related-stigma)
+
+- [Words Matter - Terms to Use and Avoid When Talking About Addiction | NIDA](https://nida.nih.gov/nidamed-medical-health-professionals/health-professions-education/words-matter-terms-to-use-avoid-when-talking-about-addiction)
+
+- [Words Matter (Suicide Language Guide)](https://www.camh.ca/-/media/files/words-matter-suicide-language-guide.pdf)
+
+- [Inclusive Language for Reporting Demographic and Clinical Characteristics | JAMA Network](https://jamanetwork.com/pages/inclusive-language)
+
+- [GLAAD Media Reference Guide](https://glaad.org/reference)
+
+<br>
+
+```{r, include=FALSE}
+library(tidyverse)
+library(DT)
+
+#print("HI!")
+```
+
+```{r, echo=FALSE, message=FALSE}
+## Load CSV
+## Note: If you encounter issues with characters, try resaving the
+## CSV as a UTF-8 CSV. Excel... does not like interpreting as UTF-8
+## Find the bad UTF-8 lines
+# library("xfun")
+# read_utf8("clinical-abbreviations.csv")
+data <- read_csv("try-this.csv", comment = "#")
+
+## Need to keep 1st column when doing buttons so the CSV renders properly
+datatable(data,
+    rownames=FALSE,
+    escape = FALSE,
+## Search builder is helpful with 3+ columns
+#    extensions = c('Responsive', 'Buttons', 'SearchBuilder'), 
+   extensions = c('Responsive', 'Buttons'), 
+    options = list(
+    dom = 'QBfrtip',
+    pageLength = 20,
+    class = 'stripe',
+##    buttons = c('copy', 'csv', 'excel', 'pdf', 'print')),
+    buttons = list(
+      'copy', 'csv', 'excel',
+      list(extend = 'pdf', 
+           orientation = 'landscape',
+           exportoptions=list(pageSize='LEGAL'#,
+#           customize = JS("function(doc){doc.styles.tableHeader.color='purple';}")
+                )),
+      'print')
+))
+
+```
