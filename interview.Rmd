@@ -97,6 +97,7 @@ output:
 - How does your program support residents during difficult situations, like unexpected outcomes (e.g., intraoperative death)?
 - When do you typically find out what cases you'll be doing the next day (so you can plan your pre-ops)?
 - How do you obtain medications for cases? Case carts? Pyxis machines? Are there pharmacy breaks that complicate things?
+- Where does most teaching come from? Are attendings more likely to teach while you're pre-op-ing a case or lecture intra-op?
 
 ### Pediatrics
 - Can you touch on how scheduling works? Continuity clinic?
