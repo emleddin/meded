@@ -42,6 +42,8 @@ Language and Style Guides:
 
 - [GLAAD Media Reference Guide](https://glaad.org/reference)
 
+- [Preferred Language for Weight-Inclusive Conversations with Youth and Their Families | ADA](https://professional.diabetes.org/sites/default/files/media/preferred_language_for_weight.pdf)
+
 <br>
 
 ```{r, include=FALSE}

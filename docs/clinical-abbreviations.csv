@@ -13,6 +13,7 @@ ABC OMI,"Airway, Breathing, Circulation; Oxygen, Monitor, IV access"
 ABD,Abdomen
 ABD,"Apnea, Bradycardia, Desaturations"
 ABG,Arterial Blood Gas
+ABPA,Allergic BronchoPulmonary Aspergillosis
 ABPM,Ambulatory Blood Pressure Monitoring
 ABR,Autditory Brainstem Response
 AC,Before meals
@@ -54,6 +55,7 @@ AHA,American Heart Association
 AHI,Apnea-Hypopnea Index
 AHO,Albright Hereditary Osteodystrophy
 AHRF,Acute Hypoxic Respiratory Failure
+AHT,Abusive Head Trauma
 AHTR,Acute Hemolytic Transfusion Reaction
 AI,Adrenal Insufficiency
 AID,Automated Insulin Delivery
@@ -111,6 +113,7 @@ ASL,American Sign Language
 ASM,Anti-Seizure Medication
 ASPEN,American Society for Parenteral and Enteral Nutrition
 ASQ,Ages and Stages Questionnaire
+ASQ,Ask Suicide-Screening Questions
 ASSR,Auditory Steady State Response
 AST,Aspartate Aminotransferase
 ASVAST,Adolescent Sexual Violence/Abuse Screening Tool
@@ -182,6 +185,7 @@ BUN,Blood Urea Nitrogen
 BUR,Back-Up Rate
 BVC,Brøset Violence Checklist
 BW,Birth Weight
+BWX,BiteWing X-ray
 Bx,Biopsy
 BZD,Benzodiazepine
 c/b,caused by
@@ -402,11 +406,13 @@ DOL,Day Of Life
 DORV,Double Outlet Right Ventricle
 DOT,Directly Observed Therapy
 DP,Dorsalis Pedis
+DPI,Dry Powder Inhaler
 DPN,Deep Peroneal Nerve
 DPN,Diabetic Peripheral Neuropathy
 DPOA,Durable Power of Attorney
 DPOAE,Distortion-Product OtoAcoustic Emission
 DPP,Dipeptidyl Peptidase
+DPPT,Deep Pressure Proprioceptive Technique
 DPR,Direct Peritoneal Resuscitation
 DQ,Developmental Quotient
 DR,Delayed Release
@@ -697,6 +703,7 @@ IAA,Interrupted Aortic Arch
 IAEDF,Intermittent Absent End Diastolic Flow
 IAP,Inferior Articular Process
 IBD,Irritable Bowel Disease
+IBH,Integrated Behavioral Health
 IBS,Irritable Bowel Syndrome
 IBW,Ideal Body Weight
 IC,Inspiratory Capacity
@@ -1199,6 +1206,7 @@ PNALD,Parenteral Nutrition-Associated Liver Disease
 PNCA,Parent/Nurse Controlled Analgesia
 PND,Paroxysmal Nocturnal Dyspnea
 PNDM,Permanent Neonatal Diabetes Mellitus
+PNDS,Perioperative Nursing Data Set
 PNES,Psychogenic Non-Epileptic Seizures (functional seizures)
 PNMT,phenylethanolamine N-methyltransferase
 PNS,Peripheral Nervous System
@@ -1210,6 +1218,7 @@ POD,Post-Operative Day
 POE,Patient Oriented Evidence/outcome
 POMC,Pro-opiomelanocortin
 PONV,Post-Operative Nausea and Vomiting
+POPE,PostObstructive Pulmonary Edema
 POTS,Postural Orthostatic Tachycardia Syndrome
 PPAR-γ,Peroxisome Proliferator-Activated Receptor-Gamma
 PPD,Pack Per Day (cigarettes)
@@ -1232,6 +1241,7 @@ PRL,Prolactin
 PROS,Paediatric Radiation Oncology Society
 prn,Pro Re Nata (as needed)
 pRBC,Packed Red Blood Cells
+PROMIS,Patient-Reported Outcomes Measurement Information System
 PROS,Psychiatric Review of Symptoms
 PRP,Penicillinase-Resistant Penicillin
 PRR,Pattern Recognition Receptors
@@ -1261,6 +1271,7 @@ PTSD,Post-Traumatic Stress Disorder
 PTT,Partial Thromboplastin Time
 PUD,Peptic Ulcer Disease
 PUV,Posterior Urethral Valves
+PURPLE,"Peak of crying, Unexpected, Resists soothing, Pain-like face, Long lasting, Evening"
 PVB,Premature Ventricular Beats
 PVC,Premature Ventricular Contractions
 PVG,Portal Venous Gas
@@ -1359,6 +1370,7 @@ SBAR,Situation Background Assessment Recommendation
 SBE,Subacute Bacterial Endocarditis
 SBI,Serious Bacterial Infection
 SBP,Systolic Blood Pressure
+SBS,Shaken Baby Syndrome (now AHT)
 SCAD,Short-chain acyl-CoA dehydrogenase
 SCD,Sickle Cell Disease
 SCD,Sudden Cardiac Death
@@ -1369,6 +1381,7 @@ SCOFF,"Sick, Control, One, Fat, Food"
 SCT,SacroCoccygeal Teratoma 
 SCT,Stem Cell Transplant
 SDM,Shared Decision Making
+SDF,Silver Diamine Fluoride
 SeLECTS,Self-Limited Epilepsy with Centrotemporal Spikes
 SEMLS,Single Event MuliLevel Surgery
 SER,Supination External Rotation

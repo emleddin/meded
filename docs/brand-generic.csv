@@ -6,6 +6,7 @@ Aldactazide,Spironolactone/Hydrochlorothiazide
 Aldactone,Spironolactone
 Aloxi,Palonosetron
 Alvesco,Ciclesonide
+Alyftrek,Vanzacaftor/Tezacaftor/Deutivacaftor
 Ambisome,Amphotericin B liposome
 Amicar,Aminocaproic acid
 Ancef,Cefazolin
@@ -19,6 +20,7 @@ Bactroban,Mupirocin
 Banzel,Rufinamide
 Benadryl,Diphenhydramine
 Betadine,Povidone-iodine
+Bexser,<i>Neisseria meningitidis</i> serogroup B vaccine
 Beyfortus,Nirsevimab (RSV immunization)
 Bicitra,Sodium Citrate/Citric Acid
 BiDil,Hydralazine/Isosorbide dinitrate
@@ -63,6 +65,7 @@ Ditropan,Oxybutynin
 Diuril,Chlorothiazide
 Dolophine,Methadone
 Domebro,Aluminum acetate
+DuAc,Clindamycin and Benzoyl peroxide
 DuoNeb,Albuterol/Ipratropium
 Dupixent,Dupilumab
 Effer-K,Potassium bicarbonate
@@ -129,7 +132,7 @@ Orapred,Prednisolone
 Pataday,Olopatadine
 Paxil,Paroxetine
 Pediarix,"diphtheria, hepatitis B, pertussis (acellular), polio, and tetanus vaccine"
-Pentacel,"DTaP, Polio, Haemophilus influenzae type b vaccine"
+Pentacel,"DTaP, Polio, <i>Haemophilus influenzae</i> type b vaccine"
 Peridex,Chlorhexidine (mouthwash)
 Phenergan,Promethazine
 Phytonadione,Vitamin K1
@@ -189,7 +192,7 @@ Uzedy,Risperidone
 Valium,Diazepam
 Valtoco,Intranasal Diazepam
 Valtrex,Valacyclovir (also spelled valaciclovir)
-Vaxelis,"DTaP, Polio, Haemophilus influenzae type b, Hepatitis B vaccine"
+Vaxelis,"DTaP, Polio, <i>Haemophilus influenzae</i> type b, Hepatitis B vaccine"
 Vaxneuvance,PCV15 pneumococcal vaccine
 Veetid,Penicillin V Potassium
 Venofer,Iron sucrose

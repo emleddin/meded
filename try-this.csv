@@ -7,12 +7,13 @@ Asthmatic,Patient with asthma
 Diabetics,Patients with diabetes
 They are diabetic,They have diabetes
 Diabetic neuropathy,Neuropathy secondary to diabetes
-Patient denies [symptom],Patient states no [symptom]
+Obese patient,Patient with obesity
+Obese people,People with larger bodies
+Morbidly obese,Unhealthy weight
+Exam: Obese,Exam: [central/truncal/peripheral] adiposity
+Patient denies [symptom],Patient states no [symptom] / Patient has no [symptom] / Patient has not experienced [symptom]
 Complaining of,Experiencing
 Pregnant women,Pregnant patients
-Patient is an alcoholic,Patient has a history of alcohol use disorder
-10 pack-year smoker,10 pack-year history of tobacco use
-Exam: Obese,Exam: [central/truncal/peripheral] adiposity
 Anatomical/biological men,Natal males
 Biological sex,Sex assigned at birth
 MTF,Trans feminine / Trans woman 
@@ -28,6 +29,8 @@ Child with autism,Autistic child
 Suffering from [condition],They have [condition] / They live with [condition]
 Addict,Person with a substance use disorder
 [They are] HIV positive,[They are] living with HIV
+Patient is an alcoholic,Patient has a history of alcohol use disorder
+10 pack-year smoker,10 pack-year history of tobacco use
 Drug abuser,Person who uses substances
 Junkie,Person in active use
 Alcoholic,Person with alcohol use disorder
@@ -35,12 +38,26 @@ Former addict,Person in recovery
 Dirty,Tested positive for
 Clean,Tested negative for
 Sickle Cell Crisis,Vaso-occlusive episode/event
-Failure to Thrive,Growth faltering
 Committed suicide,Died by suicide
 Successful suicide,Died by suicide / fatal suicide attempt
 Completed suicide,Died by suicide / fatal suicide attempt
 Unsuccessful suicide,Survived a suicide attempt / suicide attempt survivor
 Failed suicide,Non-fatal suicide attempt
+Failure to Thrive,Growth faltering
 Diabetes Insipidus,Arginine Vasopressin (AVP) Deficiency
-Wegener's,Granulomatosis With Polyangiitis
+Nonalcoholic fatty liver disease (NAFLD),Metabolic dysfunction-associated steatotic liver disease (MASLD)
+Nonalcoholic steatohepatitis (NASH),Metabolic dysfunction–associated steatohepatitis (MASH)
+Polycystic ovary syndrome (PCOS),Polyendocrine metabolic ovarian syndrome (PMOS)
 G-Tube Dependence,G-Tube requirement
+Shaken Baby Syndrome,Abusive Head Trauma
+High-functioning autism,autism with low support needs / Level 1 autism
+Low-functioning autism,autism with high support needs / Level 3 autism
+Asperger's Syndrome,Autism Spectrum Disorder
+Reiter's Disease,Reactive arthritis
+Wegener's granulomatosis,Granulomatosis with polyangiitis
+Mongolian spot,Congenital dermal melanocytosis (CDM)
+Cretinism,Congenital iodine deficiency syndrome / congenital hypothyroidism
+Red man syndrome,Vancomycin infusion reaction
+Buffalo hump,Dorsocervical fat pad
+Dwarfism,Person with short stature / little person
+Moon facies,Facial swelling
