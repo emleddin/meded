@@ -44,6 +44,8 @@ Language and Style Guides:
 
 - [Preferred Language for Weight-Inclusive Conversations with Youth and Their Families | ADA](https://professional.diabetes.org/sites/default/files/media/preferred_language_for_weight.pdf)
 
+- [Using Person-Centered Language | CMS](https://www.cms.gov/files/document/ricresource-usingpersoncenteredlanguage-tipsheet.pdf)
+
 <br>
 
 ```{r, include=FALSE}

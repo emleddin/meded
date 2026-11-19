@@ -8,6 +8,7 @@ AA,Age Appropriate
 AAC,Augmentative and Alternative Communication
 AAL,Anterior Axillary Line
 AAP,American Academy of Pediatrics
+AAT,Alpha-1 AntiTrypsin
 ABA,Applied Behavioral Analysis
 ABC OMI,"Airway, Breathing, Circulation; Oxygen, Monitor, IV access"
 ABD,Abdomen
@@ -16,6 +17,9 @@ ABG,Arterial Blood Gas
 ABPA,Allergic BronchoPulmonary Aspergillosis
 ABPM,Ambulatory Blood Pressure Monitoring
 ABR,Autditory Brainstem Response
+ABVD,"Adriamycin (doxorubicin hydrochloride), Bleomycin sulfate, Vinblastine sulfate, and Dacarbazine"
+ABVE,"Adriamycin (doxorubicin hydrochloride), Bleomycin sulfate, Vincristine sulfate, and Etoposide"
+ABVE-PC,"Adriamycin (doxorubicin hydrochloride), Bleomycin sulfate, Vincristine sulfate, Etoposide, Prednisone, and Cyclophosphamide"
 AC,Before meals
 AC,Assist Control ventilation
 ACA,Affordable Care Act
@@ -30,11 +34,15 @@ ACPA,Anti-Citrullinated Peptide Antibody
 ACS,Acute Chest Syndrome
 ACT,Alternate Cover Test
 ACTH,Adrenocorticotropic Hormone
+AD,Autonomic Dysreflexia
 ADAT,Advance Diet As Tolerated
+ADE,"Ara-C (cytarabine), Daunorubicin hydrochloride, and Etoposide phosphate"
 ADEM,Acute Disseminated Encephalomyelopathy
 ADEs,Adverse Drug Events
 ADH,Anti-Diuretic Hormone (also AVP)
+ADH,Atypical Ductal Hyperplasia
 ADHD,Attention Deficit Hyperactivity Disorder
+ADL,Activities of Daily Living
 ADOS,Autism Diagnostic Observation Schedule 
 ADR,Adverse Drug Reaction
 ADTKD,Autosomal Dominant Tubulointerstitial Kidney Disease
@@ -42,15 +50,20 @@ AE,Adverse Event
 AED,Anti-Epileptic Drug
 AED,Automated External Defibrillator
 AF,AFebrile
+AFAB,Assigned Female At Birth
+AFAP,Attenuated Familial Adenomatous Polyposis
 Afib,Atrial fibrillation
 AFB,Acid-Fast Bacilli
 AFO,Ankle-Foot Orthoses
 AFOSF,Anterior Fontanel Open Soft and Flat
+AFP,Alpha-FetoProtein
 AFSF,Anterior Fontanel Soft and Flat
 AFVSS,"AFebrile, Vital Signs Stable"
 AGA,Appropriate for Gestational Age
+AGC,Atypical Glandular Cells
 AGEP,Acute Generalized Exanthematous Pustulosis
 AGMA,Anion Gap Metabolic Acidosis
+AHA,Alpha Hydroxycarboxylic Acid
 AHA,American Heart Association
 AHI,Apnea-Hypopnea Index
 AHO,Albright Hereditary Osteodystrophy
@@ -61,18 +74,27 @@ AI,Adrenal Insufficiency
 AID,Automated Insulin Delivery
 AIDS,Acquired Immunodeficiency Syndrome
 AIIS,Anterior Inferior Iliac Spine
+AIS,Adenocarcinoma In Situ
 AIS,Androgen Insensitivity Syndrome
 AITFL,Anterior Inferior Tibiofibular Ligament
 ALADP,delta-aminolevulinic dehydratase
 ALCAPA,Anomalous Left Coronary Artery from the Pulmonary Artery
+ALCL,Anaplastic Large Cell Lymphoma
+ALH,Atypical Lobular Hyperplasia
+ALK,Anaplastic Lymphoma Kinase
 ALL,Acute Lymphoblastic Leukemia
 ALP,Alkaline Phosphatase
 ALS,Advanced Life Support
 ALS,Amyotrophic Lateral Sclerosis
 ALT,Alanine Aminotransferase
+ALTENS,Acupuncture-Like Transcutaneous Electrical Nerve Stimulation
 AKI,Acute Kidney Injury
 AMA,Advanced Maternal Age
 AMA,Against Medical Advice
+AMAB,Assigned Male At Birth
+AMD,Age-related Macular Degeneration
+AMH,Anti-Mullerian Hormone
+AML,Acute Myeloid Leukemia
 AMR,Antibody Mediated Rejection
 ANA,AntiNuclear Antibody
 ANC,Absolute Neutrophil Count
@@ -88,6 +110,7 @@ AOT,Assisted Outpatient Treatment
 AP,Anteroposterior (rays travel anterior to posterior)
 APGAR,"Activity, Pulse, Grimace, Appearance, Respiration"
 APLAS,Antiphospholipid Antibody Syndrome
+APN,Advanced Practice Nurse
 APNP,Assume Pain Not Present
 APP,Advanced Practice Provider
 APP,Assume Pain Present
@@ -112,6 +135,7 @@ ASIS,Anterior Superior Iliac Spine
 ASL,American Sign Language
 ASM,Anti-Seizure Medication
 ASPEN,American Society for Parenteral and Enteral Nutrition
+ASPS,Alveolar Soft Part Sarcoma
 ASQ,Ages and Stages Questionnaire
 ASQ,Ask Suicide-Screening Questions
 ASSR,Auditory Steady State Response
@@ -122,6 +146,7 @@ AT III,Antithrombin III
 ATC,Around The Clock
 ATFL,Anterior Tibiofibular Ligament
 ATP,Adenosine Triphosphate
+ATRA,All-Trans Retinoic Acid
 ATTEST,"Associated symptoms, Timing, Triggers, Examination Signs, and additional Testing"
 AUC,Area Under the Curve
 AV,Aortic Valve
@@ -198,6 +223,7 @@ c/w,consistent with
 cffDNA,Cell-Free Fetal DNA
 cx,cancel
 C:D,Cup-to-Disk ratio
+C-L,Consultation-Liaison
 C-SSRS,Columbia-Suicide Severity Rating Scale
 C1-C7,Cervical vertebrae 1-7
 C5VD,"Cisplatin, 5-flourouracil, Vincristine, and Doxorubicin"
@@ -211,6 +237,7 @@ Cap,Capillary
 CAP,Community-Acquired Pneumonia
 CAPA,Clinically Aligned Pain Assessment
 CAPD,Cornell Assessment of Pediatric Delirium
+CART,Chimeric Antigen Receptor T-cell
 CAST,Cardiac Arrhythmia Suppression Trial
 CAT,Cognitive Adaptive Test
 CBAVD,Congenital Bilateral Absence of the Vas Deferens
@@ -230,6 +257,7 @@ CD&I,"Clean, Dry, & Intact"
 CDC,Centers for Disease Control
 CDGP,Constitutional Delay of Growth and Puberty
 CDH,Congenital Diaphragmatic Hernia 
+CDK,Cyclin-Dependent Kinase
 CDS,Clinical Decision Support
 CDS,Croup Distress Score
 CEA,CarcinoEmbryonic Antigen
@@ -251,6 +279,7 @@ CIC,Clean Intermittent Catheterization
 CICO,Cannot Intubate Cannot Oxygenate
 CICU,Cardiac Intensive Care Unit
 CICV,Cannot Intubate Cannot Ventilate
+CIPA,Congenital Insensitivity to Pain and Anhidrosis
 CIS,Culture If Spikes (get a blood culture for fevers)
 CIT,Crisis Intervention Team
 CIWA,Clinical Instrument Withdrawal Assessment
@@ -310,6 +339,7 @@ CT,Computed Tomography
 CT,Connective Tissue
 CTAB,Clear To Auscultation Bilaterally
 CTD,Connective Tissue Disorder
+CTEPH,Chronic ThromboEmbolic Pulmonary Hypertension
 CTF,Continue To Follow
 CTL,Cytotoxic T-Lymphocyte
 CTLA-4,Cytotoxic T-Lymphocyte-Associated protein 4
@@ -525,6 +555,7 @@ FB,Foreign Body
 FCR,Flexor Carpi Radialis
 FCU,Flexor Carpi Ulnaris
 FDP,Flexor Digitorum Profundus
+FDG,FluoroDeoxyGlucose
 FDS,Flexor Digitorum Superficialis
 FDWS,First Dorsal Web Space
 FEES,Flexible Endoscopic Swallow Study
@@ -546,6 +577,7 @@ FL,Follicular Lymphoma
 FLACC,"Face, Legs, Activity, Cry, Consolability"
 FLD,Full Liquid Diet
 FMEA,Failure Modes and Effects Analysis
+FMF,Familial Mediterranean Fever
 FND,Focal Neuro Deficits
 FND,Functional Neurologic Disorder
 FNSD,Functional Neurological Symptom Disorder
@@ -558,6 +590,7 @@ FSE,Fetal Scalp Electrode
 FSH,Follicular Stimulating Hormone
 FT,Full Term
 FTN,Finger-To-Nose
+FUO,Fever of Unknown Origin
 FVC,Forced Vital Capacity
 FWF,Free Water Flushes
 fx,fracture
@@ -653,6 +686,7 @@ HFP,Hepatic Function Panel
 HFpEF,Heart Failure with preserved Ejection Fraction (diastolic heart failure)
 HFrEF,Heart Failure with reduced Ejection Fraction (systolic heart failure)
 HGB,Plasma Hemoglobin Concentration
+HGF,Hepatocyte Growth Factor
 HH,Hypogonadotropic Hypogonadism
 HHC,Home Health Care
 HHD,Hypertensive Heart Disease
@@ -700,6 +734,7 @@ iNAVA,Invasive Neurally Adjusted Ventilatory Assist
 I&D,Incision and Drainage
 I:E,Inspiratory to Expiratory
 IAA,Interrupted Aortic Arch
+IADL,Instrumental Activities of Daily Living
 IAEDF,Intermittent Absent End Diastolic Flow
 IAP,Inferior Articular Process
 IBD,Irritable Bowel Disease
@@ -733,6 +768,7 @@ IGF,Insulin Growth Factor
 IGR,Insulin to Glucagon Ratio
 IGT,Impaired Glucose Tolerance
 IHC,Immunohistochemistry
+IHCA,In-Hospital Cardiac Arrest
 IHD,Ischemic Heart Disease
 IIH,Idiopathic Intracranial Hypertension
 IM,IntraMuscular
@@ -807,6 +843,7 @@ LDL,Low-Density Lipoprotein
 LES,Lower Esophageal Sphincter
 LET,"Lidocaine, Epinephrine, and Tetracaine"
 LFB,Luxol Fast Blue
+LAFOV,Long Axial Field Of View
 LFT,Liver Function Test
 LGA,Large for Gestational Age
 LGG,Lactobacillus rhamnosus GG
@@ -828,6 +865,7 @@ LPL,Lymphoplasmacytic Lymphoma
 LPM,Liters Per Minute
 LQTS,Long QT Syndrome
 LR,Likelihood Ratio
+LRTD,Lower Respiratory Tract Disease
 LSB,Left Sternal Border
 LSC,Lung Sounds Clear
 LTAC,Long-Term Acute Care
@@ -1066,6 +1104,7 @@ OLV,One Lung Ventilation
 OM,Otitis Media
 OME,Otitis Media with Effusion
 OMI,Occlusive Myocardial Infarction
+OOB,Out-Of-Brace
 OPA,OroPharyngeal Airway
 OPCAB,Off-Pump Coronary Artery Bypass
 OPEP,Oscillatory Positive Expiratory Pressure
@@ -1093,11 +1132,14 @@ P,Probability
 p/w,presents with
 PA,Posteroanterior (rays travel posterior to anterior)
 PAB,Pronation Abduction
+PABA,Para-AminoBenzoic Acid
 PAC,Profile AcylCarnitine
+PACS,Picture Archiving and Communication System
 PACU,Post-Anesthesia Care Unit
 PAD,Peripheral Artery Disease
 PAG,Periaqueductal Grey region
 PAH,Para-aminohippurate
+PAH,Pulmonary Arterial Hypertension
 PAI,Plasminogen Activator Inhibitor
 PAL,Peripheral Arterial Line
 PAMPs,Pathogen Associated Molecular Patterns
@@ -1159,6 +1201,7 @@ PEP,Positive Expiratory Pressure
 PEP,Post-Exposure Prophylaxis
 PEPCK,Phosphoenolpyruvate carboxykinase 
 PER,Pronation External Rotation
+PET,Positron Emission Tomography
 PFA,Platelet Function Assay
 PFO,Patent Foramen Ovale
 PFT,Pulmonary Function Test
@@ -1319,6 +1362,7 @@ Retic.,Reticulocyte Count
 RF,Renal Failure
 RF,Rheumatoid Factor
 RFA,RadioFrequency Ablation
+RFCA,RadioFrequency Catheter Ablation
 RIME,Reactive Infectious Mucocutaneous Eruption
 RLD,Restrictive Lung Diseases
 RMP,Resting Membrane Potential
@@ -1354,6 +1398,7 @@ RVOT,Right Ventricle Outflow Tract
 RVP,Respiratory Viral Panel
 RVR,Rapid Ventricular Rate
 Rx,Prescription
+sGC,soluble Guanylyl Cyclase
 S1-S5,Sacral vertebrae 1-5
 SA node,Sinoatrial node
 SABA,Short-Acting Beta-2 Agonist
@@ -1435,6 +1480,7 @@ SPEP,Serum Protein Electrophoresis
 SPICE,"Serratia, Providencia, Indole-positive Proteus (e.g. Proteus vulgaris, but not Proteus mirabilis), Citrobacter, Enterobacter cloacae"
 SPLATT,Split Tibialis Anterior Tendon Transfer
 SPOTT,Split POsterior Tibial Tendon transfer
+SQ,Subcutaneous
 SR,Sarcoplasmic Reticulum
 SRB,Suction Rectal Biopsy
 SROM,Spontaneous Rupture of Membrane
@@ -1509,6 +1555,7 @@ TGF,Transforming Growth Factor
 THAN,Transient HyperAmmonemia of the Newborn 
 TIBC,Total Iron Binding Capacity
 TID,Three times a day
+TIL,Tumor-Infiltrating Lymphocyte
 TIVA,Total IntraVenous Anesthesia
 TK,Tachykinin
 TKO,To Keep Open
@@ -1563,6 +1610,7 @@ UTI,Urinary Tract Infection
 UVC,Umbilical Venous Catheter
 V/Q,alveolar Ventilation/perfusion
 VA,VentriculoAtrial (shunt)
+VA-ECMO,VenoArterial ExtraCorporeal Membrane Oxygenation
 VAC,"Vincristine, dActinomycin, Cyclophosphamide"
 VACTERL,"Vertebral anomalies, Anal atresia (imperforate anus), Cardiac defects, Tracheo-Esophageal fistula with esophageal fistula, Renal anomalies, Limb anomalies (radial dysplasia)"
 VAERS,Vaccine Adverse Event Reporting System
@@ -1618,6 +1666,7 @@ VUS,Variant of Unkown Significance
 VZV,Varicella Zoster Virus
 WAT,Wean As Tolerated
 WAT,Withdrawal Assessment Tool
+WB,Whole Body
 WBC,White Blood Cell Count
 WC,WheelChair
 WES,Whole Exome Sequencing
