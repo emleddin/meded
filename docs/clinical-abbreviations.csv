@@ -74,6 +74,7 @@ AI,Adrenal Insufficiency
 AID,Automated Insulin Delivery
 AIDS,Acquired Immunodeficiency Syndrome
 AIIS,Anterior Inferior Iliac Spine
+AIN,Acute Interstitial Nephritis
 AIS,Adenocarcinoma In Situ
 AIS,Androgen Insensitivity Syndrome
 AITFL,Anterior Inferior Tibiofibular Ligament
@@ -145,6 +146,7 @@ AT,Ataxia Telangiectasia
 AT III,Antithrombin III
 ATC,Around The Clock
 ATFL,Anterior Tibiofibular Ligament
+ATN,Acute Tubular Necrosis
 ATP,Adenosine Triphosphate
 ATRA,All-Trans Retinoic Acid
 ATTEST,"Associated symptoms, Timing, Triggers, Examination Signs, and additional Testing"
@@ -237,6 +239,7 @@ Cap,Capillary
 CAP,Community-Acquired Pneumonia
 CAPA,Clinically Aligned Pain Assessment
 CAPD,Cornell Assessment of Pediatric Delirium
+CARP,Confluent And Reticulated Papillomatosis
 CART,Chimeric Antigen Receptor T-cell
 CAST,Cardiac Arrhythmia Suppression Trial
 CAT,Cognitive Adaptive Test
@@ -334,6 +337,7 @@ CSnM,Central Steady not Maintained
 CSF,Cerebrospinal Fluid
 CSF,Colony-Stimulating Factor
 CSII,Cutaneous Subcutaneous Insulin Infusion
+CSTS,Car Seat Tolerance Screening
 CT,Chest Tube
 CT,Computed Tomography
 CT,Connective Tissue
@@ -354,6 +358,7 @@ CVAT,Costovertebral Angle Tenderness
 CVC,Central Venous Catheter
 CVD,Cardiovascular Disease
 CVI,Cerebral Visual Impairments
+CVICU,CardioVascular Intensive Care Unit
 CVID,Common Variable Immune Deficiency
 CVP,Central Venous Pressure
 CVS,Cardiovascular System
@@ -587,6 +592,7 @@ FPIES,Food Protein-Induced Enterocolitis Syndrome
 FPS,Faces Pain Scale
 FRC,Functional Reserve Capacity
 FSE,Fetal Scalp Electrode
+FSGS,Focal Segmental GlomeruloSclerosis
 FSH,Follicular Stimulating Hormone
 FT,Full Term
 FTN,Finger-To-Nose
@@ -730,6 +736,7 @@ HTS,HyperTonic Saline
 HUS,Head UltraSound
 HTx,Heart Transplant
 HVA,HomoVanillic Acid
+HVIPS,Hospital Violence-Based Intervention Program
 iNAVA,Invasive Neurally Adjusted Ventilatory Assist
 I&D,Incision and Drainage
 I:E,Inspiratory to Expiratory
@@ -1293,6 +1300,7 @@ PS,Pressure Support
 PSA,Prostate Specific Antigen
 PSF,Posterior Spine Fusion
 PSG,Polysomnography
+PSGN,Post-Streptococcal GlomeruloNephritis 
 PSH,Paroxysmal Sympathetic Hyperactivity
 PSH,Past Surgical History
 PSP,Penicillinase-Sensitive Penicillin
@@ -1374,6 +1382,7 @@ ROM,Rupture of Membrane
 ROP,Retinopathy of Prematurity
 ROS,Reactive Oxygen Species
 ROS,Review of Systems
+RPGN,Rapidly Progressive GlomeruloNephritis
 RPP,Respiratory Pathogen Panel
 RPR,Rapid Plasma Reagin
 RR,Respiratory Rate
@@ -1444,6 +1453,7 @@ SHx,Social History
 SIADH,Syndrome of Inappropriate AntiDiuretic Hormone secretion
 SIB,Self-Injurous Behavior
 SIBO,Small Intestinal Bacterial Overgrowth
+SICU,Surgical Intensive Care Unit
 SIG E CAPS,"Sleep, Interest, Guilt, Energy, Concentration, Appetite, Psychomotor, Suicide"
 SIJ,Sinding-Larson-Johansson syndrome
 SILT,Sensation Intact to Light Touch
@@ -1613,6 +1623,7 @@ VA,VentriculoAtrial (shunt)
 VA-ECMO,VenoArterial ExtraCorporeal Membrane Oxygenation
 VAC,"Vincristine, dActinomycin, Cyclophosphamide"
 VACTERL,"Vertebral anomalies, Anal atresia (imperforate anus), Cardiac defects, Tracheo-Esophageal fistula with esophageal fistula, Renal anomalies, Limb anomalies (radial dysplasia)"
+VAE,Venous Air Embolism
 VAERS,Vaccine Adverse Event Reporting System
 VAP,Ventilator-Associated Pneumonia
 VAVD,Vacuum-Assisted Vaginal Delivery
@@ -1674,6 +1685,7 @@ WGS,Whole Genome Sequencing
 WHO,World Health Organization
 WHO,Wrist Hand Orthosis
 WIC,"Women, Infants, and Children"
+WISQAR,Web-based Injury Statistics Query And Reporting System
 WN/WD,Well Nourished/Well Developed
 WNL,Within Normal Limits
 WPW,Wolff-Parkinson-White

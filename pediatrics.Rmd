@@ -274,6 +274,8 @@ output:
 - [PEWS Score](https://www.mdcalc.com/calc/3901/pediatric-early-warning-score-pews)
   - [Grading sheet](https://generalpracticemedicine.org/PEWSSheetApril2017Final2.pdf): what to do based on PEWS Score
 
+- [Pediatric Asthma Severity Score (PASS) for Asthma Exacerbation Severity](https://www.mdcalc.com/calc/3383/pediatric-asthma-severity-score-pass-asthma-exacerbation-severity)
+
 - [PRAM Score for Asthma](https://www.mdcalc.com/calc/3384/pediatric-respiratory-assessment-measure-pram-asthma-exacerbation-severity)
 
 - [Respiratory Score for Asthma](https://www.mdcalc.com/calc/10236/respiratory-score-asthma-liu-et-al)
@@ -281,6 +283,8 @@ output:
 - [Neonatal Abstinence Score](https://www.mdcalc.com/calc/10048/modified-finnegan-neonatal-abstinence-score-nas)
 
 - [APGAR Score](https://www.mdcalc.com/calc/23/apgar-score)
+
+- [Westley Croup Score](https://www.mdcalc.com/calc/677/westley-croup-score)
 
 # Apps
 
