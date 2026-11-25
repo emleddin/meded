@@ -79,6 +79,7 @@ AIS,Adenocarcinoma In Situ
 AIS,Androgen Insensitivity Syndrome
 AITFL,Anterior Inferior Tibiofibular Ligament
 ALADP,delta-aminolevulinic dehydratase
+ALC,Absolute Lymphocyte Count
 ALCAPA,Anomalous Left Coronary Artery from the Pulmonary Artery
 ALCL,Anaplastic Large Cell Lymphoma
 ALH,Atypical Lobular Hyperplasia
@@ -174,6 +175,7 @@ BCx,Blood Culture
 BDNF,Brain-Derived Neurotrophic Factor
 BECTS,Benign Rolandic Epilepsy with Centrotemporal Spikes
 BED,Binge Eating Disorder
+BEP,"Bleomycin, Etoposide and cisPlatin"
 BEP,Brief Eclectic Psychotherapy
 BESD,"Behavioral, Emotional, and Social Difficulties"
 BFCRS,Bush-Francis Catatonia Rating Scale
@@ -393,6 +395,7 @@ DCD,Donation after Cardiac Death
 DCDA,Di-Chorionic Di-Amniotic
 DCM,Dilated Cardiomyopathy
 DDAVP,Desmopressin (1-desamino-8-D-arginine vasopressin)
+DDH,Developmental Dysplasia of the Hip
 DDI,Drug-Drug Interaction
 DDK,Dysdiadochokinesia
 DDx,Differential Diagnosis
@@ -453,6 +456,7 @@ DQ,Developmental Quotient
 DR,Delayed Release
 DRE,Digital Rectal Exam
 DRG,Dorsal Root Ganglion (aka PRG)
+DRUJ,Distal Radial Ulnar Joint
 DSA,Diagnostic Cerebral Angiography
 DSD,Disorders of Sex Development
 DSM,Diagnostic and Statistical Manual of Mental Disorders
@@ -570,6 +574,7 @@ FESS,Functional Endoscopic Sinus Surgery
 FETO,Fetoscopic Endoluminal Tracheal Occlusion
 FEV1,Forced Expiratory Volume in 1 second
 FFA,Free Fatty Acids
+FFL,Flexible Fiberoptic Laryngoscopy
 FGF,Fibroblast Growth Factor
 FGID,Functional Gastrointestinal Disorder
 FH,Family History
@@ -587,6 +592,7 @@ FND,Focal Neuro Deficits
 FND,Functional Neurologic Disorder
 FNSD,Functional Neurological Symptom Disorder
 FOB,Father of Baby
+FOOSH,Fall On OutStretched Hand
 FPG,Fasting Plasma Glucose
 FPIES,Food Protein-Induced Enterocolitis Syndrome
 FPS,Faces Pain Scale
@@ -753,6 +759,7 @@ ICA,Islet Cell Antibody
 ICC,Intermediate Care Center
 ICD,Implantable Cardioverter Defibrillator
 ICF,Intracellular fluid
+ICG,IndoCyanine Green
 ICH,Intracerebral Hemorrhage
 ICP,Intensive Care Pediatrics
 ICP,IntraCranial Pressure
@@ -969,12 +976,14 @@ mPAS,modified Pediatric Appendicitis Score
 MPH,Mid-Parental Height
 MPO,myeloperoxidase
 MPV,Mean Platelet Volume
+MRA,Magnetic Resonance Angiogram
 MRBP,Moderate Range Blood Pressure
 MRE,Magnetic Resonance Enterography
 MRG,"Murmurs, Rubs, or Gallops"
 MRI,Magnetic Resonance Imaging
 MRN,Medical Record Number 
 MRSA,Methicillin-Resistant Staphylococcus aureus
+MRV,Magnetic Resonance Venogram
 MS,Morphine Sulfate
 MS,Multiple Sclerosis
 MS MAID,"Machine, Suction, Monitors, Airway, IV, Drugs"
@@ -1038,6 +1047,7 @@ NICU,Neonatal Intensive Care Unit
 NIF,Negative Inspiratory Force
 NINJA,Nephrotoxic Injury Negated by Just in time Action
 NIPS,Neonatal Infant Pain Scale
+NIPT,Non-Invasive Prenatal Testing
 NIRS,Near Infrared Spectroscopy
 NKA,No Known Allergies
 NKDA,No Known Drug Allergies
@@ -1171,6 +1181,7 @@ PCL,Posterior Cruciate Ligament
 PCNL,PerCutaneous NephroLithotomy
 PCOS,Polycystic Ovary Syndrome
 PCP,Phencyclidine
+PCP,<i>Pneumocystis carinii</i> pneumonia (now PJP)
 PCP,Primary Care Provider
 PCR,Polymerase Chain Reaction
 pCSI,Proton CranioSpinal Irradiation
@@ -1230,6 +1241,7 @@ PIP,Proximal Interphalangeal
 PITFL,Posterior Inferior Tibiofibular Ligament
 PIV,ParaInfluenza Virus
 PIV,Peripheral IV
+PJP,<i>Pneumocystis jirovecii</i> pneumonia (previously PCP)
 PK,Pharmacokinetics
 PKA,Protein Kinase A
 PKC,Protein Kinase C
@@ -1541,6 +1553,7 @@ TAG,Triacylglycerol
 TAP,Transversus Abdominis Plane
 TAPS,Twin Anemia Polycythemia Sequence
 TAPVR,Total Anomalous Pulmonary Venous Return
+TAVR,Transcatheter Aortic Valve Replacement
 TB,Tuberculosis
 TBG,Thyroid Binding Globulin
 TBI,Traumatic Brain Injury
@@ -1556,6 +1569,7 @@ TEF,TracheoEsophageal Fistula
 TEM,Transmission Electron Microscopy 
 TEN,Titanium Elastic Nail
 TEN-4-FACESp,"Torso, Ears, Neck, Frenulum, Angle of the jaw, Cheeks, Eyelids or Subconjunctivae, “4” represents infants 4 months and younger with any bruise, anywhere, and “p” represents the presence of patterned bruising (acronym for remembering bruising patterns more likely related to non-accidental trauma)"
+TENS,Transcutaneous Electrical Nerve Stimulation
 TER,Treatment Event Rate
 tEVS,Triggered Episodic Vestibular Syndrome
 TFG,Total Fluid Goal
@@ -1564,6 +1578,7 @@ TG,Triglyceride
 TGF,Transforming Growth Factor
 THAN,Transient HyperAmmonemia of the Newborn 
 TIBC,Total Iron Binding Capacity
+TICU,Transplant Intensive Care Unit
 TID,Three times a day
 TIL,Tumor-Infiltrating Lymphocyte
 TIVA,Total IntraVenous Anesthesia
@@ -1577,6 +1592,7 @@ TNA,Tonsillectomy + Adenoidectomy
 TNAP,Tissue Nonspecific Alkaline Phosphatase
 TNDM,Transient Neonatal Diabetes Mellitus
 TNF,Tumor Necrosis Factor
+TNK,Tenecteplase
 TOA,Tubo-Ovarian Abscess
 TORCH,"Toxoplasma, Other pathogens, Rubella, Cytomegalovirus, Herpes simplex virus"
 TP,Threshold Potential

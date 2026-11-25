@@ -57,6 +57,9 @@ output:
 - [Hyperbilirubinemia (35+ weeks), 2022 AAP](https://doi.org/10.1542/peds.2022-058859)
   - [TcB vs TSB Recheck](https://publications.aap.org/view-large/figure/13014131/PEDS_2022058859_f7.tif)
 
+- [Seizure Classificatiions, 2017 ILAE](https://www.ilae.org/guidelines/definition-and-classification/operational-classification-2017)
+  - [Classification Checklist (with definitions)](https://www.ilae.org/files/dmfile/ilae-2017-classification-of-seizure-types-checklist-form.pdf)
+
 - [Urinary Tract Infections, 2025 IDSA](https://www.idsociety.org/practice-guideline/complicated-urinary-tract-infections/)
 
 # Education
@@ -176,12 +179,15 @@ output:
 ## Laws
 
 - [Minor Consent and Confidentiality: A Compendium of State and Federal Laws | National Center for Youth Law](https://www.teenhealthlaw.org/state-federal-compendium)
+
 - [Seizure Driving Laws | Epilepsy Foundation](https://www.epilepsy.com/lifestyle/driving-and-transportation/laws)
 
 ## Medications
 
 - [Asthma and COPD Medicines Chart | American Lung Association](https://www.lung.org/getmedia/e6be8c67-a793-44a8-bd7c-96629e57c20d/respiratory-medication-chart)
+
 - [Comparison of Insulins (United States) | Pharmacist's Letter](https://pharmacist.therapeuticresearch.com/api/sitecore/FileGuard/GetFile?id=e6563cb7-3d0a-4e7f-9501-1d607255c6e5)
+
 - [MC3 Psychopharmacology Reference Cards](https://mc3michigan.org/pharma-cards/)
 
 ## Medical Technology
@@ -210,6 +216,12 @@ output:
     - Alfamino, Boost
 
   - [Nutricia Neocate Products](https://www.neocate.com/for-healthcare-professionals/)
+
+## Review of Systems
+
+- [Headache Red Flags](https://www.pedscases.com/headache-red-flags)
+
+- [Signs and Symptoms of Childhood Cancer: A Guide for Early Recognition](https://www.aafp.org/afp/2013/0801/p185)
 
 ## Videos
 
